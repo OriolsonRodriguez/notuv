@@ -1,0 +1,1501 @@
+,Organisation,Scan Date,Scan Point Name,Scan Reference,Supplier Name,Product,Expiration Date,Quantity
+0,Notuv - Denk Pharma,2021-06-29 19:15:52,DMO_1001000,1526,Red Cross,Metformin,2023-07-06 08:00:00,15
+1,Notuv - Denk Pharma,2021-06-30 11:22:53,DMO_1001000,2067,Red Cross,Metformin,2023-05-11 08:00:00,68
+2,Notuv - Denk Pharma,2021-06-30 12:30:22,DMO_1001000,3499,Red Cross,Metformin,2022-05-09 08:00:00,38
+3,Notuv - Denk Pharma,2021-06-30 14:10:15,DMO_1001000,1243,Bill Gates Foundation,Metformin,2021-11-15 08:00:00,1
+4,Notuv - Denk Pharma,2021-06-30 16:35:02,DMO_1001000,4486,Bill Gates Foundation,Metformin,2022-06-27 08:00:00,39
+5,Notuv - Denk Pharma,2021-06-30 16:55:14,DMO_1001000,4079,WHO,Metformin,2022-12-07 08:00:00,140
+6,Notuv - Denk Pharma,2021-07-01 14:26:16,DMO_1001000,1489,Red Cross,Metformin,2022-12-03 08:00:00,87
+7,Notuv - Denk Pharma,2021-07-01 17:35:44,DMO_1001000,2098,WHO,Metformin,2021-11-04 08:00:00,4
+8,Notuv - Denk Pharma,2021-07-02 05:50:21,DMO_1001000,3014,WHO,Metformin,2022-02-28 08:00:00,43
+9,Notuv - Denk Pharma,2021-07-02 06:34:25,DMO_1001000,3138,Bill Gates Foundation,Metformin,2023-05-10 08:00:00,114
+10,Notuv - Denk Pharma,2021-07-02 12:26:49,DMO_1001000,1824,WHO,Metformin,2023-04-17 08:00:00,147
+11,Notuv - Denk Pharma,2021-07-02 15:18:05,DMO_1001000,4722,Red Cross,Metformin,2022-12-30 08:00:00,76
+12,Notuv - Denk Pharma,2021-07-02 20:53:36,DMO_1001000,3191,Red Cross,Metformin,2022-11-01 08:00:00,26
+13,Notuv - Denk Pharma,2021-07-03 08:47:39,DMO_1001000,2515,WHO,Metformin,2022-11-16 08:00:00,94
+14,Notuv - Denk Pharma,2021-07-03 09:33:13,DMO_1001000,3849,Red Cross,Metformin,2022-04-25 08:00:00,70
+15,Notuv - Denk Pharma,2021-07-03 09:52:33,DMO_1001000,1299,WHO,Metformin,2022-03-29 08:00:00,133
+16,Notuv - Denk Pharma,2021-07-03 16:38:21,DMO_1001000,1141,WHO,Metformin,2022-05-09 08:00:00,80
+17,Notuv - Denk Pharma,2021-07-03 19:16:02,DMO_1001000,2449,Red Cross,Metformin,2022-08-26 08:00:00,61
+18,Notuv - Denk Pharma,2021-07-03 20:08:21,DMO_1001000,3056,Bill Gates Foundation,Metformin,2023-06-05 08:00:00,106
+19,Notuv - Denk Pharma,2021-07-04 00:32:13,DMO_1001000,2192,Red Cross,Metformin,2023-02-06 08:00:00,32
+20,Notuv - Denk Pharma,2021-07-04 12:29:06,DMO_1001000,4072,Red Cross,Metformin,2022-06-24 08:00:00,91
+21,Notuv - Denk Pharma,2021-07-04 13:01:12,DMO_1001000,3298,Bill Gates Foundation,Metformin,2022-08-09 08:00:00,38
+22,Notuv - Denk Pharma,2021-07-04 19:00:57,DMO_1001000,2225,WHO,Metformin,2023-05-05 08:00:00,83
+23,Notuv - Denk Pharma,2021-07-04 22:51:21,DMO_1001000,4775,Red Cross,Metformin,2022-08-15 08:00:00,167
+24,Notuv - Denk Pharma,2021-07-05 00:35:48,DMO_1001000,4970,Bill Gates Foundation,Metformin,2022-12-31 08:00:00,27
+25,Notuv - Denk Pharma,2021-07-05 01:43:00,DMO_1001000,3036,WHO,Metformin,2022-03-10 08:00:00,109
+26,Notuv - Denk Pharma,2021-07-05 05:18:23,DMO_1001000,1096,Red Cross,Metformin,2023-03-31 08:00:00,98
+27,Notuv - Denk Pharma,2021-07-05 12:17:23,DMO_1001000,2554,Bill Gates Foundation,Metformin,2022-06-29 08:00:00,34
+28,Notuv - Denk Pharma,2021-07-05 14:58:38,DMO_1001000,2681,Red Cross,Metformin,2022-03-31 08:00:00,45
+29,Notuv - Denk Pharma,2021-07-05 15:37:27,DMO_1001000,2451,Bill Gates Foundation,Metformin,2023-03-10 08:00:00,120
+30,Notuv - Denk Pharma,2021-07-05 23:36:00,DMO_1001000,3075,WHO,Metformin,2022-07-11 08:00:00,58
+31,Notuv - Denk Pharma,2021-07-05 23:51:55,DMO_1001000,1522,Bill Gates Foundation,Metformin,2023-06-30 08:00:00,1
+32,Notuv - Denk Pharma,2021-07-06 18:58:53,DMO_1001000,1952,Red Cross,Metformin,2021-12-02 08:00:00,31
+33,Notuv - Denk Pharma,2021-07-07 00:22:06,DMO_1001000,4109,WHO,Metformin,2023-01-26 08:00:00,118
+34,Notuv - Denk Pharma,2021-07-07 00:56:54,DMO_1001000,3904,WHO,Metformin,2023-06-03 08:00:00,64
+35,Notuv - Denk Pharma,2021-07-07 10:18:15,DMO_1001000,3630,WHO,Metformin,2023-03-25 08:00:00,38
+36,Notuv - Denk Pharma,2021-07-07 11:49:41,DMO_1001000,4399,Red Cross,Metformin,2023-04-17 08:00:00,32
+37,Notuv - Denk Pharma,2021-07-07 13:44:53,DMO_1001000,2527,Red Cross,Metformin,2021-12-06 08:00:00,1
+38,Notuv - Denk Pharma,2021-07-08 00:31:17,DMO_1001000,1669,WHO,Metformin,2023-02-28 08:00:00,59
+39,Notuv - Denk Pharma,2021-07-08 05:42:43,DMO_1001000,2827,Red Cross,Metformin,2023-01-02 08:00:00,1
+40,Notuv - Denk Pharma,2021-07-08 11:21:26,DMO_1001000,3432,Red Cross,Metformin,2022-02-11 08:00:00,1
+41,Notuv - Denk Pharma,2021-07-08 11:40:01,DMO_1001000,4166,Bill Gates Foundation,Metformin,2022-12-01 08:00:00,1
+42,Notuv - Denk Pharma,2021-07-08 20:48:59,DMO_1001000,1307,WHO,Metformin,2022-07-13 08:00:00,52
+43,Notuv - Denk Pharma,2021-07-09 00:43:54,DMO_1001000,1954,Bill Gates Foundation,Metformin,2022-02-01 08:00:00,1
+44,Notuv - Denk Pharma,2021-07-09 19:40:16,DMO_1001000,1916,Bill Gates Foundation,Metformin,2022-04-21 08:00:00,1
+45,Notuv - Denk Pharma,2021-07-09 23:27:15,DMO_1001000,4711,Red Cross,Metformin,2022-07-30 08:00:00,69
+46,Notuv - Denk Pharma,2021-07-10 06:06:22,DMO_1001000,1307,Bill Gates Foundation,Metformin,2022-03-22 08:00:00,1
+47,Notuv - Denk Pharma,2021-07-10 08:13:48,DMO_1001000,1512,Red Cross,Metformin,2023-04-12 08:00:00,96
+48,Notuv - Denk Pharma,2021-07-10 11:40:13,DMO_1001000,2040,Bill Gates Foundation,Metformin,2021-11-16 08:00:00,76
+49,Notuv - Denk Pharma,2021-07-10 15:57:56,DMO_1001000,4778,Bill Gates Foundation,Metformin,2023-07-22 08:00:00,60
+50,Notuv - Denk Pharma,2021-07-10 17:42:05,DMO_1001000,4120,WHO,Metformin,2022-06-28 08:00:00,48
+51,Notuv - Denk Pharma,2021-07-10 18:27:15,DMO_1001000,2574,WHO,Metformin,2022-02-25 08:00:00,53
+52,Notuv - Denk Pharma,2021-07-11 02:50:12,DMO_1001000,4948,WHO,Metformin,2022-11-26 08:00:00,14
+53,Notuv - Denk Pharma,2021-07-11 15:25:55,DMO_1001000,4645,Red Cross,Metformin,2022-05-10 08:00:00,55
+54,Notuv - Denk Pharma,2021-07-11 21:28:40,DMO_1001000,1911,Bill Gates Foundation,Metformin,2023-06-11 08:00:00,64
+55,Notuv - Denk Pharma,2021-07-12 00:04:26,DMO_1001000,4890,Red Cross,Metformin,2021-12-03 08:00:00,43
+56,Notuv - Denk Pharma,2021-07-12 05:57:48,DMO_1001000,4834,Red Cross,Metformin,2023-01-16 08:00:00,14
+57,Notuv - Denk Pharma,2021-07-12 08:51:14,DMO_1001000,1608,Bill Gates Foundation,Metformin,2023-07-07 08:00:00,142
+58,Notuv - Denk Pharma,2021-07-12 09:52:52,DMO_1001000,3761,WHO,Metformin,2022-10-08 08:00:00,96
+59,Notuv - Denk Pharma,2021-07-12 10:57:05,DMO_1001000,3581,Red Cross,Metformin,2022-07-26 08:00:00,133
+60,Notuv - Denk Pharma,2021-07-12 12:13:37,DMO_1001000,1507,WHO,Metformin,2023-02-26 08:00:00,36
+61,Notuv - Denk Pharma,2021-07-12 23:59:32,DMO_1001000,3020,WHO,Metformin,2022-08-20 08:00:00,92
+62,Notuv - Denk Pharma,2021-07-13 05:59:56,DMO_1001000,3024,Bill Gates Foundation,Metformin,2022-10-12 08:00:00,84
+63,Notuv - Denk Pharma,2021-07-13 15:53:40,DMO_1001000,1071,Red Cross,Metformin,2021-12-25 08:00:00,1
+64,Notuv - Denk Pharma,2021-07-13 20:00:21,DMO_1001000,2424,Bill Gates Foundation,Metformin,2023-01-19 08:00:00,55
+65,Notuv - Denk Pharma,2021-07-14 01:15:56,DMO_1001000,2581,WHO,Metformin,2022-03-28 08:00:00,128
+66,Notuv - Denk Pharma,2021-07-14 01:16:44,DMO_1001000,2820,WHO,Metformin,2021-12-27 08:00:00,89
+67,Notuv - Denk Pharma,2021-07-14 02:21:02,DMO_1001000,4401,Bill Gates Foundation,Metformin,2022-06-29 08:00:00,145
+68,Notuv - Denk Pharma,2021-07-14 06:15:28,DMO_1001000,1386,WHO,Metformin,2022-09-08 08:00:00,1
+69,Notuv - Denk Pharma,2021-07-14 17:29:53,DMO_1001000,3156,Red Cross,Metformin,2023-03-14 08:00:00,2
+70,Notuv - Denk Pharma,2021-07-14 17:32:13,DMO_1001000,1873,Red Cross,Metformin,2022-06-19 08:00:00,57
+71,Notuv - Denk Pharma,2021-07-14 22:26:02,DMO_1001000,2795,Bill Gates Foundation,Metformin,2022-09-04 08:00:00,68
+72,Notuv - Denk Pharma,2021-07-15 03:27:03,DMO_1001000,1820,Red Cross,Metformin,2022-09-08 08:00:00,142
+73,Notuv - Denk Pharma,2021-07-15 20:03:26,DMO_1001000,3170,Red Cross,Metformin,2023-02-14 08:00:00,1
+74,Notuv - Denk Pharma,2021-07-15 21:26:46,DMO_1001000,1146,WHO,Metformin,2023-06-08 08:00:00,138
+75,Notuv - Denk Pharma,2021-07-16 10:59:15,DMO_1001000,4210,Red Cross,Metformin,2022-03-15 08:00:00,77
+76,Notuv - Denk Pharma,2021-07-17 04:54:36,DMO_1001000,4808,Red Cross,Metformin,2023-01-28 08:00:00,1
+77,Notuv - Denk Pharma,2021-07-17 22:55:52,DMO_1001000,1702,WHO,Metformin,2022-04-03 08:00:00,58
+78,Notuv - Denk Pharma,2021-07-18 03:18:49,DMO_1001000,1709,Red Cross,Metformin,2021-12-10 08:00:00,93
+79,Notuv - Denk Pharma,2021-07-18 04:23:33,DMO_1001000,4857,WHO,Metformin,2023-04-16 08:00:00,18
+80,Notuv - Denk Pharma,2021-07-18 20:39:50,DMO_1001000,2511,WHO,Metformin,2021-11-12 08:00:00,45
+81,Notuv - Denk Pharma,2021-07-18 21:59:54,DMO_1001000,2671,Bill Gates Foundation,Metformin,2022-10-18 08:00:00,50
+82,Notuv - Denk Pharma,2021-07-19 00:35:41,DMO_1001000,2686,Red Cross,Metformin,2022-02-17 08:00:00,28
+83,Notuv - Denk Pharma,2021-07-19 01:11:25,DMO_1001000,1282,Bill Gates Foundation,Metformin,2023-03-09 08:00:00,104
+84,Notuv - Denk Pharma,2021-07-19 05:11:13,DMO_1001000,2363,Bill Gates Foundation,Metformin,2022-05-17 08:00:00,1
+85,Notuv - Denk Pharma,2021-07-19 09:04:17,DMO_1001000,4479,Bill Gates Foundation,Metformin,2022-04-19 08:00:00,141
+86,Notuv - Denk Pharma,2021-07-19 15:22:46,DMO_1001000,4628,WHO,Metformin,2022-07-24 08:00:00,1
+87,Notuv - Denk Pharma,2021-07-20 03:54:14,DMO_1001000,1602,WHO,Metformin,2023-05-21 08:00:00,94
+88,Notuv - Denk Pharma,2021-07-20 04:52:16,DMO_1001000,2073,Bill Gates Foundation,Metformin,2023-06-09 08:00:00,1
+89,Notuv - Denk Pharma,2021-07-20 06:33:44,DMO_1001000,4581,Bill Gates Foundation,Metformin,2023-02-21 08:00:00,35
+90,Notuv - Denk Pharma,2021-07-20 13:18:48,DMO_1001000,3628,WHO,Metformin,2022-10-12 08:00:00,63
+91,Notuv - Denk Pharma,2021-07-21 05:57:56,DMO_1001000,1837,Red Cross,Metformin,2023-01-09 08:00:00,40
+92,Notuv - Denk Pharma,2021-07-21 08:58:10,DMO_1001000,3144,Red Cross,Metformin,2022-04-18 08:00:00,27
+93,Notuv - Denk Pharma,2021-07-21 13:29:53,DMO_1001000,2453,Bill Gates Foundation,Metformin,2022-09-14 08:00:00,6
+94,Notuv - Denk Pharma,2021-07-21 16:14:32,DMO_1001000,4459,Bill Gates Foundation,Metformin,2022-07-03 08:00:00,39
+95,Notuv - Denk Pharma,2021-07-21 20:40:37,DMO_1001000,4219,WHO,Metformin,2022-07-03 08:00:00,3
+96,Notuv - Denk Pharma,2021-07-22 01:30:03,DMO_1001000,1856,WHO,Metformin,2022-02-10 08:00:00,66
+97,Notuv - Denk Pharma,2021-07-22 09:13:22,DMO_1001000,3339,Red Cross,Metformin,2022-04-26 08:00:00,149
+98,Notuv - Denk Pharma,2021-07-22 10:04:05,DMO_1001000,1074,WHO,Metformin,2022-04-04 08:00:00,106
+99,Notuv - Denk Pharma,2021-07-22 14:50:50,DMO_1001000,2795,WHO,Metformin,2023-05-08 08:00:00,59
+100,Notuv - Denk Pharma,2021-07-23 06:37:43,DMO_1001000,3939,Bill Gates Foundation,Metformin,2022-12-23 08:00:00,25
+101,Notuv - Denk Pharma,2021-07-23 09:35:33,DMO_1001000,2113,Bill Gates Foundation,Metformin,2023-03-21 08:00:00,53
+102,Notuv - Denk Pharma,2021-07-23 11:40:40,DMO_1001000,4555,Red Cross,Metformin,2022-01-18 08:00:00,28
+103,Notuv - Denk Pharma,2021-07-23 13:21:02,DMO_1001000,2475,Bill Gates Foundation,Metformin,2022-02-05 08:00:00,66
+104,Notuv - Denk Pharma,2021-07-23 21:00:28,DMO_1001000,4452,Bill Gates Foundation,Metformin,2022-01-21 08:00:00,24
+105,Notuv - Denk Pharma,2021-07-23 23:25:03,DMO_1001000,4309,WHO,Metformin,2022-11-09 08:00:00,119
+106,Notuv - Denk Pharma,2021-07-24 03:34:33,DMO_1001000,2717,WHO,Metformin,2022-06-23 08:00:00,65
+107,Notuv - Denk Pharma,2021-07-24 07:00:21,DMO_1001000,4351,Bill Gates Foundation,Metformin,2022-03-14 08:00:00,1
+108,Notuv - Denk Pharma,2021-07-24 09:32:08,DMO_1001000,2362,Bill Gates Foundation,Metformin,2023-03-06 08:00:00,91
+109,Notuv - Denk Pharma,2021-07-24 10:13:18,DMO_1001000,1981,WHO,Metformin,2023-01-20 08:00:00,135
+110,Notuv - Denk Pharma,2021-07-24 14:44:58,DMO_1001000,4872,Red Cross,Metformin,2022-03-16 08:00:00,1
+111,Notuv - Denk Pharma,2021-07-24 16:31:45,DMO_1001000,1021,Bill Gates Foundation,Metformin,2023-05-08 08:00:00,129
+112,Notuv - Denk Pharma,2021-07-24 23:08:08,DMO_1001000,3185,Red Cross,Metformin,2023-07-18 08:00:00,40
+113,Notuv - Denk Pharma,2021-07-25 05:23:00,DMO_1001000,3870,Red Cross,Metformin,2023-02-04 08:00:00,113
+114,Notuv - Denk Pharma,2021-07-25 06:38:17,DMO_1001000,2669,WHO,Metformin,2022-01-13 08:00:00,138
+115,Notuv - Denk Pharma,2021-07-25 07:36:10,DMO_1001000,3971,Red Cross,Metformin,2023-01-29 08:00:00,6
+116,Notuv - Denk Pharma,2021-07-25 12:50:42,DMO_1001000,2547,Bill Gates Foundation,Metformin,2022-02-25 08:00:00,108
+117,Notuv - Denk Pharma,2021-07-25 19:23:16,DMO_1001000,3758,Red Cross,Metformin,2022-03-05 08:00:00,1
+118,Notuv - Denk Pharma,2021-07-25 19:45:53,DMO_1001000,4624,WHO,Metformin,2022-03-19 08:00:00,1
+119,Notuv - Denk Pharma,2021-07-25 23:53:46,DMO_1001000,4503,Red Cross,Metformin,2022-09-08 08:00:00,1
+120,Notuv - Denk Pharma,2021-07-26 01:01:37,DMO_1001000,1321,WHO,Metformin,2022-07-12 08:00:00,1
+121,Notuv - Denk Pharma,2021-07-26 17:15:15,DMO_1001000,1014,Red Cross,Metformin,2022-10-17 08:00:00,61
+122,Notuv - Denk Pharma,2021-07-26 21:02:16,DMO_1001000,4009,WHO,Metformin,2022-05-02 08:00:00,1
+123,Notuv - Denk Pharma,2021-07-26 21:12:58,DMO_1001000,4661,WHO,Metformin,2023-02-19 08:00:00,197
+124,Notuv - Denk Pharma,2021-07-27 05:20:39,DMO_1001000,1960,Red Cross,Metformin,2023-06-09 08:00:00,61
+125,Notuv - Denk Pharma,2021-07-27 12:40:56,DMO_1001000,2604,Bill Gates Foundation,Metformin,2023-04-22 08:00:00,33
+126,Notuv - Denk Pharma,2021-07-27 22:10:11,DMO_1001000,2437,Red Cross,Metformin,2023-05-14 08:00:00,67
+127,Notuv - Denk Pharma,2021-07-28 02:09:03,DMO_1001000,1372,Red Cross,Metformin,2023-03-23 08:00:00,110
+128,Notuv - Denk Pharma,2021-07-28 05:32:04,DMO_1001000,3756,Bill Gates Foundation,Metformin,2022-08-16 08:00:00,97
+129,Notuv - Denk Pharma,2021-07-28 06:11:11,DMO_1001000,4338,WHO,Metformin,2022-04-25 08:00:00,60
+130,Notuv - Denk Pharma,2021-07-28 12:55:02,DMO_1001000,3858,Red Cross,Metformin,2022-09-12 08:00:00,96
+131,Notuv - Denk Pharma,2021-07-28 14:08:32,DMO_1001000,1092,Bill Gates Foundation,Metformin,2022-10-14 08:00:00,35
+132,Notuv - Denk Pharma,2021-07-28 15:07:32,DMO_1001000,2509,WHO,Metformin,2023-04-20 08:00:00,62
+133,Notuv - Denk Pharma,2021-07-28 15:30:21,DMO_1001000,1365,WHO,Metformin,2023-07-19 08:00:00,77
+134,Notuv - Denk Pharma,2021-07-29 17:30:00,DMO_1001000,2475,Bill Gates Foundation,Metformin,2023-01-22 08:00:00,194
+135,Notuv - Denk Pharma,2021-07-29 18:13:39,DMO_1001000,3207,Red Cross,Metformin,2021-11-09 08:00:00,59
+136,Notuv - Denk Pharma,2021-07-29 19:06:53,DMO_1001000,1718,WHO,Metformin,2022-04-04 08:00:00,1
+137,Notuv - Denk Pharma,2021-07-30 01:16:04,DMO_1001000,1362,WHO,Metformin,2022-12-02 08:00:00,105
+138,Notuv - Denk Pharma,2021-07-30 18:05:58,DMO_1001000,3978,WHO,Metformin,2022-06-30 08:00:00,159
+139,Notuv - Denk Pharma,2021-07-30 20:19:10,DMO_1001000,1423,WHO,Metformin,2021-12-14 08:00:00,79
+140,Notuv - Denk Pharma,2021-07-30 21:13:01,DMO_1001000,2727,WHO,Metformin,2022-12-31 08:00:00,1
+141,Notuv - Denk Pharma,2021-07-31 00:37:34,DMO_1001000,1188,Red Cross,Metformin,2022-04-10 08:00:00,1
+142,Notuv - Denk Pharma,2021-07-31 02:28:10,DMO_1001000,4904,WHO,Metformin,2021-12-14 08:00:00,50
+143,Notuv - Denk Pharma,2021-07-31 13:54:17,DMO_1001000,3003,Bill Gates Foundation,Metformin,2023-07-11 08:00:00,32
+144,Notuv - Denk Pharma,2021-07-31 21:27:55,DMO_1001000,4068,Bill Gates Foundation,Metformin,2022-12-17 08:00:00,1
+145,Notuv - Denk Pharma,2021-08-01 02:32:30,DMO_1001000,1656,Red Cross,Metformin,2022-01-18 08:00:00,51
+146,Notuv - Denk Pharma,2021-08-01 08:07:20,DMO_1001000,1975,Bill Gates Foundation,Metformin,2022-10-09 08:00:00,101
+147,Notuv - Denk Pharma,2021-08-01 12:10:47,DMO_1001000,4828,Red Cross,Metformin,2022-07-28 08:00:00,17
+148,Notuv - Denk Pharma,2021-08-01 16:04:39,DMO_1001000,2458,WHO,Metformin,2023-07-13 08:00:00,46
+149,Notuv - Denk Pharma,2021-08-01 18:12:35,DMO_1001000,2126,Bill Gates Foundation,Metformin,2022-10-16 08:00:00,1
+150,Notuv - Denk Pharma,2021-08-01 22:45:13,DMO_1001000,4216,Bill Gates Foundation,Metformin,2022-03-27 08:00:00,1
+151,Notuv - Denk Pharma,2021-08-02 02:52:42,DMO_1001000,3954,Bill Gates Foundation,Metformin,2022-08-09 08:00:00,1
+152,Notuv - Denk Pharma,2021-08-02 02:59:19,DMO_1001000,4195,Bill Gates Foundation,Metformin,2023-05-30 08:00:00,113
+153,Notuv - Denk Pharma,2021-08-02 22:54:55,DMO_1001000,4359,Bill Gates Foundation,Metformin,2023-01-07 08:00:00,81
+154,Notuv - Denk Pharma,2021-08-03 02:30:19,DMO_1001000,3075,Red Cross,Metformin,2022-10-14 08:00:00,53
+155,Notuv - Denk Pharma,2021-08-03 03:41:12,DMO_1001000,3159,WHO,Metformin,2022-05-13 08:00:00,116
+156,Notuv - Denk Pharma,2021-08-03 06:09:20,DMO_1001000,1702,WHO,Metformin,2023-04-20 08:00:00,21
+157,Notuv - Denk Pharma,2021-08-03 10:58:47,DMO_1001000,4674,WHO,Metformin,2022-07-03 08:00:00,72
+158,Notuv - Denk Pharma,2021-08-03 14:56:44,DMO_1001000,1142,Red Cross,Metformin,2022-03-15 08:00:00,130
+159,Notuv - Denk Pharma,2021-08-03 20:57:45,DMO_1001000,2752,Red Cross,Metformin,2022-04-26 08:00:00,23
+160,Notuv - Denk Pharma,2021-08-04 05:04:11,DMO_1001000,1817,WHO,Metformin,2023-03-30 08:00:00,72
+161,Notuv - Denk Pharma,2021-08-04 22:47:57,DMO_1001000,1271,Bill Gates Foundation,Metformin,2023-05-10 08:00:00,45
+162,Notuv - Denk Pharma,2021-08-05 04:40:30,DMO_1001000,2517,WHO,Metformin,2022-04-27 08:00:00,103
+163,Notuv - Denk Pharma,2021-08-05 19:59:42,DMO_1001000,4573,WHO,Metformin,2023-04-15 08:00:00,30
+164,Notuv - Denk Pharma,2021-08-06 02:57:42,DMO_1001000,2909,WHO,Metformin,2022-03-10 08:00:00,1
+165,Notuv - Denk Pharma,2021-08-06 06:46:33,DMO_1001000,2575,Bill Gates Foundation,Metformin,2023-03-13 08:00:00,72
+166,Notuv - Denk Pharma,2021-08-06 19:30:49,DMO_1001000,3284,WHO,Metformin,2023-03-09 08:00:00,21
+167,Notuv - Denk Pharma,2021-08-07 01:02:23,DMO_1001000,4294,Bill Gates Foundation,Metformin,2023-03-29 08:00:00,85
+168,Notuv - Denk Pharma,2021-08-07 01:43:25,DMO_1001000,4728,Red Cross,Metformin,2023-01-13 08:00:00,1
+169,Notuv - Denk Pharma,2021-08-07 23:44:51,DMO_1001000,3680,Red Cross,Metformin,2022-12-15 08:00:00,81
+170,Notuv - Denk Pharma,2021-08-08 05:34:36,DMO_1001000,3820,Red Cross,Metformin,2022-08-17 08:00:00,76
+171,Notuv - Denk Pharma,2021-08-08 06:55:34,DMO_1001000,2217,WHO,Metformin,2022-04-16 08:00:00,1
+172,Notuv - Denk Pharma,2021-08-08 08:02:24,DMO_1001000,4785,Bill Gates Foundation,Metformin,2022-09-04 08:00:00,1
+173,Notuv - Denk Pharma,2021-08-08 16:41:57,DMO_1001000,3843,Red Cross,Metformin,2022-06-13 08:00:00,63
+174,Notuv - Denk Pharma,2021-08-09 06:12:21,DMO_1001000,3256,WHO,Metformin,2023-06-23 08:00:00,109
+175,Notuv - Denk Pharma,2021-08-09 07:47:38,DMO_1001000,1482,Bill Gates Foundation,Metformin,2021-11-08 08:00:00,11
+176,Notuv - Denk Pharma,2021-08-09 09:42:08,DMO_1001000,1323,Red Cross,Metformin,2023-07-17 08:00:00,184
+177,Notuv - Denk Pharma,2021-08-09 16:08:02,DMO_1001000,2100,Bill Gates Foundation,Metformin,2022-11-25 08:00:00,85
+178,Notuv - Denk Pharma,2021-08-09 18:25:13,DMO_1001000,3184,WHO,Metformin,2022-12-13 08:00:00,9
+179,Notuv - Denk Pharma,2021-08-09 19:34:06,DMO_1001000,4752,Bill Gates Foundation,Metformin,2022-03-31 08:00:00,48
+180,Notuv - Denk Pharma,2021-08-09 21:16:20,DMO_1001000,4379,WHO,Metformin,2022-10-06 08:00:00,26
+181,Notuv - Denk Pharma,2021-08-10 01:59:11,DMO_1001000,3901,Bill Gates Foundation,Metformin,2022-08-20 08:00:00,129
+182,Notuv - Denk Pharma,2021-08-10 06:39:19,DMO_1001000,2326,WHO,Metformin,2023-05-05 08:00:00,29
+183,Notuv - Denk Pharma,2021-08-10 15:58:51,DMO_1001000,4677,Bill Gates Foundation,Metformin,2022-01-25 08:00:00,192
+184,Notuv - Denk Pharma,2021-08-10 17:30:46,DMO_1001000,2504,Red Cross,Metformin,2022-03-25 08:00:00,1
+185,Notuv - Denk Pharma,2021-08-11 10:44:42,DMO_1001000,3711,Bill Gates Foundation,Metformin,2023-04-01 08:00:00,49
+186,Notuv - Denk Pharma,2021-08-11 18:22:12,DMO_1001000,1787,WHO,Metformin,2023-06-09 08:00:00,63
+187,Notuv - Denk Pharma,2021-08-12 07:24:50,DMO_1001000,3014,Bill Gates Foundation,Metformin,2021-12-17 08:00:00,103
+188,Notuv - Denk Pharma,2021-08-12 10:07:52,DMO_1001000,2148,Red Cross,Metformin,2021-11-16 08:00:00,73
+189,Notuv - Denk Pharma,2021-08-13 01:24:18,DMO_1001000,1515,WHO,Metformin,2022-02-02 08:00:00,99
+190,Notuv - Denk Pharma,2021-08-14 02:34:37,DMO_1001000,4760,Bill Gates Foundation,Metformin,2022-09-08 08:00:00,27
+191,Notuv - Denk Pharma,2021-08-14 07:07:02,DMO_1001000,3000,Red Cross,Metformin,2022-11-25 08:00:00,142
+192,Notuv - Denk Pharma,2021-08-14 07:29:21,DMO_1001000,4307,WHO,Metformin,2023-04-19 08:00:00,46
+193,Notuv - Denk Pharma,2021-08-14 07:51:52,DMO_1001000,4171,Bill Gates Foundation,Metformin,2021-11-23 08:00:00,114
+194,Notuv - Denk Pharma,2021-08-14 09:30:36,DMO_1001000,1107,Bill Gates Foundation,Metformin,2022-07-11 08:00:00,1
+195,Notuv - Denk Pharma,2021-08-14 14:32:41,DMO_1001000,1569,WHO,Metformin,2021-12-30 08:00:00,1
+196,Notuv - Denk Pharma,2021-08-16 09:45:27,DMO_1001000,1375,WHO,Metformin,2022-10-10 08:00:00,93
+197,Notuv - Denk Pharma,2021-08-16 12:40:01,DMO_1001000,3988,Bill Gates Foundation,Metformin,2022-12-31 08:00:00,30
+198,Notuv - Denk Pharma,2021-08-16 21:56:23,DMO_1001000,4667,Bill Gates Foundation,Metformin,2022-05-21 08:00:00,42
+199,Notuv - Denk Pharma,2021-08-16 22:16:30,DMO_1001000,1805,Red Cross,Metformin,2022-08-24 08:00:00,165
+200,Notuv - Denk Pharma,2021-08-17 09:33:38,DMO_1001000,1049,Bill Gates Foundation,Metformin,2022-02-11 08:00:00,252
+201,Notuv - Denk Pharma,2021-08-17 10:11:52,DMO_1001000,3306,WHO,Metformin,2022-04-13 08:00:00,9
+202,Notuv - Denk Pharma,2021-08-17 12:11:23,DMO_1001000,3249,Red Cross,Metformin,2021-12-05 08:00:00,1
+203,Notuv - Denk Pharma,2021-08-17 14:38:07,DMO_1001000,3474,WHO,Metformin,2022-07-19 08:00:00,1
+204,Notuv - Denk Pharma,2021-08-17 20:29:43,DMO_1001000,3319,WHO,Metformin,2022-08-05 08:00:00,73
+205,Notuv - Denk Pharma,2021-08-17 23:30:37,DMO_1001000,1251,Red Cross,Metformin,2022-02-07 08:00:00,29
+206,Notuv - Denk Pharma,2021-08-18 03:29:05,DMO_1001000,3088,Bill Gates Foundation,Metformin,2022-07-27 08:00:00,46
+207,Notuv - Denk Pharma,2021-08-18 09:28:05,DMO_1001000,4662,WHO,Metformin,2023-06-15 08:00:00,70
+208,Notuv - Denk Pharma,2021-08-18 23:14:42,DMO_1001000,4617,WHO,Metformin,2022-06-28 08:00:00,57
+209,Notuv - Denk Pharma,2021-08-19 05:03:47,DMO_1001000,4730,Red Cross,Metformin,2023-07-14 08:00:00,95
+210,Notuv - Denk Pharma,2021-08-19 13:39:02,DMO_1001000,3484,Bill Gates Foundation,Metformin,2022-05-06 08:00:00,1
+211,Notuv - Denk Pharma,2021-08-19 16:56:45,DMO_1001000,3302,Red Cross,Metformin,2021-12-23 08:00:00,70
+212,Notuv - Denk Pharma,2021-08-19 23:07:47,DMO_1001000,3078,Red Cross,Metformin,2022-01-08 08:00:00,92
+213,Notuv - Denk Pharma,2021-08-20 01:20:41,DMO_1001000,2777,Red Cross,Metformin,2021-10-29 08:00:00,44
+214,Notuv - Denk Pharma,2021-08-20 02:52:42,DMO_1001000,4799,Red Cross,Metformin,2022-06-28 08:00:00,52
+215,Notuv - Denk Pharma,2021-08-21 08:13:48,DMO_1001000,4283,Red Cross,Metformin,2023-06-07 08:00:00,10
+216,Notuv - Denk Pharma,2021-08-21 19:12:37,DMO_1001000,4121,WHO,Metformin,2023-06-14 08:00:00,48
+217,Notuv - Denk Pharma,2021-08-21 23:53:22,DMO_1001000,4457,WHO,Metformin,2022-10-15 08:00:00,34
+218,Notuv - Denk Pharma,2021-08-22 08:01:28,DMO_1001000,3892,WHO,Metformin,2022-01-11 08:00:00,1
+219,Notuv - Denk Pharma,2021-08-22 18:14:37,DMO_1001000,4192,WHO,Metformin,2022-03-22 08:00:00,24
+220,Notuv - Denk Pharma,2021-08-22 23:42:46,DMO_1001000,1615,Bill Gates Foundation,Metformin,2022-11-14 08:00:00,1
+221,Notuv - Denk Pharma,2021-08-23 13:47:34,DMO_1001000,4409,Red Cross,Metformin,2022-06-06 08:00:00,261
+222,Notuv - Denk Pharma,2021-08-23 14:50:50,DMO_1001000,3970,Bill Gates Foundation,Metformin,2023-07-03 08:00:00,39
+223,Notuv - Denk Pharma,2021-08-24 03:43:45,DMO_1001000,4946,Bill Gates Foundation,Metformin,2022-12-09 08:00:00,76
+224,Notuv - Denk Pharma,2021-08-24 05:43:08,DMO_1001000,3506,WHO,Metformin,2022-05-17 08:00:00,1
+225,Notuv - Denk Pharma,2021-08-24 07:09:21,DMO_1001000,1446,WHO,Metformin,2022-05-10 08:00:00,60
+226,Notuv - Denk Pharma,2021-08-24 09:59:45,DMO_1001000,4774,Bill Gates Foundation,Metformin,2022-10-14 08:00:00,197
+227,Notuv - Denk Pharma,2021-08-24 18:08:26,DMO_1001000,1515,Bill Gates Foundation,Metformin,2021-11-04 08:00:00,1
+228,Notuv - Denk Pharma,2021-08-24 20:17:35,DMO_1001000,2357,WHO,Metformin,2021-12-24 08:00:00,11
+229,Notuv - Denk Pharma,2021-08-25 02:57:38,DMO_1001000,2648,Bill Gates Foundation,Metformin,2022-02-14 08:00:00,38
+230,Notuv - Denk Pharma,2021-08-25 10:04:06,DMO_1001000,1809,Bill Gates Foundation,Metformin,2023-06-14 08:00:00,114
+231,Notuv - Denk Pharma,2021-08-25 11:38:18,DMO_1001000,4121,Red Cross,Metformin,2023-06-13 08:00:00,13
+232,Notuv - Denk Pharma,2021-08-25 16:11:53,DMO_1001000,2381,Red Cross,Metformin,2023-04-24 08:00:00,64
+233,Notuv - Denk Pharma,2021-08-26 04:47:16,DMO_1001000,4517,Bill Gates Foundation,Metformin,2023-05-29 08:00:00,46
+234,Notuv - Denk Pharma,2021-08-26 10:53:50,DMO_1001000,1317,Red Cross,Metformin,2023-03-05 08:00:00,8
+235,Notuv - Denk Pharma,2021-08-26 22:01:13,DMO_1001000,2781,WHO,Metformin,2022-11-03 08:00:00,110
+236,Notuv - Denk Pharma,2021-08-27 06:50:49,DMO_1001000,3946,Red Cross,Metformin,2022-08-11 08:00:00,93
+237,Notuv - Denk Pharma,2021-08-27 15:27:07,DMO_1001000,2652,Bill Gates Foundation,Metformin,2023-05-17 08:00:00,60
+238,Notuv - Denk Pharma,2021-08-27 18:42:10,DMO_1001000,1839,Red Cross,Metformin,2023-07-14 08:00:00,70
+239,Notuv - Denk Pharma,2021-08-27 18:59:02,DMO_1001000,3627,Red Cross,Metformin,2022-08-10 08:00:00,98
+240,Notuv - Denk Pharma,2021-08-27 19:44:03,DMO_1001000,3637,WHO,Metformin,2023-01-17 08:00:00,1
+241,Notuv - Denk Pharma,2021-08-27 21:39:06,DMO_1001000,2090,WHO,Metformin,2022-12-09 08:00:00,196
+242,Notuv - Denk Pharma,2021-08-27 23:11:06,DMO_1001000,2826,Red Cross,Metformin,2022-02-21 08:00:00,24
+243,Notuv - Denk Pharma,2021-08-28 03:23:33,DMO_1001000,4550,WHO,Metformin,2022-05-24 08:00:00,105
+244,Notuv - Denk Pharma,2021-08-28 07:06:03,DMO_1001000,4387,Bill Gates Foundation,Metformin,2023-05-07 08:00:00,94
+245,Notuv - Denk Pharma,2021-08-29 16:18:20,DMO_1001000,3484,Red Cross,Metformin,2023-06-02 08:00:00,14
+246,Notuv - Denk Pharma,2021-08-29 17:25:27,DMO_1001000,2283,Red Cross,Metformin,2022-11-27 08:00:00,1
+247,Notuv - Denk Pharma,2021-08-29 20:24:31,DMO_1001000,4328,Bill Gates Foundation,Metformin,2022-06-22 08:00:00,1
+248,Notuv - Denk Pharma,2021-08-29 21:58:23,DMO_1001000,4425,Red Cross,Metformin,2023-05-19 08:00:00,108
+249,Notuv - Denk Pharma,2021-08-29 22:52:57,DMO_1001000,1673,Red Cross,Metformin,2023-07-22 08:00:00,54
+250,Notuv - Denk Pharma,2021-08-30 00:01:41,DMO_1001000,3067,WHO,Metformin,2022-01-15 08:00:00,1
+251,Notuv - Denk Pharma,2021-08-30 02:44:07,DMO_1001000,3267,Red Cross,Metformin,2022-03-06 08:00:00,109
+252,Notuv - Denk Pharma,2021-08-30 04:08:48,DMO_1001000,2718,WHO,Metformin,2023-06-07 08:00:00,1
+253,Notuv - Denk Pharma,2021-08-30 16:23:57,DMO_1001000,2018,Red Cross,Metformin,2022-07-27 08:00:00,5
+254,Notuv - Denk Pharma,2021-08-30 17:28:44,DMO_1001000,1414,Red Cross,Metformin,2023-07-08 08:00:00,147
+255,Notuv - Denk Pharma,2021-08-31 03:44:00,DMO_1001000,3406,Red Cross,Metformin,2022-04-01 08:00:00,13
+256,Notuv - Denk Pharma,2021-08-31 06:33:37,DMO_1001000,3312,WHO,Metformin,2022-05-21 08:00:00,1
+257,Notuv - Denk Pharma,2021-08-31 07:04:09,DMO_1001000,1434,Red Cross,Metformin,2022-09-21 08:00:00,52
+258,Notuv - Denk Pharma,2021-08-31 07:36:55,DMO_1001000,2155,WHO,Metformin,2022-03-31 08:00:00,30
+259,Notuv - Denk Pharma,2021-08-31 09:12:01,DMO_1001000,2090,Red Cross,Metformin,2023-01-31 08:00:00,24
+260,Notuv - Denk Pharma,2021-08-31 13:56:32,DMO_1001000,3940,WHO,Metformin,2022-06-23 08:00:00,45
+261,Notuv - Denk Pharma,2021-08-31 18:28:46,DMO_1001000,2383,Bill Gates Foundation,Metformin,2022-09-24 08:00:00,15
+262,Notuv - Denk Pharma,2021-08-31 19:49:25,DMO_1001000,2545,Red Cross,Metformin,2023-05-19 08:00:00,1
+263,Notuv - Denk Pharma,2021-08-31 19:53:06,DMO_1001000,2454,WHO,Metformin,2022-03-19 08:00:00,25
+264,Notuv - Denk Pharma,2021-09-02 05:35:44,DMO_1001000,3387,WHO,Metformin,2022-07-05 08:00:00,180
+265,Notuv - Denk Pharma,2021-09-02 06:13:04,DMO_1001000,2820,WHO,Metformin,2021-11-17 08:00:00,132
+266,Notuv - Denk Pharma,2021-09-02 11:56:19,DMO_1001000,4232,Bill Gates Foundation,Metformin,2022-03-15 08:00:00,101
+267,Notuv - Denk Pharma,2021-09-02 12:29:14,DMO_1001000,1500,Bill Gates Foundation,Metformin,2023-07-02 08:00:00,88
+268,Notuv - Denk Pharma,2021-09-02 23:46:24,DMO_1001000,2551,WHO,Metformin,2022-09-11 08:00:00,34
+269,Notuv - Denk Pharma,2021-09-03 09:43:42,DMO_1001000,3635,Red Cross,Metformin,2022-09-27 08:00:00,1
+270,Notuv - Denk Pharma,2021-09-03 11:11:48,DMO_1001000,4385,WHO,Metformin,2023-06-08 08:00:00,5
+271,Notuv - Denk Pharma,2021-09-03 18:36:41,DMO_1001000,1427,Bill Gates Foundation,Metformin,2021-10-31 08:00:00,22
+272,Notuv - Denk Pharma,2021-09-04 04:44:40,DMO_1001000,3673,Red Cross,Metformin,2022-07-03 08:00:00,95
+273,Notuv - Denk Pharma,2021-09-04 12:59:18,DMO_1001000,2435,Red Cross,Metformin,2022-06-09 08:00:00,54
+274,Notuv - Denk Pharma,2021-09-04 14:35:33,DMO_1001000,4598,WHO,Metformin,2022-02-27 08:00:00,132
+275,Notuv - Denk Pharma,2021-09-04 18:05:27,DMO_1001000,3639,Bill Gates Foundation,Metformin,2023-03-24 08:00:00,109
+276,Notuv - Denk Pharma,2021-09-04 18:37:58,DMO_1001000,4085,Red Cross,Metformin,2022-04-12 08:00:00,1
+277,Notuv - Denk Pharma,2021-09-04 21:26:15,DMO_1001000,2288,Bill Gates Foundation,Metformin,2023-07-15 08:00:00,108
+278,Notuv - Denk Pharma,2021-09-05 04:05:09,DMO_1001000,3328,WHO,Metformin,2022-09-16 08:00:00,38
+279,Notuv - Denk Pharma,2021-09-05 06:24:18,DMO_1001000,2712,WHO,Metformin,2022-12-18 08:00:00,1
+280,Notuv - Denk Pharma,2021-09-05 09:51:46,DMO_1001000,1333,Bill Gates Foundation,Metformin,2022-12-04 08:00:00,93
+281,Notuv - Denk Pharma,2021-09-05 10:03:05,DMO_1001000,4826,WHO,Metformin,2021-12-01 08:00:00,94
+282,Notuv - Denk Pharma,2021-09-06 04:03:29,DMO_1001000,4040,Bill Gates Foundation,Metformin,2023-01-31 08:00:00,1
+283,Notuv - Denk Pharma,2021-09-06 15:19:16,DMO_1001000,3540,Bill Gates Foundation,Metformin,2023-02-16 08:00:00,15
+284,Notuv - Denk Pharma,2021-09-07 00:51:26,DMO_1001000,3219,Red Cross,Metformin,2023-07-08 08:00:00,64
+285,Notuv - Denk Pharma,2021-09-07 04:04:20,DMO_1001000,4960,Bill Gates Foundation,Metformin,2022-01-06 08:00:00,1
+286,Notuv - Denk Pharma,2021-09-07 09:14:27,DMO_1001000,2109,Bill Gates Foundation,Metformin,2022-07-24 08:00:00,1
+287,Notuv - Denk Pharma,2021-09-07 11:05:43,DMO_1001000,1630,Bill Gates Foundation,Metformin,2022-04-13 08:00:00,66
+288,Notuv - Denk Pharma,2021-09-07 14:07:44,DMO_1001000,3477,WHO,Metformin,2022-10-06 08:00:00,34
+289,Notuv - Denk Pharma,2021-09-07 20:26:46,DMO_1001000,1389,WHO,Metformin,2023-06-08 08:00:00,90
+290,Notuv - Denk Pharma,2021-09-07 20:57:53,DMO_1001000,2564,Bill Gates Foundation,Metformin,2023-05-18 08:00:00,139
+291,Notuv - Denk Pharma,2021-09-08 09:42:24,DMO_1001000,2823,WHO,Metformin,2022-02-14 08:00:00,70
+292,Notuv - Denk Pharma,2021-09-08 10:46:40,DMO_1001000,4481,Red Cross,Metformin,2022-02-07 08:00:00,107
+293,Notuv - Denk Pharma,2021-09-08 13:15:31,DMO_1001000,1436,Red Cross,Metformin,2023-06-04 08:00:00,75
+294,Notuv - Denk Pharma,2021-09-08 16:35:23,DMO_1001000,1595,WHO,Metformin,2023-05-03 08:00:00,38
+295,Notuv - Denk Pharma,2021-09-08 20:35:01,DMO_1001000,3434,Red Cross,Metformin,2022-07-30 08:00:00,48
+296,Notuv - Denk Pharma,2021-09-08 22:33:35,DMO_1001000,4162,Red Cross,Metformin,2022-02-14 08:00:00,1
+297,Notuv - Denk Pharma,2021-09-10 02:03:28,DMO_1001000,2007,WHO,Metformin,2021-11-05 08:00:00,51
+298,Notuv - Denk Pharma,2021-09-10 03:05:20,DMO_1001000,3505,Bill Gates Foundation,Metformin,2023-02-13 08:00:00,104
+299,Notuv - Denk Pharma,2021-09-10 07:39:21,DMO_1001000,2196,Bill Gates Foundation,Metformin,2021-12-20 08:00:00,58
+300,Notuv - Denk Pharma,2021-09-10 16:23:06,DMO_1001000,3204,Red Cross,Metformin,2023-03-09 08:00:00,76
+301,Notuv - Denk Pharma,2021-09-11 00:12:49,DMO_1001000,1161,Red Cross,Metformin,2022-12-02 08:00:00,1
+302,Notuv - Denk Pharma,2021-09-11 00:34:33,DMO_1001000,3195,Bill Gates Foundation,Metformin,2023-01-23 08:00:00,156
+303,Notuv - Denk Pharma,2021-09-11 04:57:38,DMO_1001000,4132,Bill Gates Foundation,Metformin,2022-04-22 08:00:00,120
+304,Notuv - Denk Pharma,2021-09-11 11:09:36,DMO_1001000,2202,Bill Gates Foundation,Metformin,2022-11-06 08:00:00,74
+305,Notuv - Denk Pharma,2021-09-11 14:23:11,DMO_1001000,2491,WHO,Metformin,2022-11-12 08:00:00,1
+306,Notuv - Denk Pharma,2021-09-12 01:16:02,DMO_1001000,1911,Bill Gates Foundation,Metformin,2022-02-19 08:00:00,129
+307,Notuv - Denk Pharma,2021-09-12 09:30:02,DMO_1001000,3832,Bill Gates Foundation,Metformin,2022-05-07 08:00:00,1
+308,Notuv - Denk Pharma,2021-09-12 10:23:42,DMO_1001000,2979,Bill Gates Foundation,Metformin,2023-06-04 08:00:00,79
+309,Notuv - Denk Pharma,2021-09-12 21:02:27,DMO_1001000,3066,Bill Gates Foundation,Metformin,2022-07-04 08:00:00,33
+310,Notuv - Denk Pharma,2021-09-12 23:55:53,DMO_1001000,1445,Bill Gates Foundation,Metformin,2023-05-19 08:00:00,160
+311,Notuv - Denk Pharma,2021-09-13 07:59:27,DMO_1001000,4516,Red Cross,Metformin,2023-04-30 08:00:00,114
+312,Notuv - Denk Pharma,2021-09-13 08:39:11,DMO_1001000,2677,Bill Gates Foundation,Metformin,2023-02-05 08:00:00,116
+313,Notuv - Denk Pharma,2021-09-13 10:55:09,DMO_1001000,3718,Red Cross,Metformin,2022-02-06 08:00:00,1
+314,Notuv - Denk Pharma,2021-09-13 12:30:05,DMO_1001000,4787,WHO,Metformin,2022-02-21 08:00:00,117
+315,Notuv - Denk Pharma,2021-09-13 20:12:08,DMO_1001000,2320,Bill Gates Foundation,Metformin,2022-03-14 08:00:00,80
+316,Notuv - Denk Pharma,2021-09-14 08:06:20,DMO_1001000,3042,Bill Gates Foundation,Metformin,2021-11-19 08:00:00,1
+317,Notuv - Denk Pharma,2021-09-14 08:07:53,DMO_1001000,2258,WHO,Metformin,2022-11-12 08:00:00,1
+318,Notuv - Denk Pharma,2021-09-14 10:11:09,DMO_1001000,3435,Red Cross,Metformin,2023-07-13 08:00:00,23
+319,Notuv - Denk Pharma,2021-09-14 18:16:02,DMO_1001000,3829,Red Cross,Metformin,2022-01-07 08:00:00,58
+320,Notuv - Denk Pharma,2021-09-14 22:23:27,DMO_1001000,4305,Red Cross,Metformin,2023-06-06 08:00:00,60
+321,Notuv - Denk Pharma,2021-09-15 09:27:28,DMO_1001000,3587,WHO,Metformin,2022-04-08 08:00:00,9
+322,Notuv - Denk Pharma,2021-09-15 09:33:41,DMO_1001000,3534,WHO,Metformin,2022-03-09 08:00:00,71
+323,Notuv - Denk Pharma,2021-09-15 11:38:59,DMO_1001000,1499,Bill Gates Foundation,Metformin,2023-05-31 08:00:00,1
+324,Notuv - Denk Pharma,2021-09-15 18:16:32,DMO_1001000,1835,Red Cross,Metformin,2023-03-12 08:00:00,131
+325,Notuv - Denk Pharma,2021-09-16 01:28:02,DMO_1001000,4461,Red Cross,Metformin,2022-06-20 08:00:00,1
+326,Notuv - Denk Pharma,2021-09-16 04:43:14,DMO_1001000,2866,Bill Gates Foundation,Metformin,2022-02-21 08:00:00,40
+327,Notuv - Denk Pharma,2021-09-16 14:36:33,DMO_1001000,3265,Red Cross,Metformin,2023-05-04 08:00:00,61
+328,Notuv - Denk Pharma,2021-09-16 15:45:11,DMO_1001000,3398,Red Cross,Metformin,2022-07-25 08:00:00,19
+329,Notuv - Denk Pharma,2021-09-16 22:55:40,DMO_1001000,1183,Bill Gates Foundation,Metformin,2023-06-30 08:00:00,1
+330,Notuv - Denk Pharma,2021-09-16 23:12:51,DMO_1001000,4165,WHO,Metformin,2022-09-30 08:00:00,107
+331,Notuv - Denk Pharma,2021-09-17 12:55:12,DMO_1001000,1618,Bill Gates Foundation,Metformin,2022-01-19 08:00:00,60
+332,Notuv - Denk Pharma,2021-09-18 07:18:46,DMO_1001000,4298,Bill Gates Foundation,Metformin,2022-04-13 08:00:00,75
+333,Notuv - Denk Pharma,2021-09-18 09:32:18,DMO_1001000,3079,Bill Gates Foundation,Metformin,2021-11-30 08:00:00,141
+334,Notuv - Denk Pharma,2021-09-18 13:36:16,DMO_1001000,3536,Red Cross,Metformin,2022-05-08 08:00:00,96
+335,Notuv - Denk Pharma,2021-09-18 21:35:03,DMO_1001000,1648,Red Cross,Metformin,2023-04-19 08:00:00,4
+336,Notuv - Denk Pharma,2021-09-19 23:19:56,DMO_1001000,4314,Bill Gates Foundation,Metformin,2023-07-15 08:00:00,37
+337,Notuv - Denk Pharma,2021-09-20 03:10:42,DMO_1001000,1321,Bill Gates Foundation,Metformin,2021-11-11 08:00:00,148
+338,Notuv - Denk Pharma,2021-09-20 05:06:21,DMO_1001000,4923,Red Cross,Metformin,2022-04-20 08:00:00,91
+339,Notuv - Denk Pharma,2021-09-20 06:52:08,DMO_1001000,2356,Red Cross,Metformin,2022-07-10 08:00:00,50
+340,Notuv - Denk Pharma,2021-09-21 01:35:26,DMO_1001000,3598,WHO,Metformin,2023-01-17 08:00:00,12
+341,Notuv - Denk Pharma,2021-09-21 01:45:22,DMO_1001000,1526,Bill Gates Foundation,Metformin,2023-04-26 08:00:00,9
+342,Notuv - Denk Pharma,2021-09-21 03:00:30,DMO_1001000,1345,Bill Gates Foundation,Metformin,2023-07-20 08:00:00,30
+343,Notuv - Denk Pharma,2021-09-21 05:12:42,DMO_1001000,4927,Red Cross,Metformin,2023-01-19 08:00:00,101
+344,Notuv - Denk Pharma,2021-09-21 13:44:54,DMO_1001000,4178,Red Cross,Metformin,2022-07-06 08:00:00,59
+345,Notuv - Denk Pharma,2021-09-21 14:56:11,DMO_1001000,2056,WHO,Metformin,2022-01-23 08:00:00,12
+346,Notuv - Denk Pharma,2021-09-21 16:19:44,DMO_1001000,3689,WHO,Metformin,2023-03-03 08:00:00,1
+347,Notuv - Denk Pharma,2021-09-21 20:27:14,DMO_1001000,1977,WHO,Metformin,2023-05-20 08:00:00,142
+348,Notuv - Denk Pharma,2021-09-22 09:49:43,DMO_1001000,2719,Bill Gates Foundation,Metformin,2023-06-15 08:00:00,1
+349,Notuv - Denk Pharma,2021-09-22 19:31:29,DMO_1001000,1716,Bill Gates Foundation,Metformin,2022-05-21 08:00:00,80
+350,Notuv - Denk Pharma,2021-09-23 02:14:39,DMO_1001000,1132,Bill Gates Foundation,Metformin,2023-06-28 08:00:00,1
+351,Notuv - Denk Pharma,2021-09-23 02:21:23,DMO_1001000,1517,WHO,Metformin,2022-04-18 08:00:00,1
+352,Notuv - Denk Pharma,2021-09-23 02:46:30,DMO_1001000,3889,Red Cross,Metformin,2022-07-08 08:00:00,14
+353,Notuv - Denk Pharma,2021-09-23 04:19:35,DMO_1001000,1879,Red Cross,Metformin,2022-09-21 08:00:00,37
+354,Notuv - Denk Pharma,2021-09-23 11:41:44,DMO_1001000,1095,Bill Gates Foundation,Metformin,2022-09-13 08:00:00,15
+355,Notuv - Denk Pharma,2021-09-24 08:19:03,DMO_1001000,3152,WHO,Metformin,2022-06-06 08:00:00,134
+356,Notuv - Denk Pharma,2021-09-24 12:17:08,DMO_1001000,3428,Bill Gates Foundation,Metformin,2022-03-30 08:00:00,11
+357,Notuv - Denk Pharma,2021-09-24 12:36:51,DMO_1001000,1841,Red Cross,Metformin,2022-07-18 08:00:00,85
+358,Notuv - Denk Pharma,2021-09-24 16:42:16,DMO_1001000,3956,WHO,Metformin,2022-09-20 08:00:00,1
+359,Notuv - Denk Pharma,2021-09-25 01:37:24,DMO_1001000,3215,WHO,Metformin,2022-08-12 08:00:00,55
+360,Notuv - Denk Pharma,2021-09-25 05:55:16,DMO_1001000,4289,Red Cross,Metformin,2023-02-27 08:00:00,74
+361,Notuv - Denk Pharma,2021-09-25 07:07:00,DMO_1001000,1082,WHO,Metformin,2021-12-22 08:00:00,100
+362,Notuv - Denk Pharma,2021-09-25 12:05:02,DMO_1001000,2884,WHO,Metformin,2022-05-13 08:00:00,47
+363,Notuv - Denk Pharma,2021-09-25 15:57:02,DMO_1001000,4097,Red Cross,Metformin,2022-10-07 08:00:00,1
+364,Notuv - Denk Pharma,2021-09-26 00:17:09,DMO_1001000,3831,Red Cross,Metformin,2022-10-05 08:00:00,79
+365,Notuv - Denk Pharma,2021-09-26 05:47:30,DMO_1001000,3457,Bill Gates Foundation,Metformin,2022-10-02 08:00:00,2
+366,Notuv - Denk Pharma,2021-09-26 15:13:20,DMO_1001000,3128,WHO,Metformin,2022-06-27 08:00:00,1
+367,Notuv - Denk Pharma,2021-09-26 20:58:20,DMO_1001000,3169,Bill Gates Foundation,Metformin,2022-08-19 08:00:00,1
+368,Notuv - Denk Pharma,2021-09-26 23:39:31,DMO_1001000,1427,Bill Gates Foundation,Metformin,2023-03-26 08:00:00,63
+369,Notuv - Denk Pharma,2021-09-27 02:55:37,DMO_1001000,3441,Red Cross,Metformin,2022-09-28 08:00:00,157
+370,Notuv - Denk Pharma,2021-09-27 10:03:21,DMO_1001000,3297,Red Cross,Metformin,2023-03-26 08:00:00,83
+371,Notuv - Denk Pharma,2021-09-27 11:39:38,DMO_1001000,4877,Red Cross,Metformin,2022-11-24 08:00:00,51
+372,Notuv - Denk Pharma,2021-09-27 12:15:59,DMO_1001000,1936,Red Cross,Metformin,2022-01-15 08:00:00,81
+373,Notuv - Denk Pharma,2021-09-27 16:29:24,DMO_1001000,4189,Bill Gates Foundation,Metformin,2022-05-03 08:00:00,55
+374,Notuv - Denk Pharma,2021-09-27 18:11:11,DMO_1001000,4212,Bill Gates Foundation,Metformin,2022-01-28 08:00:00,1
+375,Notuv - Denk Pharma,2021-09-27 21:47:39,DMO_1001000,1562,Red Cross,Metformin,2022-12-25 08:00:00,69
+376,Notuv - Denk Pharma,2021-09-28 07:29:52,DMO_1001000,3857,WHO,Metformin,2022-09-26 08:00:00,1
+377,Notuv - Denk Pharma,2021-09-29 02:15:09,DMO_1001000,2785,WHO,Metformin,2022-08-26 08:00:00,52
+378,Notuv - Denk Pharma,2021-09-29 03:32:46,DMO_1001000,1166,WHO,Metformin,2022-01-17 08:00:00,12
+379,Notuv - Denk Pharma,2021-09-29 06:56:29,DMO_1001000,3517,Red Cross,Metformin,2022-05-01 08:00:00,6
+380,Notuv - Denk Pharma,2021-09-29 08:30:30,DMO_1001000,2922,WHO,Metformin,2022-04-17 08:00:00,40
+381,Notuv - Denk Pharma,2021-09-29 11:33:52,DMO_1001000,1481,Bill Gates Foundation,Metformin,2022-11-04 08:00:00,1
+382,Notuv - Denk Pharma,2021-09-29 20:24:47,DMO_1001000,2214,WHO,Metformin,2022-09-09 08:00:00,26
+383,Notuv - Denk Pharma,2021-09-29 21:10:08,DMO_1001000,4126,WHO,Metformin,2022-04-20 08:00:00,12
+384,Notuv - Denk Pharma,2021-09-30 00:47:00,DMO_1001000,1372,Bill Gates Foundation,Metformin,2023-02-15 08:00:00,122
+385,Notuv - Denk Pharma,2021-09-30 02:21:39,DMO_1001000,3579,WHO,Metformin,2022-03-10 08:00:00,1
+386,Notuv - Denk Pharma,2021-09-30 12:38:16,DMO_1001000,4265,Red Cross,Metformin,2023-01-29 08:00:00,86
+387,Notuv - Denk Pharma,2021-09-30 16:07:21,DMO_1001000,1198,Red Cross,Metformin,2022-04-16 08:00:00,36
+388,Notuv - Denk Pharma,2021-10-01 20:39:29,DMO_1001000,1783,Red Cross,Metformin,2023-06-16 08:00:00,46
+389,Notuv - Denk Pharma,2021-10-01 23:52:35,DMO_1001000,4513,Red Cross,Metformin,2023-04-25 08:00:00,34
+390,Notuv - Denk Pharma,2021-10-02 18:47:12,DMO_1001000,2763,WHO,Metformin,2022-10-27 08:00:00,1
+391,Notuv - Denk Pharma,2021-10-03 01:28:51,DMO_1001000,3559,WHO,Metformin,2021-12-30 08:00:00,88
+392,Notuv - Denk Pharma,2021-10-03 15:46:18,DMO_1001000,1570,Bill Gates Foundation,Metformin,2022-05-06 08:00:00,168
+393,Notuv - Denk Pharma,2021-10-03 16:52:36,DMO_1001000,3709,Red Cross,Metformin,2023-05-11 08:00:00,47
+394,Notuv - Denk Pharma,2021-10-03 18:13:20,DMO_1001000,3685,Bill Gates Foundation,Metformin,2022-06-28 08:00:00,102
+395,Notuv - Denk Pharma,2021-10-04 00:31:38,DMO_1001000,1386,WHO,Metformin,2023-04-21 08:00:00,65
+396,Notuv - Denk Pharma,2021-10-04 00:55:16,DMO_1001000,1742,WHO,Metformin,2022-11-01 08:00:00,101
+397,Notuv - Denk Pharma,2021-10-04 03:38:00,DMO_1001000,4052,Bill Gates Foundation,Metformin,2022-08-17 08:00:00,1
+398,Notuv - Denk Pharma,2021-10-04 10:22:54,DMO_1001000,4890,Red Cross,Metformin,2023-05-19 08:00:00,1
+399,Notuv - Denk Pharma,2021-10-04 19:21:04,DMO_1001000,4599,Bill Gates Foundation,Metformin,2022-07-20 08:00:00,58
+400,Notuv - Denk Pharma,2021-10-05 00:45:11,DMO_1001000,4280,WHO,Metformin,2022-04-04 08:00:00,21
+401,Notuv - Denk Pharma,2021-10-05 00:55:24,DMO_1001000,3839,WHO,Metformin,2023-04-16 08:00:00,33
+402,Notuv - Denk Pharma,2021-10-05 07:05:28,DMO_1001000,1934,Red Cross,Metformin,2021-11-20 08:00:00,1
+403,Notuv - Denk Pharma,2021-10-05 10:42:45,DMO_1001000,1779,Bill Gates Foundation,Metformin,2023-04-29 08:00:00,17
+404,Notuv - Denk Pharma,2021-10-05 11:26:34,DMO_1001000,2820,Bill Gates Foundation,Metformin,2022-09-10 08:00:00,4
+405,Notuv - Denk Pharma,2021-10-05 15:10:40,DMO_1001000,2935,WHO,Metformin,2022-03-17 08:00:00,70
+406,Notuv - Denk Pharma,2021-10-06 01:12:36,DMO_1001000,2101,Bill Gates Foundation,Metformin,2023-02-07 08:00:00,10
+407,Notuv - Denk Pharma,2021-10-06 02:20:46,DMO_1001000,4230,WHO,Metformin,2022-01-01 08:00:00,50
+408,Notuv - Denk Pharma,2021-10-06 04:43:08,DMO_1001000,4907,WHO,Metformin,2022-08-04 08:00:00,1
+409,Notuv - Denk Pharma,2021-10-06 19:45:53,DMO_1001000,2986,Red Cross,Metformin,2023-05-28 08:00:00,63
+410,Notuv - Denk Pharma,2021-10-06 23:54:57,DMO_1001000,4027,Bill Gates Foundation,Metformin,2022-03-31 08:00:00,56
+411,Notuv - Denk Pharma,2021-10-07 00:46:53,DMO_1001000,4739,Red Cross,Metformin,2022-08-25 08:00:00,67
+412,Notuv - Denk Pharma,2021-10-07 02:47:22,DMO_1001000,3433,Bill Gates Foundation,Metformin,2023-06-28 08:00:00,57
+413,Notuv - Denk Pharma,2021-10-07 05:15:27,DMO_1001000,2979,WHO,Metformin,2022-01-20 08:00:00,82
+414,Notuv - Denk Pharma,2021-10-07 14:59:55,DMO_1001000,3306,Red Cross,Metformin,2022-05-05 08:00:00,33
+415,Notuv - Denk Pharma,2021-10-07 23:32:25,DMO_1001000,4949,Bill Gates Foundation,Metformin,2022-08-18 08:00:00,1
+416,Notuv - Denk Pharma,2021-10-08 02:13:43,DMO_1001000,2558,Red Cross,Metformin,2022-05-28 08:00:00,1
+417,Notuv - Denk Pharma,2021-10-08 13:07:14,DMO_1001000,4075,Bill Gates Foundation,Metformin,2022-09-28 08:00:00,1
+418,Notuv - Denk Pharma,2021-10-08 15:24:14,DMO_1001000,3378,WHO,Metformin,2022-03-08 08:00:00,47
+419,Notuv - Denk Pharma,2021-10-08 22:29:53,DMO_1001000,3143,WHO,Metformin,2023-01-24 08:00:00,1
+420,Notuv - Denk Pharma,2021-10-09 02:13:29,DMO_1001000,4184,Red Cross,Metformin,2023-05-07 08:00:00,18
+421,Notuv - Denk Pharma,2021-10-09 11:15:35,DMO_1001000,1728,Bill Gates Foundation,Metformin,2023-06-08 08:00:00,88
+422,Notuv - Denk Pharma,2021-10-09 11:42:49,DMO_1001000,1954,WHO,Metformin,2022-11-17 08:00:00,19
+423,Notuv - Denk Pharma,2021-10-09 13:30:55,DMO_1001000,3306,Red Cross,Metformin,2022-05-05 08:00:00,42
+424,Notuv - Denk Pharma,2021-10-09 14:11:38,DMO_1001000,3880,Bill Gates Foundation,Metformin,2022-02-03 08:00:00,1
+425,Notuv - Denk Pharma,2021-10-09 21:09:16,DMO_1001000,1548,Bill Gates Foundation,Metformin,2022-04-27 08:00:00,30
+426,Notuv - Denk Pharma,2021-10-10 01:14:48,DMO_1001000,2436,Bill Gates Foundation,Metformin,2022-12-07 08:00:00,6
+427,Notuv - Denk Pharma,2021-10-10 05:33:06,DMO_1001000,1675,WHO,Metformin,2023-07-13 08:00:00,196
+428,Notuv - Denk Pharma,2021-10-11 00:11:22,DMO_1001000,1625,WHO,Metformin,2022-05-01 08:00:00,1
+429,Notuv - Denk Pharma,2021-10-11 00:35:51,DMO_1001000,2889,WHO,Metformin,2021-11-15 08:00:00,13
+430,Notuv - Denk Pharma,2021-10-11 05:36:37,DMO_1001000,4499,WHO,Metformin,2022-11-07 08:00:00,79
+431,Notuv - Denk Pharma,2021-10-11 09:35:49,DMO_1001000,4975,WHO,Metformin,2021-11-11 08:00:00,6
+432,Notuv - Denk Pharma,2021-10-11 22:58:59,DMO_1001000,1442,Red Cross,Metformin,2022-07-09 08:00:00,1
+433,Notuv - Denk Pharma,2021-10-12 04:29:44,DMO_1001000,3310,Red Cross,Metformin,2022-05-31 08:00:00,88
+434,Notuv - Denk Pharma,2021-10-12 11:28:41,DMO_1001000,1994,Bill Gates Foundation,Metformin,2022-10-21 08:00:00,52
+435,Notuv - Denk Pharma,2021-10-12 23:05:25,DMO_1001000,3947,Bill Gates Foundation,Metformin,2023-04-11 08:00:00,86
+436,Notuv - Denk Pharma,2021-10-13 04:45:36,DMO_1001000,4110,Red Cross,Metformin,2023-04-17 08:00:00,81
+437,Notuv - Denk Pharma,2021-10-13 08:25:59,DMO_1001000,2853,WHO,Metformin,2023-05-24 08:00:00,64
+438,Notuv - Denk Pharma,2021-10-13 09:50:39,DMO_1001000,3252,Red Cross,Metformin,2023-02-03 08:00:00,2
+439,Notuv - Denk Pharma,2021-10-13 13:23:37,DMO_1001000,2667,Bill Gates Foundation,Metformin,2021-11-25 08:00:00,128
+440,Notuv - Denk Pharma,2021-10-14 00:20:45,DMO_1001000,3517,Red Cross,Metformin,2022-01-06 08:00:00,84
+441,Notuv - Denk Pharma,2021-10-14 04:34:55,DMO_1001000,1964,Bill Gates Foundation,Metformin,2023-07-12 08:00:00,76
+442,Notuv - Denk Pharma,2021-10-14 18:58:25,DMO_1001000,4579,WHO,Metformin,2022-06-26 08:00:00,1
+443,Notuv - Denk Pharma,2021-10-14 22:27:58,DMO_1001000,3394,Bill Gates Foundation,Metformin,2022-10-03 08:00:00,37
+444,Notuv - Denk Pharma,2021-10-14 23:20:58,DMO_1001000,4145,Bill Gates Foundation,Metformin,2022-08-26 08:00:00,1
+445,Notuv - Denk Pharma,2021-10-15 08:29:35,DMO_1001000,1935,Bill Gates Foundation,Metformin,2022-02-26 08:00:00,57
+446,Notuv - Denk Pharma,2021-10-15 10:02:44,DMO_1001000,2995,Red Cross,Metformin,2022-10-06 08:00:00,45
+447,Notuv - Denk Pharma,2021-10-15 11:29:02,DMO_1001000,4096,WHO,Metformin,2023-07-17 08:00:00,1
+448,Notuv - Denk Pharma,2021-10-15 14:29:30,DMO_1001000,4032,Bill Gates Foundation,Metformin,2022-09-01 08:00:00,48
+449,Notuv - Denk Pharma,2021-10-15 16:30:26,DMO_1001000,3330,Bill Gates Foundation,Metformin,2022-01-19 08:00:00,43
+450,Notuv - Denk Pharma,2021-10-16 02:45:26,DMO_1001000,1367,WHO,Metformin,2022-04-10 08:00:00,73
+451,Notuv - Denk Pharma,2021-10-16 08:05:41,DMO_1001000,3854,Red Cross,Metformin,2022-12-04 08:00:00,62
+452,Notuv - Denk Pharma,2021-10-16 19:45:39,DMO_1001000,4224,WHO,Metformin,2021-11-16 08:00:00,70
+453,Notuv - Denk Pharma,2021-10-16 20:52:38,DMO_1001000,4045,Bill Gates Foundation,Metformin,2022-09-04 08:00:00,190
+454,Notuv - Denk Pharma,2021-10-17 05:08:56,DMO_1001000,1580,Bill Gates Foundation,Metformin,2022-05-24 08:00:00,42
+455,Notuv - Denk Pharma,2021-10-17 06:08:58,DMO_1001000,1149,Red Cross,Metformin,2023-04-11 08:00:00,36
+456,Notuv - Denk Pharma,2021-10-17 06:58:27,DMO_1001000,1881,WHO,Metformin,2023-05-12 08:00:00,134
+457,Notuv - Denk Pharma,2021-10-17 08:16:08,DMO_1001000,3665,WHO,Metformin,2022-05-11 08:00:00,78
+458,Notuv - Denk Pharma,2021-10-17 19:58:25,DMO_1001000,4399,Bill Gates Foundation,Metformin,2022-07-20 08:00:00,1
+459,Notuv - Denk Pharma,2021-10-17 23:25:01,DMO_1001000,2868,Bill Gates Foundation,Metformin,2022-02-15 08:00:00,1
+460,Notuv - Denk Pharma,2021-10-18 05:35:12,DMO_1001000,4371,Bill Gates Foundation,Metformin,2023-03-26 08:00:00,119
+461,Notuv - Denk Pharma,2021-10-18 05:51:28,DMO_1001000,4663,WHO,Metformin,2023-06-29 08:00:00,1
+462,Notuv - Denk Pharma,2021-10-18 11:31:21,DMO_1001000,4304,WHO,Metformin,2023-02-03 08:00:00,103
+463,Notuv - Denk Pharma,2021-10-18 14:10:11,DMO_1001000,4520,Red Cross,Metformin,2022-12-06 08:00:00,128
+464,Notuv - Denk Pharma,2021-10-18 14:57:29,DMO_1001000,2377,Red Cross,Metformin,2022-06-30 08:00:00,19
+465,Notuv - Denk Pharma,2021-10-18 19:58:19,DMO_1001000,2105,WHO,Metformin,2023-04-30 08:00:00,1
+466,Notuv - Denk Pharma,2021-10-18 20:30:36,DMO_1001000,4788,WHO,Metformin,2022-05-04 08:00:00,57
+467,Notuv - Denk Pharma,2021-10-19 00:43:51,DMO_1001000,2666,WHO,Metformin,2023-01-19 08:00:00,68
+468,Notuv - Denk Pharma,2021-10-19 02:30:33,DMO_1001000,2761,Red Cross,Metformin,2022-04-02 08:00:00,94
+469,Notuv - Denk Pharma,2021-10-19 03:30:10,DMO_1001000,3582,Bill Gates Foundation,Metformin,2022-03-22 08:00:00,139
+470,Notuv - Denk Pharma,2021-10-19 06:21:01,DMO_1001000,4827,Bill Gates Foundation,Metformin,2022-12-29 08:00:00,29
+471,Notuv - Denk Pharma,2021-10-20 02:37:46,DMO_1001000,2564,WHO,Metformin,2022-05-25 08:00:00,138
+472,Notuv - Denk Pharma,2021-10-20 04:08:30,DMO_1001000,3158,Bill Gates Foundation,Metformin,2023-03-04 08:00:00,1
+473,Notuv - Denk Pharma,2021-10-20 18:08:02,DMO_1001000,2386,WHO,Metformin,2022-11-01 08:00:00,30
+474,Notuv - Denk Pharma,2021-10-21 01:03:07,DMO_1001000,2224,WHO,Metformin,2023-04-12 08:00:00,1
+475,Notuv - Denk Pharma,2021-10-21 06:23:12,DMO_1001000,1215,Red Cross,Metformin,2022-10-08 08:00:00,4
+476,Notuv - Denk Pharma,2021-10-21 08:28:20,DMO_1001000,4862,WHO,Metformin,2023-03-14 08:00:00,51
+477,Notuv - Denk Pharma,2021-10-21 10:28:14,DMO_1001000,4345,Bill Gates Foundation,Metformin,2023-03-31 08:00:00,49
+478,Notuv - Denk Pharma,2021-10-21 15:01:56,DMO_1001000,2200,Bill Gates Foundation,Metformin,2022-11-25 08:00:00,101
+479,Notuv - Denk Pharma,2021-10-21 20:57:47,DMO_1001000,2169,Red Cross,Metformin,2023-04-14 08:00:00,1
+480,Notuv - Denk Pharma,2021-10-22 01:31:03,DMO_1001000,4200,Red Cross,Metformin,2022-01-21 08:00:00,19
+481,Notuv - Denk Pharma,2021-10-22 03:00:50,DMO_1001000,4236,Red Cross,Metformin,2022-03-08 08:00:00,156
+482,Notuv - Denk Pharma,2021-10-22 06:47:02,DMO_1001000,2532,Bill Gates Foundation,Metformin,2021-11-23 08:00:00,1
+483,Notuv - Denk Pharma,2021-10-22 11:15:24,DMO_1001000,3430,WHO,Metformin,2022-10-09 08:00:00,113
+484,Notuv - Denk Pharma,2021-10-22 16:12:40,DMO_1001000,2255,WHO,Metformin,2021-12-30 08:00:00,43
+485,Notuv - Denk Pharma,2021-10-22 18:34:03,DMO_1001000,4970,Bill Gates Foundation,Metformin,2022-05-14 08:00:00,123
+486,Notuv - Denk Pharma,2021-10-22 20:16:40,DMO_1001000,1786,WHO,Metformin,2023-04-29 08:00:00,1
+487,Notuv - Denk Pharma,2021-10-23 19:28:58,DMO_1001000,4412,Red Cross,Metformin,2022-01-28 08:00:00,119
+488,Notuv - Denk Pharma,2021-10-24 00:24:11,DMO_1001000,2317,WHO,Metformin,2022-06-12 08:00:00,1
+489,Notuv - Denk Pharma,2021-10-24 05:27:24,DMO_1001000,1990,Bill Gates Foundation,Metformin,2022-06-13 08:00:00,1
+490,Notuv - Denk Pharma,2021-10-24 13:28:23,DMO_1001000,2548,Red Cross,Metformin,2022-10-10 08:00:00,134
+491,Notuv - Denk Pharma,2021-10-24 18:14:15,DMO_1001000,1280,WHO,Metformin,2022-10-19 08:00:00,33
+492,Notuv - Denk Pharma,2021-10-24 20:26:32,DMO_1001000,2743,Red Cross,Metformin,2021-11-30 08:00:00,66
+493,Notuv - Denk Pharma,2021-10-25 00:39:22,DMO_1001000,1395,WHO,Metformin,2022-11-05 08:00:00,54
+494,Notuv - Denk Pharma,2021-10-25 03:17:56,DMO_1001000,2667,WHO,Metformin,2022-03-27 08:00:00,109
+495,Notuv - Denk Pharma,2021-10-25 13:16:32,DMO_1001000,1348,Bill Gates Foundation,Metformin,2022-01-24 08:00:00,65
+496,Notuv - Denk Pharma,2021-10-26 05:37:52,DMO_1001000,2438,WHO,Metformin,2023-06-27 08:00:00,121
+497,Notuv - Denk Pharma,2021-10-26 18:37:12,DMO_1001000,3506,WHO,Metformin,2022-12-30 08:00:00,72
+498,Notuv - Denk Pharma,2021-10-26 21:07:51,DMO_1001000,2927,Red Cross,Metformin,2023-05-10 08:00:00,1
+499,Notuv - Denk Pharma,2021-10-27 01:46:59,DMO_1001000,3534,Red Cross,Metformin,2023-01-24 08:00:00,33
+500,Notuv - Denk Pharma,2021-10-27 03:38:08,DMO_1001000,2577,Bill Gates Foundation,Metformin,2022-03-21 08:00:00,58
+501,Notuv - Denk Pharma,2021-10-27 10:59:27,DMO_1001000,2929,Bill Gates Foundation,Metformin,2023-07-02 08:00:00,10
+502,Notuv - Denk Pharma,2021-10-27 15:23:02,DMO_1001000,3883,WHO,Metformin,2022-03-30 08:00:00,24
+503,Notuv - Denk Pharma,2021-10-27 18:30:04,DMO_1001000,4000,Red Cross,Metformin,2022-12-02 08:00:00,54
+504,Notuv - Denk Pharma,2021-10-27 22:05:07,DMO_1001000,3531,WHO,Metformin,2023-04-03 08:00:00,117
+505,Notuv - Denk Pharma,2021-10-27 22:29:31,DMO_1001000,4786,WHO,Metformin,2021-12-06 08:00:00,1
+506,Notuv - Denk Pharma,2021-10-28 03:24:32,DMO_1001000,1408,Red Cross,Metformin,2022-11-19 08:00:00,64
+507,Notuv - Denk Pharma,2021-10-28 06:16:21,DMO_1001000,1159,Red Cross,Metformin,2022-09-16 08:00:00,29
+508,Notuv - Denk Pharma,2021-10-28 09:35:48,DMO_1001000,3496,WHO,Metformin,2022-02-15 08:00:00,36
+509,Notuv - Denk Pharma,2021-10-28 13:10:40,DMO_1001000,3707,Red Cross,Metformin,2023-06-12 08:00:00,68
+510,Notuv - Denk Pharma,2021-10-28 23:29:36,DMO_1001000,2842,Red Cross,Metformin,2022-04-26 08:00:00,72
+511,Notuv - Denk Pharma,2021-10-29 05:16:50,DMO_1001000,3600,WHO,Metformin,2023-03-04 08:00:00,1
+512,Notuv - Denk Pharma,2021-10-29 08:19:35,DMO_1001000,1301,WHO,Metformin,2022-04-29 08:00:00,100
+513,Notuv - Denk Pharma,2021-10-29 10:06:01,DMO_1001000,1477,Red Cross,Metformin,2022-04-03 08:00:00,107
+514,Notuv - Denk Pharma,2021-10-30 08:11:29,DMO_1001000,2472,Red Cross,Metformin,2023-03-18 08:00:00,126
+515,Notuv - Denk Pharma,2021-10-30 13:06:17,DMO_1001000,4871,Red Cross,Metformin,2023-01-16 08:00:00,2
+516,Notuv - Denk Pharma,2021-10-30 14:03:18,DMO_1001000,3269,Bill Gates Foundation,Metformin,2022-12-12 08:00:00,211
+517,Notuv - Denk Pharma,2021-10-30 19:18:21,DMO_1001000,3694,WHO,Metformin,2022-06-17 08:00:00,81
+518,Notuv - Denk Pharma,2021-10-31 01:31:32,DMO_1001000,1929,Red Cross,Metformin,2022-07-03 08:00:00,77
+519,Notuv - Denk Pharma,2021-10-31 04:06:14,DMO_1001000,3915,WHO,Metformin,2022-12-18 08:00:00,134
+520,Notuv - Denk Pharma,2021-10-31 06:20:15,DMO_1001000,2422,Red Cross,Metformin,2022-09-05 08:00:00,126
+521,Notuv - Denk Pharma,2021-10-31 14:35:33,DMO_1001000,4481,Bill Gates Foundation,Metformin,2022-08-09 08:00:00,1
+522,Notuv - Denk Pharma,2021-10-31 18:24:17,DMO_1001000,4880,Bill Gates Foundation,Metformin,2022-03-12 08:00:00,57
+523,Notuv - Denk Pharma,2021-11-01 07:21:36,DMO_1001000,2321,WHO,Metformin,2022-06-23 08:00:00,97
+524,Notuv - Denk Pharma,2021-11-01 09:37:56,DMO_1001000,4733,Red Cross,Metformin,2022-01-10 08:00:00,20
+525,Notuv - Denk Pharma,2021-11-01 18:03:59,DMO_1001000,1012,Bill Gates Foundation,Metformin,2022-12-25 08:00:00,1
+526,Notuv - Denk Pharma,2021-11-01 18:35:37,DMO_1001000,4681,Red Cross,Metformin,2022-11-24 08:00:00,128
+527,Notuv - Denk Pharma,2021-11-01 18:43:11,DMO_1001000,4926,Bill Gates Foundation,Metformin,2022-08-14 08:00:00,37
+528,Notuv - Denk Pharma,2021-11-01 22:32:18,DMO_1001000,2582,Red Cross,Metformin,2022-06-16 08:00:00,116
+529,Notuv - Denk Pharma,2021-11-02 00:55:48,DMO_1001000,3305,Red Cross,Metformin,2022-07-12 08:00:00,51
+530,Notuv - Denk Pharma,2021-11-02 01:49:46,DMO_1001000,2756,WHO,Metformin,2022-04-08 08:00:00,95
+531,Notuv - Denk Pharma,2021-11-02 05:40:12,DMO_1001000,1701,Red Cross,Metformin,2022-02-16 08:00:00,171
+532,Notuv - Denk Pharma,2021-11-02 16:08:57,DMO_1001000,3807,Bill Gates Foundation,Metformin,2021-12-19 08:00:00,122
+533,Notuv - Denk Pharma,2021-11-02 18:49:13,DMO_1001000,4242,WHO,Metformin,2022-04-05 08:00:00,54
+534,Notuv - Denk Pharma,2021-11-02 19:17:52,DMO_1001000,2783,WHO,Metformin,2023-03-13 08:00:00,1
+535,Notuv - Denk Pharma,2021-11-02 20:58:31,DMO_1001000,3822,Bill Gates Foundation,Metformin,2022-04-20 08:00:00,8
+536,Notuv - Denk Pharma,2021-11-03 03:54:50,DMO_1001000,1871,Red Cross,Metformin,2022-01-02 08:00:00,73
+537,Notuv - Denk Pharma,2021-11-03 11:24:24,DMO_1001000,3881,Bill Gates Foundation,Metformin,2022-06-09 08:00:00,1
+538,Notuv - Denk Pharma,2021-11-03 16:21:24,DMO_1001000,2302,Red Cross,Metformin,2022-10-09 08:00:00,67
+539,Notuv - Denk Pharma,2021-11-03 17:05:53,DMO_1001000,1020,Red Cross,Metformin,2022-09-11 08:00:00,111
+540,Notuv - Denk Pharma,2021-11-03 17:19:16,DMO_1001000,3484,Bill Gates Foundation,Metformin,2021-11-08 08:00:00,77
+541,Notuv - Denk Pharma,2021-11-04 02:17:13,DMO_1001000,1157,Bill Gates Foundation,Metformin,2021-11-14 08:00:00,1
+542,Notuv - Denk Pharma,2021-11-04 11:51:15,DMO_1001000,4024,Red Cross,Metformin,2023-07-04 08:00:00,41
+543,Notuv - Denk Pharma,2021-11-04 15:12:50,DMO_1001000,4407,Bill Gates Foundation,Metformin,2022-08-05 08:00:00,131
+544,Notuv - Denk Pharma,2021-11-05 09:48:59,DMO_1001000,1424,WHO,Metformin,2023-01-23 08:00:00,4
+545,Notuv - Denk Pharma,2021-11-05 12:28:29,DMO_1001000,4904,Red Cross,Metformin,2022-01-12 08:00:00,80
+546,Notuv - Denk Pharma,2021-11-05 13:06:07,DMO_1001000,3188,Red Cross,Metformin,2023-02-24 08:00:00,58
+547,Notuv - Denk Pharma,2021-11-05 17:16:42,DMO_1001000,4338,Red Cross,Metformin,2023-03-13 08:00:00,191
+548,Notuv - Denk Pharma,2021-11-06 00:02:08,DMO_1001000,3318,Bill Gates Foundation,Metformin,2022-08-17 08:00:00,33
+549,Notuv - Denk Pharma,2021-11-06 06:09:46,DMO_1001000,1648,WHO,Metformin,2022-03-21 08:00:00,1
+550,Notuv - Denk Pharma,2021-11-07 02:22:04,DMO_1001000,1713,Red Cross,Metformin,2022-06-30 08:00:00,50
+551,Notuv - Denk Pharma,2021-11-07 03:02:07,DMO_1001000,3305,Red Cross,Metformin,2022-01-11 08:00:00,51
+552,Notuv - Denk Pharma,2021-11-07 05:47:06,DMO_1001000,3044,WHO,Metformin,2022-10-17 08:00:00,1
+553,Notuv - Denk Pharma,2021-11-07 21:29:10,DMO_1001000,4157,WHO,Metformin,2022-10-05 08:00:00,38
+554,Notuv - Denk Pharma,2021-11-07 23:07:13,DMO_1001000,2112,WHO,Metformin,2023-01-17 08:00:00,70
+555,Notuv - Denk Pharma,2021-11-08 05:16:01,DMO_1001000,3917,WHO,Metformin,2022-02-12 08:00:00,1
+556,Notuv - Denk Pharma,2021-11-08 06:00:50,DMO_1001000,2379,WHO,Metformin,2022-08-01 08:00:00,39
+557,Notuv - Denk Pharma,2021-11-08 20:01:20,DMO_1001000,3993,Red Cross,Metformin,2021-12-31 08:00:00,39
+558,Notuv - Denk Pharma,2021-11-09 05:41:18,DMO_1001000,1570,Bill Gates Foundation,Metformin,2023-05-31 08:00:00,15
+559,Notuv - Denk Pharma,2021-11-09 21:35:18,DMO_1001000,1473,WHO,Metformin,2023-04-13 08:00:00,161
+560,Notuv - Denk Pharma,2021-11-10 11:17:21,DMO_1001000,3275,WHO,Metformin,2022-08-08 08:00:00,18
+561,Notuv - Denk Pharma,2021-11-10 19:33:28,DMO_1001000,2591,WHO,Metformin,2022-06-01 08:00:00,77
+562,Notuv - Denk Pharma,2021-11-11 03:45:09,DMO_1001000,3303,Bill Gates Foundation,Metformin,2021-12-28 08:00:00,115
+563,Notuv - Denk Pharma,2021-11-11 07:16:36,DMO_1001000,4769,WHO,Metformin,2023-03-30 08:00:00,76
+564,Notuv - Denk Pharma,2021-11-11 09:17:20,DMO_1001000,1029,Bill Gates Foundation,Metformin,2022-09-11 08:00:00,60
+565,Notuv - Denk Pharma,2021-11-11 23:35:10,DMO_1001000,3041,WHO,Metformin,2022-08-06 08:00:00,17
+566,Notuv - Denk Pharma,2021-11-12 04:42:46,DMO_1001000,1695,Red Cross,Metformin,2021-12-10 08:00:00,1
+567,Notuv - Denk Pharma,2021-11-12 07:04:30,DMO_1001000,3717,Red Cross,Metformin,2022-05-25 08:00:00,58
+568,Notuv - Denk Pharma,2021-11-12 09:19:22,DMO_1001000,1669,Red Cross,Metformin,2022-01-31 08:00:00,43
+569,Notuv - Denk Pharma,2021-11-12 16:12:14,DMO_1001000,3696,Red Cross,Metformin,2022-05-01 08:00:00,143
+570,Notuv - Denk Pharma,2021-11-12 16:34:14,DMO_1001000,1350,Red Cross,Metformin,2023-07-06 08:00:00,1
+571,Notuv - Denk Pharma,2021-11-12 17:48:46,DMO_1001000,1943,Bill Gates Foundation,Metformin,2023-06-22 08:00:00,134
+572,Notuv - Denk Pharma,2021-11-12 20:04:27,DMO_1001000,3411,Bill Gates Foundation,Metformin,2022-01-20 08:00:00,89
+573,Notuv - Denk Pharma,2021-11-12 23:26:12,DMO_1001000,2837,Bill Gates Foundation,Metformin,2022-11-07 08:00:00,25
+574,Notuv - Denk Pharma,2021-11-13 07:52:34,DMO_1001000,4277,Bill Gates Foundation,Metformin,2022-03-11 08:00:00,65
+575,Notuv - Denk Pharma,2021-11-13 09:04:11,DMO_1001000,2489,Bill Gates Foundation,Metformin,2022-06-19 08:00:00,1
+576,Notuv - Denk Pharma,2021-11-13 20:46:34,DMO_1001000,4209,Bill Gates Foundation,Metformin,2023-07-15 08:00:00,114
+577,Notuv - Denk Pharma,2021-11-14 06:15:57,DMO_1001000,4471,Bill Gates Foundation,Metformin,2021-11-27 08:00:00,124
+578,Notuv - Denk Pharma,2021-11-14 10:53:53,DMO_1001000,1058,Bill Gates Foundation,Metformin,2023-06-05 08:00:00,87
+579,Notuv - Denk Pharma,2021-11-14 13:49:25,DMO_1001000,2050,Bill Gates Foundation,Metformin,2022-11-17 08:00:00,97
+580,Notuv - Denk Pharma,2021-11-14 14:41:20,DMO_1001000,1122,WHO,Metformin,2022-10-23 08:00:00,52
+581,Notuv - Denk Pharma,2021-11-14 20:12:59,DMO_1001000,4065,Bill Gates Foundation,Metformin,2022-11-25 08:00:00,47
+582,Notuv - Denk Pharma,2021-11-14 23:21:54,DMO_1001000,2631,Bill Gates Foundation,Metformin,2022-02-10 08:00:00,1
+583,Notuv - Denk Pharma,2021-11-15 04:08:09,DMO_1001000,4881,Bill Gates Foundation,Metformin,2023-04-15 08:00:00,120
+584,Notuv - Denk Pharma,2021-11-15 10:24:57,DMO_1001000,1062,Red Cross,Metformin,2022-10-24 08:00:00,60
+585,Notuv - Denk Pharma,2021-11-15 14:12:36,DMO_1001000,2793,Bill Gates Foundation,Metformin,2022-04-30 08:00:00,1
+586,Notuv - Denk Pharma,2021-11-15 19:23:46,DMO_1001000,3456,WHO,Metformin,2022-05-22 08:00:00,1
+587,Notuv - Denk Pharma,2021-11-15 23:41:27,DMO_1001000,3970,WHO,Metformin,2022-08-17 08:00:00,112
+588,Notuv - Denk Pharma,2021-11-16 09:53:15,DMO_1001000,4672,Bill Gates Foundation,Metformin,2022-01-10 08:00:00,72
+589,Notuv - Denk Pharma,2021-11-16 20:42:41,DMO_1001000,4551,Bill Gates Foundation,Metformin,2021-11-21 08:00:00,1
+590,Notuv - Denk Pharma,2021-11-17 06:42:45,DMO_1001000,4712,Bill Gates Foundation,Metformin,2023-07-15 08:00:00,1
+591,Notuv - Denk Pharma,2021-11-17 08:34:22,DMO_1001000,2971,WHO,Metformin,2022-10-05 08:00:00,65
+592,Notuv - Denk Pharma,2021-11-17 14:39:59,DMO_1001000,4618,Red Cross,Metformin,2022-01-22 08:00:00,151
+593,Notuv - Denk Pharma,2021-11-17 15:08:17,DMO_1001000,4199,Red Cross,Metformin,2022-05-28 08:00:00,91
+594,Notuv - Denk Pharma,2021-11-17 15:10:22,DMO_1001000,3498,Red Cross,Metformin,2022-04-17 08:00:00,1
+595,Notuv - Denk Pharma,2021-11-17 19:16:03,DMO_1001000,1351,Red Cross,Metformin,2022-04-26 08:00:00,121
+596,Notuv - Denk Pharma,2021-11-17 23:17:10,DMO_1001000,1813,Red Cross,Metformin,2022-06-28 08:00:00,135
+597,Notuv - Denk Pharma,2021-11-18 07:05:38,DMO_1001000,4868,Red Cross,Metformin,2022-06-09 08:00:00,132
+598,Notuv - Denk Pharma,2021-11-18 08:49:25,DMO_1001000,1423,WHO,Metformin,2023-02-02 08:00:00,1
+599,Notuv - Denk Pharma,2021-11-18 13:22:18,DMO_1001000,2844,WHO,Metformin,2022-01-11 08:00:00,81
+600,Notuv - Denk Pharma,2021-11-18 20:21:41,DMO_1001000,1115,Red Cross,Metformin,2023-04-16 08:00:00,1
+601,Notuv - Denk Pharma,2021-11-19 04:31:35,DMO_1001000,2944,Bill Gates Foundation,Metformin,2022-09-24 08:00:00,82
+602,Notuv - Denk Pharma,2021-11-19 06:19:47,DMO_1001000,4565,WHO,Metformin,2023-07-13 08:00:00,1
+603,Notuv - Denk Pharma,2021-11-19 06:35:07,DMO_1001000,4628,Red Cross,Metformin,2023-04-10 08:00:00,92
+604,Notuv - Denk Pharma,2021-11-19 07:46:35,DMO_1001000,2714,Red Cross,Metformin,2022-03-02 08:00:00,40
+605,Notuv - Denk Pharma,2021-11-19 12:50:59,DMO_1001000,4400,Bill Gates Foundation,Metformin,2022-03-19 08:00:00,1
+606,Notuv - Denk Pharma,2021-11-20 08:24:28,DMO_1001000,4735,Red Cross,Metformin,2022-11-05 08:00:00,32
+607,Notuv - Denk Pharma,2021-11-20 08:50:49,DMO_1001000,3889,Red Cross,Metformin,2022-02-25 08:00:00,32
+608,Notuv - Denk Pharma,2021-11-20 19:22:43,DMO_1001000,3968,Bill Gates Foundation,Metformin,2022-02-18 08:00:00,156
+609,Notuv - Denk Pharma,2021-11-21 01:45:45,DMO_1001000,3824,Red Cross,Metformin,2021-12-22 08:00:00,1
+610,Notuv - Denk Pharma,2021-11-21 10:38:56,DMO_1001000,3871,WHO,Metformin,2023-04-10 08:00:00,14
+611,Notuv - Denk Pharma,2021-11-21 20:02:05,DMO_1001000,2564,WHO,Metformin,2022-10-04 08:00:00,165
+612,Notuv - Denk Pharma,2021-11-22 04:16:48,DMO_1001000,3855,WHO,Metformin,2022-03-07 08:00:00,100
+613,Notuv - Denk Pharma,2021-11-22 14:53:12,DMO_1001000,4714,Red Cross,Metformin,2022-03-06 08:00:00,121
+614,Notuv - Denk Pharma,2021-11-22 19:22:37,DMO_1001000,2799,Bill Gates Foundation,Metformin,2022-04-09 08:00:00,1
+615,Notuv - Denk Pharma,2021-11-22 20:39:39,DMO_1001000,3427,Red Cross,Metformin,2021-12-31 08:00:00,1
+616,Notuv - Denk Pharma,2021-11-22 20:41:11,DMO_1001000,2847,WHO,Metformin,2023-07-05 08:00:00,105
+617,Notuv - Denk Pharma,2021-11-22 21:07:51,DMO_1001000,4710,WHO,Metformin,2022-04-15 08:00:00,6
+618,Notuv - Denk Pharma,2021-11-23 01:54:30,DMO_1001000,3455,Red Cross,Metformin,2023-07-01 08:00:00,31
+619,Notuv - Denk Pharma,2021-11-23 06:13:55,DMO_1001000,2906,Bill Gates Foundation,Metformin,2022-01-03 08:00:00,1
+620,Notuv - Denk Pharma,2021-11-23 23:09:35,DMO_1001000,3772,Bill Gates Foundation,Metformin,2022-04-17 08:00:00,91
+621,Notuv - Denk Pharma,2021-11-24 00:25:15,DMO_1001000,4062,WHO,Metformin,2023-01-29 08:00:00,1
+622,Notuv - Denk Pharma,2021-11-24 09:24:06,DMO_1001000,3811,Bill Gates Foundation,Metformin,2022-08-08 08:00:00,49
+623,Notuv - Denk Pharma,2021-11-25 03:21:13,DMO_1001000,4687,Red Cross,Metformin,2023-01-13 08:00:00,67
+624,Notuv - Denk Pharma,2021-11-25 09:00:24,DMO_1001000,4111,Bill Gates Foundation,Metformin,2023-02-04 08:00:00,74
+625,Notuv - Denk Pharma,2021-11-25 12:26:39,DMO_1001000,4957,WHO,Metformin,2022-01-14 08:00:00,1
+626,Notuv - Denk Pharma,2021-11-25 13:29:54,DMO_1001000,4042,WHO,Metformin,2021-12-15 08:00:00,62
+627,Notuv - Denk Pharma,2021-11-25 20:13:41,DMO_1001000,1054,WHO,Metformin,2022-03-12 08:00:00,26
+628,Notuv - Denk Pharma,2021-11-25 22:03:06,DMO_1001000,3610,WHO,Metformin,2023-06-29 08:00:00,44
+629,Notuv - Denk Pharma,2021-11-26 22:12:03,DMO_1001000,1917,Red Cross,Metformin,2022-11-23 08:00:00,33
+630,Notuv - Denk Pharma,2021-11-27 04:03:13,DMO_1001000,1886,Bill Gates Foundation,Metformin,2021-11-28 08:00:00,5
+631,Notuv - Denk Pharma,2021-11-27 12:16:56,DMO_1001000,1101,WHO,Metformin,2023-06-30 08:00:00,13
+632,Notuv - Denk Pharma,2021-11-27 18:14:57,DMO_1001000,4343,Red Cross,Metformin,2021-12-21 08:00:00,22
+633,Notuv - Denk Pharma,2021-11-28 04:08:09,DMO_1001000,1126,Bill Gates Foundation,Metformin,2022-01-27 08:00:00,30
+634,Notuv - Denk Pharma,2021-11-28 09:54:06,DMO_1001000,4074,WHO,Metformin,2023-06-02 08:00:00,1
+635,Notuv - Denk Pharma,2021-11-28 14:01:26,DMO_1001000,3507,Bill Gates Foundation,Metformin,2022-04-04 08:00:00,52
+636,Notuv - Denk Pharma,2021-11-29 08:18:52,DMO_1001000,2993,WHO,Metformin,2022-06-07 08:00:00,129
+637,Notuv - Denk Pharma,2021-11-29 21:36:52,DMO_1001000,3393,WHO,Metformin,2023-06-17 08:00:00,1
+638,Notuv - Denk Pharma,2021-11-29 23:36:05,DMO_1001000,3702,Red Cross,Metformin,2022-11-24 08:00:00,77
+639,Notuv - Denk Pharma,2021-11-30 04:26:25,DMO_1001000,1974,Red Cross,Metformin,2023-04-02 08:00:00,1
+640,Notuv - Denk Pharma,2021-11-30 07:07:28,DMO_1001000,3665,Bill Gates Foundation,Metformin,2022-02-08 08:00:00,23
+641,Notuv - Denk Pharma,2021-11-30 08:45:13,DMO_1001000,1330,WHO,Metformin,2022-03-10 08:00:00,79
+642,Notuv - Denk Pharma,2021-11-30 10:22:52,DMO_1001000,3274,Bill Gates Foundation,Metformin,2022-07-28 08:00:00,36
+643,Notuv - Denk Pharma,2021-11-30 13:23:29,DMO_1001000,1236,WHO,Metformin,2022-05-19 08:00:00,24
+644,Notuv - Denk Pharma,2021-11-30 13:50:21,DMO_1001000,3035,Red Cross,Metformin,2022-03-29 08:00:00,65
+645,Notuv - Denk Pharma,2021-11-30 20:11:46,DMO_1001000,3586,Bill Gates Foundation,Metformin,2022-12-13 08:00:00,107
+646,Notuv - Denk Pharma,2021-11-30 21:18:26,DMO_1001000,4315,WHO,Metformin,2022-09-10 08:00:00,70
+647,Notuv - Denk Pharma,2021-12-01 03:23:44,DMO_1001000,3525,Bill Gates Foundation,Metformin,2023-04-20 08:00:00,1
+648,Notuv - Denk Pharma,2021-12-01 05:48:12,DMO_1001000,3221,Bill Gates Foundation,Metformin,2022-04-29 08:00:00,59
+649,Notuv - Denk Pharma,2021-12-01 09:12:45,DMO_1001000,4327,Bill Gates Foundation,Metformin,2022-11-30 08:00:00,83
+650,Notuv - Denk Pharma,2021-12-01 10:54:16,DMO_1001000,2123,WHO,Metformin,2023-04-21 08:00:00,28
+651,Notuv - Denk Pharma,2021-12-01 14:17:34,DMO_1001000,3004,WHO,Metformin,2022-11-09 08:00:00,141
+652,Notuv - Denk Pharma,2021-12-01 19:54:31,DMO_1001000,3647,WHO,Metformin,2022-03-29 08:00:00,26
+653,Notuv - Denk Pharma,2021-12-01 21:57:35,DMO_1001000,1741,WHO,Metformin,2022-03-23 08:00:00,10
+654,Notuv - Denk Pharma,2021-12-02 07:16:13,DMO_1001000,1062,Red Cross,Metformin,2022-06-28 08:00:00,206
+655,Notuv - Denk Pharma,2021-12-02 11:59:40,DMO_1001000,4188,Red Cross,Metformin,2023-02-19 08:00:00,158
+656,Notuv - Denk Pharma,2021-12-02 12:23:19,DMO_1001000,3116,Red Cross,Metformin,2021-11-24 08:00:00,174
+657,Notuv - Denk Pharma,2021-12-02 13:47:32,DMO_1001000,2250,Red Cross,Metformin,2023-01-08 08:00:00,71
+658,Notuv - Denk Pharma,2021-12-02 14:19:38,DMO_1001000,2222,Bill Gates Foundation,Metformin,2023-07-08 08:00:00,43
+659,Notuv - Denk Pharma,2021-12-02 21:17:18,DMO_1001000,4731,WHO,Metformin,2023-02-25 08:00:00,19
+660,Notuv - Denk Pharma,2021-12-03 08:28:12,DMO_1001000,1000,Bill Gates Foundation,Metformin,2022-08-24 08:00:00,160
+661,Notuv - Denk Pharma,2021-12-03 11:03:25,DMO_1001000,3208,Bill Gates Foundation,Metformin,2023-02-04 08:00:00,92
+662,Notuv - Denk Pharma,2021-12-03 13:37:19,DMO_1001000,1218,Bill Gates Foundation,Metformin,2022-08-30 08:00:00,86
+663,Notuv - Denk Pharma,2021-12-03 19:11:26,DMO_1001000,2319,Bill Gates Foundation,Metformin,2022-10-29 08:00:00,21
+664,Notuv - Denk Pharma,2021-12-04 09:47:14,DMO_1001000,4472,WHO,Metformin,2023-05-11 08:00:00,53
+665,Notuv - Denk Pharma,2021-12-04 15:17:35,DMO_1001000,3643,WHO,Metformin,2023-06-06 08:00:00,1
+666,Notuv - Denk Pharma,2021-12-04 17:35:56,DMO_1001000,1415,WHO,Metformin,2022-11-25 08:00:00,43
+667,Notuv - Denk Pharma,2021-12-05 01:04:28,DMO_1001000,3641,Bill Gates Foundation,Metformin,2022-07-09 08:00:00,1
+668,Notuv - Denk Pharma,2021-12-05 10:11:23,DMO_1001000,3443,WHO,Metformin,2023-07-07 08:00:00,5
+669,Notuv - Denk Pharma,2021-12-05 20:33:48,DMO_1001000,3782,Bill Gates Foundation,Metformin,2022-08-08 08:00:00,78
+670,Notuv - Denk Pharma,2021-12-06 17:55:49,DMO_1001000,4943,WHO,Metformin,2022-07-10 08:00:00,1
+671,Notuv - Denk Pharma,2021-12-07 01:19:03,DMO_1001000,4738,Red Cross,Metformin,2021-12-27 08:00:00,17
+672,Notuv - Denk Pharma,2021-12-07 05:46:39,DMO_1001000,4028,WHO,Metformin,2023-05-02 08:00:00,1
+673,Notuv - Denk Pharma,2021-12-07 14:47:52,DMO_1001000,2610,Red Cross,Metformin,2022-01-31 08:00:00,64
+674,Notuv - Denk Pharma,2021-12-08 06:04:51,DMO_1001000,2318,Red Cross,Metformin,2022-07-22 08:00:00,83
+675,Notuv - Denk Pharma,2021-12-08 06:26:13,DMO_1001000,1180,Bill Gates Foundation,Metformin,2023-06-12 08:00:00,121
+676,Notuv - Denk Pharma,2021-12-08 14:52:10,DMO_1001000,4419,Red Cross,Metformin,2023-04-12 08:00:00,89
+677,Notuv - Denk Pharma,2021-12-08 22:30:44,DMO_1001000,1884,Bill Gates Foundation,Metformin,2022-12-17 08:00:00,100
+678,Notuv - Denk Pharma,2021-12-09 02:29:06,DMO_1001000,1540,WHO,Metformin,2022-07-12 08:00:00,48
+679,Notuv - Denk Pharma,2021-12-09 05:25:31,DMO_1001000,2729,Bill Gates Foundation,Metformin,2022-11-29 08:00:00,34
+680,Notuv - Denk Pharma,2021-12-09 08:08:21,DMO_1001000,3728,Bill Gates Foundation,Metformin,2022-12-31 08:00:00,1
+681,Notuv - Denk Pharma,2021-12-09 14:09:46,DMO_1001000,4789,Bill Gates Foundation,Metformin,2021-12-13 08:00:00,66
+682,Notuv - Denk Pharma,2021-12-09 16:40:39,DMO_1001000,4497,WHO,Metformin,2022-03-17 08:00:00,84
+683,Notuv - Denk Pharma,2021-12-09 17:56:54,DMO_1001000,3836,Red Cross,Metformin,2022-04-13 08:00:00,1
+684,Notuv - Denk Pharma,2021-12-10 02:59:29,DMO_1001000,2087,Red Cross,Metformin,2023-06-14 08:00:00,1
+685,Notuv - Denk Pharma,2021-12-10 10:31:46,DMO_1001000,3970,WHO,Metformin,2022-06-18 08:00:00,112
+686,Notuv - Denk Pharma,2021-12-10 13:26:48,DMO_1001000,2709,Red Cross,Metformin,2023-06-02 08:00:00,61
+687,Notuv - Denk Pharma,2021-12-10 16:48:41,DMO_1001000,4907,Bill Gates Foundation,Metformin,2022-07-24 08:00:00,51
+688,Notuv - Denk Pharma,2021-12-10 20:21:51,DMO_1001000,3412,Bill Gates Foundation,Metformin,2023-05-28 08:00:00,101
+689,Notuv - Denk Pharma,2021-12-10 22:15:29,DMO_1001000,4481,Bill Gates Foundation,Metformin,2022-05-05 08:00:00,22
+690,Notuv - Denk Pharma,2021-12-10 23:50:25,DMO_1001000,3999,WHO,Metformin,2022-01-28 08:00:00,103
+691,Notuv - Denk Pharma,2021-12-10 23:50:48,DMO_1001000,1099,WHO,Metformin,2022-03-30 08:00:00,1
+692,Notuv - Denk Pharma,2021-12-11 00:15:58,DMO_1001000,1511,Bill Gates Foundation,Metformin,2022-04-26 08:00:00,1
+693,Notuv - Denk Pharma,2021-12-11 12:21:05,DMO_1001000,1598,Bill Gates Foundation,Metformin,2023-02-16 08:00:00,117
+694,Notuv - Denk Pharma,2021-12-11 13:20:48,DMO_1001000,4377,Red Cross,Metformin,2022-06-28 08:00:00,1
+695,Notuv - Denk Pharma,2021-12-12 11:17:34,DMO_1001000,2580,Red Cross,Metformin,2023-05-26 08:00:00,108
+696,Notuv - Denk Pharma,2021-12-12 19:22:59,DMO_1001000,2636,WHO,Metformin,2022-05-09 08:00:00,157
+697,Notuv - Denk Pharma,2021-12-12 19:45:24,DMO_1001000,3025,Bill Gates Foundation,Metformin,2022-11-13 08:00:00,101
+698,Notuv - Denk Pharma,2021-12-12 19:59:47,DMO_1001000,3080,WHO,Metformin,2022-10-29 08:00:00,155
+699,Notuv - Denk Pharma,2021-12-13 04:38:33,DMO_1001000,1873,WHO,Metformin,2023-02-04 08:00:00,104
+700,Notuv - Denk Pharma,2021-12-13 05:09:30,DMO_1001000,2923,Red Cross,Metformin,2022-08-29 08:00:00,106
+701,Notuv - Denk Pharma,2021-12-13 05:57:42,DMO_1001000,2562,Bill Gates Foundation,Metformin,2023-04-23 08:00:00,23
+702,Notuv - Denk Pharma,2021-12-13 15:39:10,DMO_1001000,3388,Bill Gates Foundation,Metformin,2022-08-17 08:00:00,47
+703,Notuv - Denk Pharma,2021-12-13 16:57:59,DMO_1001000,2520,WHO,Metformin,2023-01-26 08:00:00,60
+704,Notuv - Denk Pharma,2021-12-13 19:30:10,DMO_1001000,3592,Bill Gates Foundation,Metformin,2022-04-01 08:00:00,89
+705,Notuv - Denk Pharma,2021-12-13 21:20:00,DMO_1001000,2492,Red Cross,Metformin,2022-12-03 08:00:00,78
+706,Notuv - Denk Pharma,2021-12-14 07:05:13,DMO_1001000,4017,WHO,Metformin,2023-04-18 08:00:00,82
+707,Notuv - Denk Pharma,2021-12-14 09:25:08,DMO_1001000,3969,Bill Gates Foundation,Metformin,2023-02-11 08:00:00,86
+708,Notuv - Denk Pharma,2021-12-14 16:43:34,DMO_1001000,2270,WHO,Metformin,2022-10-31 08:00:00,1
+709,Notuv - Denk Pharma,2021-12-14 20:10:43,DMO_1001000,4702,Red Cross,Metformin,2022-08-19 08:00:00,6
+710,Notuv - Denk Pharma,2021-12-14 22:11:14,DMO_1001000,4312,Bill Gates Foundation,Metformin,2022-01-16 08:00:00,4
+711,Notuv - Denk Pharma,2021-12-14 23:09:08,DMO_1001000,4940,WHO,Metformin,2021-11-28 08:00:00,46
+712,Notuv - Denk Pharma,2021-12-15 11:09:55,DMO_1001000,1803,Red Cross,Metformin,2023-01-04 08:00:00,81
+713,Notuv - Denk Pharma,2021-12-15 15:40:45,DMO_1001000,4006,WHO,Metformin,2023-04-06 08:00:00,65
+714,Notuv - Denk Pharma,2021-12-15 22:17:06,DMO_1001000,4857,WHO,Metformin,2021-11-23 08:00:00,18
+715,Notuv - Denk Pharma,2021-12-16 03:28:11,DMO_1001000,2351,Bill Gates Foundation,Metformin,2022-12-23 08:00:00,1
+716,Notuv - Denk Pharma,2021-12-16 10:33:41,DMO_1001000,3667,Bill Gates Foundation,Metformin,2022-09-13 08:00:00,1
+717,Notuv - Denk Pharma,2021-12-16 10:47:19,DMO_1001000,3640,Bill Gates Foundation,Metformin,2022-04-01 08:00:00,80
+718,Notuv - Denk Pharma,2021-12-16 12:50:17,DMO_1001000,2131,Bill Gates Foundation,Metformin,2023-03-14 08:00:00,151
+719,Notuv - Denk Pharma,2021-12-16 16:53:25,DMO_1001000,4287,Bill Gates Foundation,Metformin,2022-02-23 08:00:00,106
+720,Notuv - Denk Pharma,2021-12-16 18:42:21,DMO_1001000,3129,WHO,Metformin,2023-06-26 08:00:00,149
+721,Notuv - Denk Pharma,2021-12-17 04:22:22,DMO_1001000,1044,Red Cross,Metformin,2022-11-02 08:00:00,69
+722,Notuv - Denk Pharma,2021-12-17 12:05:18,DMO_1001000,1253,Red Cross,Metformin,2022-06-20 08:00:00,76
+723,Notuv - Denk Pharma,2021-12-17 23:03:50,DMO_1001000,3698,WHO,Metformin,2021-10-31 08:00:00,19
+724,Notuv - Denk Pharma,2021-12-18 01:29:13,DMO_1001000,1252,Red Cross,Metformin,2022-01-24 08:00:00,53
+725,Notuv - Denk Pharma,2021-12-18 15:15:24,DMO_1001000,1581,Bill Gates Foundation,Metformin,2023-04-27 08:00:00,101
+726,Notuv - Denk Pharma,2021-12-19 02:01:47,DMO_1001000,4050,WHO,Metformin,2022-07-24 08:00:00,136
+727,Notuv - Denk Pharma,2021-12-19 06:31:00,DMO_1001000,4681,WHO,Metformin,2022-06-02 08:00:00,25
+728,Notuv - Denk Pharma,2021-12-19 09:12:21,DMO_1001000,2965,Red Cross,Metformin,2022-07-15 08:00:00,1
+729,Notuv - Denk Pharma,2021-12-19 12:05:28,DMO_1001000,2982,Bill Gates Foundation,Metformin,2023-01-31 08:00:00,20
+730,Notuv - Denk Pharma,2021-12-19 13:31:41,DMO_1001000,4878,Red Cross,Metformin,2023-05-10 08:00:00,50
+731,Notuv - Denk Pharma,2021-12-19 17:08:43,DMO_1001000,1588,Red Cross,Metformin,2022-01-07 08:00:00,60
+732,Notuv - Denk Pharma,2021-12-19 22:52:47,DMO_1001000,4302,WHO,Metformin,2022-02-14 08:00:00,104
+733,Notuv - Denk Pharma,2021-12-20 01:34:34,DMO_1001000,3901,Red Cross,Metformin,2023-04-02 08:00:00,151
+734,Notuv - Denk Pharma,2021-12-20 05:01:41,DMO_1001000,1487,WHO,Metformin,2022-04-04 08:00:00,73
+735,Notuv - Denk Pharma,2021-12-20 05:31:52,DMO_1001000,3572,WHO,Metformin,2021-11-09 08:00:00,43
+736,Notuv - Denk Pharma,2021-12-20 17:08:50,DMO_1001000,3546,WHO,Metformin,2023-03-01 08:00:00,22
+737,Notuv - Denk Pharma,2021-12-20 17:38:40,DMO_1001000,3282,WHO,Metformin,2021-12-07 08:00:00,6
+738,Notuv - Denk Pharma,2021-12-20 19:01:09,DMO_1001000,3665,WHO,Metformin,2021-12-07 08:00:00,1
+739,Notuv - Denk Pharma,2021-12-21 03:43:49,DMO_1001000,2607,Red Cross,Metformin,2023-05-22 08:00:00,108
+740,Notuv - Denk Pharma,2021-12-21 03:52:19,DMO_1001000,3876,Bill Gates Foundation,Metformin,2023-02-01 08:00:00,1
+741,Notuv - Denk Pharma,2021-12-21 03:59:53,DMO_1001000,2565,Red Cross,Metformin,2023-03-26 08:00:00,53
+742,Notuv - Denk Pharma,2021-12-21 08:24:09,DMO_1001000,2898,Bill Gates Foundation,Metformin,2022-06-16 08:00:00,1
+743,Notuv - Denk Pharma,2021-12-21 08:49:26,DMO_1001000,2548,Bill Gates Foundation,Metformin,2022-04-16 08:00:00,178
+744,Notuv - Denk Pharma,2021-12-21 10:38:11,DMO_1001000,4378,Bill Gates Foundation,Metformin,2022-06-29 08:00:00,113
+745,Notuv - Denk Pharma,2021-12-21 13:42:56,DMO_1001000,4977,Red Cross,Metformin,2023-01-08 08:00:00,7
+746,Notuv - Denk Pharma,2021-12-21 17:35:10,DMO_1001000,2326,Bill Gates Foundation,Metformin,2021-11-02 08:00:00,1
+747,Notuv - Denk Pharma,2021-12-21 20:19:17,DMO_1001000,4771,Bill Gates Foundation,Metformin,2022-01-09 08:00:00,114
+748,Notuv - Denk Pharma,2021-12-22 02:30:57,DMO_1001000,4558,WHO,Metformin,2023-05-17 08:00:00,11
+749,Notuv - Denk Pharma,2021-12-22 07:03:47,DMO_1001000,3596,Bill Gates Foundation,Metformin,2021-12-12 08:00:00,73
+750,Notuv - Denk Pharma,2021-12-22 10:39:52,DMO_1001000,4943,WHO,Metformin,2022-05-14 08:00:00,62
+751,Notuv - Denk Pharma,2021-12-22 16:15:34,DMO_1001000,2685,Red Cross,Metformin,2023-01-22 08:00:00,96
+752,Notuv - Denk Pharma,2021-12-22 18:39:11,DMO_1001000,4526,WHO,Metformin,2023-04-10 08:00:00,125
+753,Notuv - Denk Pharma,2021-12-23 03:29:16,DMO_1001000,3514,WHO,Metformin,2022-10-11 08:00:00,164
+754,Notuv - Denk Pharma,2021-12-23 13:53:01,DMO_1001000,3509,Bill Gates Foundation,Metformin,2021-11-28 08:00:00,39
+755,Notuv - Denk Pharma,2021-12-23 23:12:24,DMO_1001000,1759,Bill Gates Foundation,Metformin,2022-08-11 08:00:00,31
+756,Notuv - Denk Pharma,2021-12-23 23:28:26,DMO_1001000,2804,WHO,Metformin,2022-10-11 08:00:00,36
+757,Notuv - Denk Pharma,2021-12-24 03:10:47,DMO_1001000,4994,Red Cross,Metformin,2023-02-20 08:00:00,3
+758,Notuv - Denk Pharma,2021-12-24 05:42:21,DMO_1001000,4005,Bill Gates Foundation,Metformin,2022-07-17 08:00:00,118
+759,Notuv - Denk Pharma,2021-12-24 06:06:41,DMO_1001000,3726,Bill Gates Foundation,Metformin,2023-01-19 08:00:00,126
+760,Notuv - Denk Pharma,2021-12-24 17:58:49,DMO_1001000,4181,Bill Gates Foundation,Metformin,2023-06-09 08:00:00,17
+761,Notuv - Denk Pharma,2021-12-24 18:10:09,DMO_1001000,1148,WHO,Metformin,2023-07-26 08:00:00,117
+762,Notuv - Denk Pharma,2021-12-25 07:49:20,DMO_1001000,1043,WHO,Metformin,2023-03-19 08:00:00,51
+763,Notuv - Denk Pharma,2021-12-25 09:37:25,DMO_1001000,4667,Bill Gates Foundation,Metformin,2022-05-14 08:00:00,129
+764,Notuv - Denk Pharma,2021-12-25 10:45:15,DMO_1001000,4999,Red Cross,Metformin,2022-01-21 08:00:00,1
+765,Notuv - Denk Pharma,2021-12-25 14:08:09,DMO_1001000,4084,Red Cross,Metformin,2023-01-12 08:00:00,169
+766,Notuv - Denk Pharma,2021-12-25 14:34:42,DMO_1001000,1057,Bill Gates Foundation,Metformin,2023-02-26 08:00:00,24
+767,Notuv - Denk Pharma,2021-12-25 19:03:43,DMO_1001000,3823,Red Cross,Metformin,2022-11-25 08:00:00,57
+768,Notuv - Denk Pharma,2021-12-25 19:42:58,DMO_1001000,4072,Bill Gates Foundation,Metformin,2023-05-03 08:00:00,50
+769,Notuv - Denk Pharma,2021-12-25 21:37:45,DMO_1001000,3844,WHO,Metformin,2023-04-18 08:00:00,34
+770,Notuv - Denk Pharma,2021-12-26 06:23:52,DMO_1001000,1208,Bill Gates Foundation,Metformin,2022-11-24 08:00:00,31
+771,Notuv - Denk Pharma,2021-12-26 07:51:04,DMO_1001000,3468,Bill Gates Foundation,Metformin,2022-07-12 08:00:00,34
+772,Notuv - Denk Pharma,2021-12-26 11:13:51,DMO_1001000,4690,Bill Gates Foundation,Metformin,2022-04-22 08:00:00,79
+773,Notuv - Denk Pharma,2021-12-26 13:56:24,DMO_1001000,2852,Bill Gates Foundation,Metformin,2022-01-11 08:00:00,54
+774,Notuv - Denk Pharma,2021-12-26 17:01:52,DMO_1001000,1224,Red Cross,Metformin,2021-12-30 08:00:00,98
+775,Notuv - Denk Pharma,2021-12-27 04:01:56,DMO_1001000,2767,Bill Gates Foundation,Metformin,2022-03-13 08:00:00,148
+776,Notuv - Denk Pharma,2021-12-27 06:39:15,DMO_1001000,4043,Red Cross,Metformin,2022-07-09 08:00:00,1
+777,Notuv - Denk Pharma,2021-12-27 11:45:05,DMO_1001000,2436,Red Cross,Metformin,2022-01-19 08:00:00,1
+778,Notuv - Denk Pharma,2021-12-27 17:07:19,DMO_1001000,3386,Red Cross,Metformin,2022-08-19 08:00:00,1
+779,Notuv - Denk Pharma,2021-12-27 22:58:01,DMO_1001000,4699,Red Cross,Metformin,2023-05-09 08:00:00,120
+780,Notuv - Denk Pharma,2021-12-28 01:03:29,DMO_1001000,2143,Bill Gates Foundation,Metformin,2022-11-25 08:00:00,15
+781,Notuv - Denk Pharma,2021-12-28 12:40:20,DMO_1001000,3910,WHO,Metformin,2022-04-16 08:00:00,1
+782,Notuv - Denk Pharma,2021-12-28 17:06:17,DMO_1001000,2035,Bill Gates Foundation,Metformin,2022-02-04 08:00:00,73
+783,Notuv - Denk Pharma,2021-12-28 18:14:01,DMO_1001000,3280,Bill Gates Foundation,Metformin,2021-12-21 08:00:00,1
+784,Notuv - Denk Pharma,2021-12-28 23:06:04,DMO_1001000,3616,WHO,Metformin,2022-08-10 08:00:00,8
+785,Notuv - Denk Pharma,2021-12-29 05:52:38,DMO_1001000,1840,Red Cross,Metformin,2022-07-08 08:00:00,153
+786,Notuv - Denk Pharma,2021-12-29 11:09:46,DMO_1001000,3556,WHO,Metformin,2022-05-30 08:00:00,100
+787,Notuv - Denk Pharma,2021-12-29 12:49:34,DMO_1001000,2449,Red Cross,Metformin,2023-06-04 08:00:00,105
+788,Notuv - Denk Pharma,2021-12-30 01:43:27,DMO_1001000,4504,Red Cross,Metformin,2023-07-13 08:00:00,74
+789,Notuv - Denk Pharma,2021-12-30 02:02:53,DMO_1001000,3552,WHO,Metformin,2022-12-11 08:00:00,36
+790,Notuv - Denk Pharma,2021-12-30 07:47:34,DMO_1001000,3379,Red Cross,Metformin,2023-02-04 08:00:00,21
+791,Notuv - Denk Pharma,2021-12-30 07:49:12,DMO_1001000,2952,Red Cross,Metformin,2022-01-10 08:00:00,27
+792,Notuv - Denk Pharma,2021-12-30 07:53:05,DMO_1001000,3680,Red Cross,Metformin,2022-07-08 08:00:00,1
+793,Notuv - Denk Pharma,2021-12-30 16:06:25,DMO_1001000,4546,WHO,Metformin,2022-05-16 08:00:00,44
+794,Notuv - Denk Pharma,2021-12-30 23:51:14,DMO_1001000,3857,WHO,Metformin,2022-02-04 08:00:00,23
+795,Notuv - Denk Pharma,2021-12-31 00:41:59,DMO_1001000,1325,Red Cross,Metformin,2022-01-17 08:00:00,96
+796,Notuv - Denk Pharma,2021-12-31 02:29:29,DMO_1001000,2467,Bill Gates Foundation,Metformin,2023-07-06 08:00:00,170
+797,Notuv - Denk Pharma,2021-12-31 18:52:22,DMO_1001000,4309,Bill Gates Foundation,Metformin,2023-01-30 08:00:00,17
+798,Notuv - Denk Pharma,2021-12-31 19:18:08,DMO_1001000,3501,WHO,Metformin,2022-12-06 08:00:00,50
+799,Notuv - Denk Pharma,2022-01-01 00:28:12,DMO_1001000,2736,Red Cross,Metformin,2022-01-19 08:00:00,144
+800,Notuv - Denk Pharma,2022-01-01 05:32:02,DMO_1001000,4475,Bill Gates Foundation,Metformin,2022-07-09 08:00:00,121
+801,Notuv - Denk Pharma,2022-01-01 07:57:39,DMO_1001000,1381,Red Cross,Metformin,2022-12-28 08:00:00,1
+802,Notuv - Denk Pharma,2022-01-01 08:44:14,DMO_1001000,3943,Red Cross,Metformin,2023-02-14 08:00:00,52
+803,Notuv - Denk Pharma,2022-01-01 15:17:31,DMO_1001000,3355,Red Cross,Metformin,2021-12-01 08:00:00,177
+804,Notuv - Denk Pharma,2022-01-02 04:42:27,DMO_1001000,3819,Red Cross,Metformin,2022-10-03 08:00:00,34
+805,Notuv - Denk Pharma,2022-01-02 06:41:33,DMO_1001000,3813,Bill Gates Foundation,Metformin,2021-11-17 08:00:00,1
+806,Notuv - Denk Pharma,2022-01-02 07:44:38,DMO_1001000,2735,Red Cross,Metformin,2023-02-16 08:00:00,33
+807,Notuv - Denk Pharma,2022-01-02 17:54:44,DMO_1001000,4015,Red Cross,Metformin,2021-11-09 08:00:00,117
+808,Notuv - Denk Pharma,2022-01-03 15:37:38,DMO_1001000,4907,Bill Gates Foundation,Metformin,2023-04-25 08:00:00,1
+809,Notuv - Denk Pharma,2022-01-03 17:22:42,DMO_1001000,1987,WHO,Metformin,2023-03-21 08:00:00,33
+810,Notuv - Denk Pharma,2022-01-04 03:05:30,DMO_1001000,1299,Red Cross,Metformin,2022-12-16 08:00:00,77
+811,Notuv - Denk Pharma,2022-01-04 08:06:04,DMO_1001000,1557,WHO,Metformin,2023-01-04 08:00:00,1
+812,Notuv - Denk Pharma,2022-01-04 12:32:04,DMO_1001000,3762,Red Cross,Metformin,2023-07-16 08:00:00,1
+813,Notuv - Denk Pharma,2022-01-04 16:56:06,DMO_1001000,3345,Bill Gates Foundation,Metformin,2023-04-08 08:00:00,52
+814,Notuv - Denk Pharma,2022-01-05 06:59:59,DMO_1001000,1713,WHO,Metformin,2023-06-12 08:00:00,96
+815,Notuv - Denk Pharma,2022-01-05 07:08:08,DMO_1001000,3314,WHO,Metformin,2022-08-12 08:00:00,91
+816,Notuv - Denk Pharma,2022-01-05 18:02:46,DMO_1001000,2511,Red Cross,Metformin,2022-06-03 08:00:00,15
+817,Notuv - Denk Pharma,2022-01-06 04:32:36,DMO_1001000,2335,Red Cross,Metformin,2022-01-01 08:00:00,31
+818,Notuv - Denk Pharma,2022-01-06 10:12:00,DMO_1001000,4306,Red Cross,Metformin,2023-04-15 08:00:00,1
+819,Notuv - Denk Pharma,2022-01-07 13:01:04,DMO_1001000,2912,WHO,Metformin,2022-02-24 08:00:00,25
+820,Notuv - Denk Pharma,2022-01-07 17:58:01,DMO_1001000,3337,WHO,Metformin,2023-04-19 08:00:00,1
+821,Notuv - Denk Pharma,2022-01-07 19:14:46,DMO_1001000,4087,WHO,Metformin,2022-05-13 08:00:00,1
+822,Notuv - Denk Pharma,2022-01-07 20:46:17,DMO_1001000,1510,WHO,Metformin,2022-08-06 08:00:00,86
+823,Notuv - Denk Pharma,2022-01-08 16:00:36,DMO_1001000,4918,Bill Gates Foundation,Metformin,2022-10-28 08:00:00,79
+824,Notuv - Denk Pharma,2022-01-08 16:29:50,DMO_1001000,4828,WHO,Metformin,2022-03-31 08:00:00,98
+825,Notuv - Denk Pharma,2022-01-08 22:38:28,DMO_1001000,2656,Bill Gates Foundation,Metformin,2022-09-11 08:00:00,89
+826,Notuv - Denk Pharma,2022-01-09 00:59:50,DMO_1001000,2674,WHO,Metformin,2023-06-02 08:00:00,116
+827,Notuv - Denk Pharma,2022-01-09 01:31:34,DMO_1001000,3610,Red Cross,Metformin,2022-03-26 08:00:00,1
+828,Notuv - Denk Pharma,2022-01-09 10:40:49,DMO_1001000,4639,Red Cross,Metformin,2022-08-25 08:00:00,165
+829,Notuv - Denk Pharma,2022-01-09 18:00:27,DMO_1001000,3243,WHO,Metformin,2023-02-12 08:00:00,1
+830,Notuv - Denk Pharma,2022-01-09 21:54:13,DMO_1001000,3735,WHO,Metformin,2022-12-10 08:00:00,1
+831,Notuv - Denk Pharma,2022-01-10 03:27:26,DMO_1001000,2998,WHO,Metformin,2022-06-24 08:00:00,1
+832,Notuv - Denk Pharma,2022-01-10 14:16:27,DMO_1001000,1574,Bill Gates Foundation,Metformin,2022-09-16 08:00:00,1
+833,Notuv - Denk Pharma,2022-01-10 14:46:48,DMO_1001000,3669,Bill Gates Foundation,Metformin,2022-09-21 08:00:00,21
+834,Notuv - Denk Pharma,2022-01-11 02:14:30,DMO_1001000,2041,Red Cross,Metformin,2021-11-19 08:00:00,1
+835,Notuv - Denk Pharma,2022-01-11 07:05:09,DMO_1001000,1952,WHO,Metformin,2022-03-09 08:00:00,5
+836,Notuv - Denk Pharma,2022-01-11 12:51:03,DMO_1001000,1639,WHO,Metformin,2023-05-24 08:00:00,1
+837,Notuv - Denk Pharma,2022-01-11 15:11:38,DMO_1001000,4220,WHO,Metformin,2022-04-22 08:00:00,56
+838,Notuv - Denk Pharma,2022-01-11 17:35:05,DMO_1001000,4020,Bill Gates Foundation,Metformin,2023-04-22 08:00:00,1
+839,Notuv - Denk Pharma,2022-01-11 21:54:47,DMO_1001000,4778,Bill Gates Foundation,Metformin,2022-08-19 08:00:00,97
+840,Notuv - Denk Pharma,2022-01-12 00:21:54,DMO_1001000,4249,WHO,Metformin,2023-04-06 08:00:00,101
+841,Notuv - Denk Pharma,2022-01-12 05:17:59,DMO_1001000,4780,WHO,Metformin,2023-05-24 08:00:00,1
+842,Notuv - Denk Pharma,2022-01-12 08:43:10,DMO_1001000,4078,WHO,Metformin,2022-03-25 08:00:00,57
+843,Notuv - Denk Pharma,2022-01-13 01:40:28,DMO_1001000,1456,WHO,Metformin,2023-03-26 08:00:00,59
+844,Notuv - Denk Pharma,2022-01-13 13:46:24,DMO_1001000,3225,Bill Gates Foundation,Metformin,2021-11-26 08:00:00,1
+845,Notuv - Denk Pharma,2022-01-13 14:02:42,DMO_1001000,3995,Bill Gates Foundation,Metformin,2022-05-20 08:00:00,74
+846,Notuv - Denk Pharma,2022-01-13 15:33:22,DMO_1001000,1806,Bill Gates Foundation,Metformin,2022-12-25 08:00:00,34
+847,Notuv - Denk Pharma,2022-01-14 01:19:26,DMO_1001000,1082,Bill Gates Foundation,Metformin,2023-02-19 08:00:00,85
+848,Notuv - Denk Pharma,2022-01-14 07:47:24,DMO_1001000,4018,Red Cross,Metformin,2021-12-04 08:00:00,30
+849,Notuv - Denk Pharma,2022-01-14 12:31:56,DMO_1001000,4722,Bill Gates Foundation,Metformin,2023-02-19 08:00:00,89
+850,Notuv - Denk Pharma,2022-01-14 13:54:36,DMO_1001000,2110,WHO,Metformin,2023-07-13 08:00:00,93
+851,Notuv - Denk Pharma,2022-01-14 15:26:38,DMO_1001000,2635,WHO,Metformin,2022-11-16 08:00:00,1
+852,Notuv - Denk Pharma,2022-01-14 16:54:24,DMO_1001000,1821,Red Cross,Metformin,2023-04-03 08:00:00,23
+853,Notuv - Denk Pharma,2022-01-14 19:23:23,DMO_1001000,3727,WHO,Metformin,2022-12-28 08:00:00,1
+854,Notuv - Denk Pharma,2022-01-15 00:53:00,DMO_1001000,2714,Bill Gates Foundation,Metformin,2022-03-19 08:00:00,93
+855,Notuv - Denk Pharma,2022-01-15 01:56:09,DMO_1001000,4709,WHO,Metformin,2021-11-09 08:00:00,50
+856,Notuv - Denk Pharma,2022-01-15 19:44:53,DMO_1001000,1402,Red Cross,Metformin,2022-04-13 08:00:00,17
+857,Notuv - Denk Pharma,2022-01-16 02:13:14,DMO_1001000,2787,Bill Gates Foundation,Metformin,2023-07-11 08:00:00,101
+858,Notuv - Denk Pharma,2022-01-16 04:37:02,DMO_1001000,3685,Red Cross,Metformin,2022-10-15 08:00:00,88
+859,Notuv - Denk Pharma,2022-01-16 13:32:30,DMO_1001000,3191,Red Cross,Metformin,2022-11-15 08:00:00,57
+860,Notuv - Denk Pharma,2022-01-16 17:35:49,DMO_1001000,1928,Red Cross,Metformin,2023-07-06 08:00:00,46
+861,Notuv - Denk Pharma,2022-01-16 19:04:30,DMO_1001000,2275,WHO,Metformin,2023-05-06 08:00:00,96
+862,Notuv - Denk Pharma,2022-01-16 19:07:45,DMO_1001000,1234,WHO,Metformin,2022-06-13 08:00:00,136
+863,Notuv - Denk Pharma,2022-01-16 19:56:59,DMO_1001000,4435,Bill Gates Foundation,Metformin,2022-05-08 08:00:00,83
+864,Notuv - Denk Pharma,2022-01-16 21:27:18,DMO_1001000,4240,Red Cross,Metformin,2022-01-09 08:00:00,187
+865,Notuv - Denk Pharma,2022-01-17 00:41:28,DMO_1001000,1495,WHO,Metformin,2023-03-07 08:00:00,133
+866,Notuv - Denk Pharma,2022-01-17 08:05:44,DMO_1001000,4805,Red Cross,Metformin,2022-01-29 08:00:00,120
+867,Notuv - Denk Pharma,2022-01-17 19:30:25,DMO_1001000,3864,Bill Gates Foundation,Metformin,2022-08-27 08:00:00,1
+868,Notuv - Denk Pharma,2022-01-18 11:39:51,DMO_1001000,4987,Bill Gates Foundation,Metformin,2023-06-28 08:00:00,1
+869,Notuv - Denk Pharma,2022-01-18 12:13:55,DMO_1001000,4297,Red Cross,Metformin,2022-01-26 08:00:00,14
+870,Notuv - Denk Pharma,2022-01-18 16:09:27,DMO_1001000,4494,Red Cross,Metformin,2023-05-10 08:00:00,89
+871,Notuv - Denk Pharma,2022-01-18 18:38:44,DMO_1001000,4848,Bill Gates Foundation,Metformin,2023-03-24 08:00:00,25
+872,Notuv - Denk Pharma,2022-01-18 20:23:06,DMO_1001000,3552,Red Cross,Metformin,2022-03-12 08:00:00,11
+873,Notuv - Denk Pharma,2022-01-19 06:17:34,DMO_1001000,1252,WHO,Metformin,2023-06-21 08:00:00,88
+874,Notuv - Denk Pharma,2022-01-19 07:59:32,DMO_1001000,2094,Red Cross,Metformin,2023-07-02 08:00:00,103
+875,Notuv - Denk Pharma,2022-01-19 10:51:45,DMO_1001000,3184,Bill Gates Foundation,Metformin,2023-01-19 08:00:00,53
+876,Notuv - Denk Pharma,2022-01-19 14:16:44,DMO_1001000,4717,Red Cross,Metformin,2021-11-05 08:00:00,89
+877,Notuv - Denk Pharma,2022-01-19 18:28:59,DMO_1001000,3804,WHO,Metformin,2022-01-17 08:00:00,97
+878,Notuv - Denk Pharma,2022-01-19 19:08:42,DMO_1001000,4272,Bill Gates Foundation,Metformin,2023-07-04 08:00:00,24
+879,Notuv - Denk Pharma,2022-01-20 10:53:42,DMO_1001000,1827,WHO,Metformin,2022-09-16 08:00:00,16
+880,Notuv - Denk Pharma,2022-01-20 18:21:23,DMO_1001000,3867,Red Cross,Metformin,2022-10-28 08:00:00,1
+881,Notuv - Denk Pharma,2022-01-21 03:59:27,DMO_1001000,1034,Bill Gates Foundation,Metformin,2021-11-14 08:00:00,67
+882,Notuv - Denk Pharma,2022-01-21 06:59:56,DMO_1001000,4861,Bill Gates Foundation,Metformin,2022-12-11 08:00:00,41
+883,Notuv - Denk Pharma,2022-01-22 01:32:55,DMO_1001000,4665,Red Cross,Metformin,2022-03-31 08:00:00,124
+884,Notuv - Denk Pharma,2022-01-22 07:56:26,DMO_1001000,2903,WHO,Metformin,2023-03-12 08:00:00,1
+885,Notuv - Denk Pharma,2022-01-23 02:54:16,DMO_1001000,4800,Red Cross,Metformin,2022-11-01 08:00:00,54
+886,Notuv - Denk Pharma,2022-01-23 02:55:15,DMO_1001000,2860,Bill Gates Foundation,Metformin,2023-03-22 08:00:00,142
+887,Notuv - Denk Pharma,2022-01-23 06:18:31,DMO_1001000,1065,Bill Gates Foundation,Metformin,2023-01-26 08:00:00,43
+888,Notuv - Denk Pharma,2022-01-23 09:36:59,DMO_1001000,3548,Red Cross,Metformin,2022-03-07 08:00:00,1
+889,Notuv - Denk Pharma,2022-01-23 12:48:37,DMO_1001000,3439,WHO,Metformin,2022-11-17 08:00:00,69
+890,Notuv - Denk Pharma,2022-01-23 14:02:27,DMO_1001000,4656,WHO,Metformin,2022-06-16 08:00:00,62
+891,Notuv - Denk Pharma,2022-01-23 14:18:09,DMO_1001000,2645,WHO,Metformin,2023-01-20 08:00:00,8
+892,Notuv - Denk Pharma,2022-01-23 21:25:07,DMO_1001000,4775,Bill Gates Foundation,Metformin,2023-01-24 08:00:00,137
+893,Notuv - Denk Pharma,2022-01-23 22:10:43,DMO_1001000,1334,Bill Gates Foundation,Metformin,2023-02-05 08:00:00,37
+894,Notuv - Denk Pharma,2022-01-24 09:03:29,DMO_1001000,4478,Bill Gates Foundation,Metformin,2023-04-04 08:00:00,12
+895,Notuv - Denk Pharma,2022-01-24 19:38:15,DMO_1001000,2488,Red Cross,Metformin,2022-07-22 08:00:00,45
+896,Notuv - Denk Pharma,2022-01-25 01:50:51,DMO_1001000,2410,WHO,Metformin,2022-08-24 08:00:00,1
+897,Notuv - Denk Pharma,2022-01-25 07:18:27,DMO_1001000,4863,Bill Gates Foundation,Metformin,2023-03-19 08:00:00,55
+898,Notuv - Denk Pharma,2022-01-25 11:05:17,DMO_1001000,3066,Bill Gates Foundation,Metformin,2023-02-12 08:00:00,59
+899,Notuv - Denk Pharma,2022-01-25 11:43:29,DMO_1001000,1943,Bill Gates Foundation,Metformin,2022-03-05 08:00:00,1
+900,Notuv - Denk Pharma,2022-01-25 12:50:21,DMO_1001000,3137,Bill Gates Foundation,Metformin,2023-03-22 08:00:00,1
+901,Notuv - Denk Pharma,2022-01-25 20:16:55,DMO_1001000,2152,Red Cross,Metformin,2023-06-26 08:00:00,1
+902,Notuv - Denk Pharma,2022-01-25 22:20:26,DMO_1001000,4997,Red Cross,Metformin,2022-06-02 08:00:00,180
+903,Notuv - Denk Pharma,2022-01-26 13:25:47,DMO_1001000,2108,Bill Gates Foundation,Metformin,2023-03-30 08:00:00,73
+904,Notuv - Denk Pharma,2022-01-26 17:52:26,DMO_1001000,1420,WHO,Metformin,2023-02-04 08:00:00,86
+905,Notuv - Denk Pharma,2022-01-26 18:53:19,DMO_1001000,2511,Red Cross,Metformin,2021-11-23 08:00:00,40
+906,Notuv - Denk Pharma,2022-01-27 09:47:25,DMO_1001000,4406,Bill Gates Foundation,Metformin,2022-02-25 08:00:00,17
+907,Notuv - Denk Pharma,2022-01-27 17:10:12,DMO_1001000,2143,WHO,Metformin,2022-08-19 08:00:00,19
+908,Notuv - Denk Pharma,2022-01-27 17:51:28,DMO_1001000,4117,Red Cross,Metformin,2022-08-25 08:00:00,1
+909,Notuv - Denk Pharma,2022-01-28 04:40:10,DMO_1001000,1018,WHO,Metformin,2023-02-26 08:00:00,1
+910,Notuv - Denk Pharma,2022-01-28 08:01:32,DMO_1001000,1979,Bill Gates Foundation,Metformin,2021-11-09 08:00:00,71
+911,Notuv - Denk Pharma,2022-01-28 12:01:40,DMO_1001000,2445,Red Cross,Metformin,2023-06-23 08:00:00,80
+912,Notuv - Denk Pharma,2022-01-28 19:06:34,DMO_1001000,4061,Bill Gates Foundation,Metformin,2022-12-26 08:00:00,93
+913,Notuv - Denk Pharma,2022-01-28 21:06:56,DMO_1001000,4861,Red Cross,Metformin,2023-03-05 08:00:00,1
+914,Notuv - Denk Pharma,2022-01-29 07:37:11,DMO_1001000,4384,Bill Gates Foundation,Metformin,2023-07-22 08:00:00,2
+915,Notuv - Denk Pharma,2022-01-29 10:15:46,DMO_1001000,3225,WHO,Metformin,2022-05-07 08:00:00,72
+916,Notuv - Denk Pharma,2022-01-29 21:33:47,DMO_1001000,4536,Bill Gates Foundation,Metformin,2022-09-11 08:00:00,133
+917,Notuv - Denk Pharma,2022-01-30 03:32:48,DMO_1001000,2580,WHO,Metformin,2021-11-29 08:00:00,79
+918,Notuv - Denk Pharma,2022-01-31 00:00:02,DMO_1001000,4683,Red Cross,Metformin,2021-11-10 08:00:00,154
+919,Notuv - Denk Pharma,2022-01-31 07:07:45,DMO_1001000,1834,WHO,Metformin,2022-10-20 08:00:00,1
+920,Notuv - Denk Pharma,2022-01-31 07:52:04,DMO_1001000,2418,Red Cross,Metformin,2023-04-26 08:00:00,116
+921,Notuv - Denk Pharma,2022-02-01 07:09:29,DMO_1001000,1465,Bill Gates Foundation,Metformin,2022-04-14 08:00:00,69
+922,Notuv - Denk Pharma,2022-02-02 00:26:33,DMO_1001000,2281,Bill Gates Foundation,Metformin,2023-07-19 08:00:00,67
+923,Notuv - Denk Pharma,2022-02-02 01:41:10,DMO_1001000,2121,Red Cross,Metformin,2023-01-19 08:00:00,45
+924,Notuv - Denk Pharma,2022-02-02 06:44:48,DMO_1001000,4378,WHO,Metformin,2022-04-04 08:00:00,153
+925,Notuv - Denk Pharma,2022-02-02 20:38:10,DMO_1001000,1871,Red Cross,Metformin,2023-01-19 08:00:00,63
+926,Notuv - Denk Pharma,2022-02-03 02:28:23,DMO_1001000,4943,WHO,Metformin,2023-05-14 08:00:00,68
+927,Notuv - Denk Pharma,2022-02-03 05:35:32,DMO_1001000,1543,Red Cross,Metformin,2022-06-29 08:00:00,1
+928,Notuv - Denk Pharma,2022-02-03 20:30:57,DMO_1001000,1689,Red Cross,Metformin,2022-04-28 08:00:00,81
+929,Notuv - Denk Pharma,2022-02-04 00:56:23,DMO_1001000,4874,Red Cross,Metformin,2022-05-14 08:00:00,1
+930,Notuv - Denk Pharma,2022-02-04 04:43:31,DMO_1001000,4112,WHO,Metformin,2023-05-30 08:00:00,231
+931,Notuv - Denk Pharma,2022-02-04 10:17:46,DMO_1001000,2405,Bill Gates Foundation,Metformin,2023-06-23 08:00:00,136
+932,Notuv - Denk Pharma,2022-02-04 15:23:29,DMO_1001000,4070,Red Cross,Metformin,2022-10-14 08:00:00,129
+933,Notuv - Denk Pharma,2022-02-04 21:48:32,DMO_1001000,3720,WHO,Metformin,2021-12-26 08:00:00,62
+934,Notuv - Denk Pharma,2022-02-05 01:31:50,DMO_1001000,4262,WHO,Metformin,2021-11-28 08:00:00,1
+935,Notuv - Denk Pharma,2022-02-05 02:17:27,DMO_1001000,3911,WHO,Metformin,2023-07-21 08:00:00,1
+936,Notuv - Denk Pharma,2022-02-05 14:16:45,DMO_1001000,4098,Bill Gates Foundation,Metformin,2022-05-12 08:00:00,16
+937,Notuv - Denk Pharma,2022-02-05 20:05:49,DMO_1001000,3162,Bill Gates Foundation,Metformin,2022-09-04 08:00:00,60
+938,Notuv - Denk Pharma,2022-02-06 18:10:34,DMO_1001000,4351,WHO,Metformin,2022-07-22 08:00:00,22
+939,Notuv - Denk Pharma,2022-02-06 23:21:51,DMO_1001000,1473,Bill Gates Foundation,Metformin,2023-03-16 08:00:00,1
+940,Notuv - Denk Pharma,2022-02-07 12:34:32,DMO_1001000,4288,Red Cross,Metformin,2022-03-15 08:00:00,1
+941,Notuv - Denk Pharma,2022-02-08 06:21:33,DMO_1001000,4200,Bill Gates Foundation,Metformin,2023-05-22 08:00:00,44
+942,Notuv - Denk Pharma,2022-02-08 07:15:24,DMO_1001000,4560,WHO,Metformin,2022-10-21 08:00:00,66
+943,Notuv - Denk Pharma,2022-02-08 07:42:44,DMO_1001000,3605,Bill Gates Foundation,Metformin,2023-05-18 08:00:00,209
+944,Notuv - Denk Pharma,2022-02-08 08:23:45,DMO_1001000,4224,WHO,Metformin,2023-07-17 08:00:00,119
+945,Notuv - Denk Pharma,2022-02-09 00:51:35,DMO_1001000,2705,Bill Gates Foundation,Metformin,2023-03-22 08:00:00,24
+946,Notuv - Denk Pharma,2022-02-09 03:23:19,DMO_1001000,3565,Red Cross,Metformin,2023-02-27 08:00:00,50
+947,Notuv - Denk Pharma,2022-02-09 13:37:08,DMO_1001000,1937,Bill Gates Foundation,Metformin,2022-06-02 08:00:00,59
+948,Notuv - Denk Pharma,2022-02-09 17:34:15,DMO_1001000,4462,WHO,Metformin,2023-03-03 08:00:00,125
+949,Notuv - Denk Pharma,2022-02-09 18:16:17,DMO_1001000,3617,Red Cross,Metformin,2023-02-05 08:00:00,37
+950,Notuv - Denk Pharma,2022-02-09 20:19:12,DMO_1001000,3703,WHO,Metformin,2023-02-23 08:00:00,18
+951,Notuv - Denk Pharma,2022-02-09 20:48:04,DMO_1001000,2473,Bill Gates Foundation,Metformin,2022-10-21 08:00:00,24
+952,Notuv - Denk Pharma,2022-02-09 21:44:15,DMO_1001000,2967,Bill Gates Foundation,Metformin,2022-08-14 08:00:00,43
+953,Notuv - Denk Pharma,2022-02-10 08:23:47,DMO_1001000,4956,Red Cross,Metformin,2023-07-19 08:00:00,79
+954,Notuv - Denk Pharma,2022-02-11 04:58:01,DMO_1001000,3576,WHO,Metformin,2022-03-22 08:00:00,69
+955,Notuv - Denk Pharma,2022-02-11 06:53:15,DMO_1001000,1379,WHO,Metformin,2023-04-15 08:00:00,108
+956,Notuv - Denk Pharma,2022-02-11 11:24:35,DMO_1001000,3603,WHO,Metformin,2022-10-05 08:00:00,70
+957,Notuv - Denk Pharma,2022-02-11 14:17:15,DMO_1001000,3968,Red Cross,Metformin,2022-04-23 08:00:00,33
+958,Notuv - Denk Pharma,2022-02-11 18:28:02,DMO_1001000,3465,WHO,Metformin,2022-04-21 08:00:00,51
+959,Notuv - Denk Pharma,2022-02-11 21:57:25,DMO_1001000,1472,WHO,Metformin,2022-02-15 08:00:00,33
+960,Notuv - Denk Pharma,2022-02-12 04:16:00,DMO_1001000,3838,Bill Gates Foundation,Metformin,2022-11-12 08:00:00,77
+961,Notuv - Denk Pharma,2022-02-12 13:34:47,DMO_1001000,4268,Bill Gates Foundation,Metformin,2022-04-12 08:00:00,1
+962,Notuv - Denk Pharma,2022-02-13 01:40:55,DMO_1001000,4261,Red Cross,Metformin,2022-10-10 08:00:00,1
+963,Notuv - Denk Pharma,2022-02-13 10:20:28,DMO_1001000,3039,Red Cross,Metformin,2023-06-22 08:00:00,144
+964,Notuv - Denk Pharma,2022-02-13 17:25:19,DMO_1001000,2748,Red Cross,Metformin,2022-10-28 08:00:00,30
+965,Notuv - Denk Pharma,2022-02-13 18:21:16,DMO_1001000,3064,Red Cross,Metformin,2022-03-18 08:00:00,73
+966,Notuv - Denk Pharma,2022-02-13 20:18:06,DMO_1001000,1737,Bill Gates Foundation,Metformin,2021-11-26 08:00:00,41
+967,Notuv - Denk Pharma,2022-02-13 23:00:49,DMO_1001000,3868,WHO,Metformin,2023-03-09 08:00:00,61
+968,Notuv - Denk Pharma,2022-02-14 02:07:36,DMO_1001000,2480,Bill Gates Foundation,Metformin,2023-01-31 08:00:00,111
+969,Notuv - Denk Pharma,2022-02-14 15:02:03,DMO_1001000,1317,Red Cross,Metformin,2022-06-25 08:00:00,78
+970,Notuv - Denk Pharma,2022-02-14 18:31:15,DMO_1001000,4582,WHO,Metformin,2023-04-11 08:00:00,113
+971,Notuv - Denk Pharma,2022-02-15 00:09:53,DMO_1001000,2369,Red Cross,Metformin,2022-06-20 08:00:00,123
+972,Notuv - Denk Pharma,2022-02-15 01:13:15,DMO_1001000,4135,Red Cross,Metformin,2022-05-13 08:00:00,187
+973,Notuv - Denk Pharma,2022-02-15 11:01:04,DMO_1001000,1952,Red Cross,Metformin,2022-02-02 08:00:00,5
+974,Notuv - Denk Pharma,2022-02-15 15:58:58,DMO_1001000,4384,WHO,Metformin,2022-09-05 08:00:00,26
+975,Notuv - Denk Pharma,2022-02-16 03:53:00,DMO_1001000,4832,WHO,Metformin,2023-03-15 08:00:00,37
+976,Notuv - Denk Pharma,2022-02-16 10:49:46,DMO_1001000,4277,Bill Gates Foundation,Metformin,2021-11-23 08:00:00,46
+977,Notuv - Denk Pharma,2022-02-16 12:09:03,DMO_1001000,1469,WHO,Metformin,2022-05-16 08:00:00,1
+978,Notuv - Denk Pharma,2022-02-16 20:30:21,DMO_1001000,4980,WHO,Metformin,2023-06-09 08:00:00,22
+979,Notuv - Denk Pharma,2022-02-17 02:18:56,DMO_1001000,2991,Bill Gates Foundation,Metformin,2022-01-10 08:00:00,25
+980,Notuv - Denk Pharma,2022-02-17 02:44:46,DMO_1001000,3505,Red Cross,Metformin,2021-10-29 08:00:00,1
+981,Notuv - Denk Pharma,2022-02-17 03:05:26,DMO_1001000,4700,WHO,Metformin,2022-03-25 08:00:00,141
+982,Notuv - Denk Pharma,2022-02-17 10:30:52,DMO_1001000,2440,Bill Gates Foundation,Metformin,2022-02-20 08:00:00,1
+983,Notuv - Denk Pharma,2022-02-17 14:53:06,DMO_1001000,4228,Red Cross,Metformin,2022-03-06 08:00:00,102
+984,Notuv - Denk Pharma,2022-02-18 00:38:57,DMO_1001000,1270,Bill Gates Foundation,Metformin,2021-12-05 08:00:00,31
+985,Notuv - Denk Pharma,2022-02-18 12:59:08,DMO_1001000,1628,Bill Gates Foundation,Metformin,2022-06-20 08:00:00,137
+986,Notuv - Denk Pharma,2022-02-18 13:40:14,DMO_1001000,2472,Red Cross,Metformin,2022-03-06 08:00:00,117
+987,Notuv - Denk Pharma,2022-02-18 18:04:56,DMO_1001000,3766,Bill Gates Foundation,Metformin,2021-12-06 08:00:00,1
+988,Notuv - Denk Pharma,2022-02-19 01:45:42,DMO_1001000,2251,Red Cross,Metformin,2022-06-12 08:00:00,59
+989,Notuv - Denk Pharma,2022-02-19 14:49:46,DMO_1001000,2373,WHO,Metformin,2022-01-13 08:00:00,47
+990,Notuv - Denk Pharma,2022-02-20 02:35:56,DMO_1001000,1687,Red Cross,Metformin,2022-07-20 08:00:00,32
+991,Notuv - Denk Pharma,2022-02-20 09:08:42,DMO_1001000,1077,Bill Gates Foundation,Metformin,2022-10-14 08:00:00,25
+992,Notuv - Denk Pharma,2022-02-20 15:40:14,DMO_1001000,2361,Bill Gates Foundation,Metformin,2022-10-19 08:00:00,28
+993,Notuv - Denk Pharma,2022-02-20 22:05:49,DMO_1001000,4570,WHO,Metformin,2022-06-23 08:00:00,1
+994,Notuv - Denk Pharma,2022-02-21 01:11:01,DMO_1001000,3688,WHO,Metformin,2022-03-23 08:00:00,102
+995,Notuv - Denk Pharma,2022-02-21 05:14:44,DMO_1001000,4651,Bill Gates Foundation,Metformin,2022-10-26 08:00:00,105
+996,Notuv - Denk Pharma,2022-02-21 09:18:33,DMO_1001000,4919,Red Cross,Metformin,2022-03-17 08:00:00,142
+997,Notuv - Denk Pharma,2022-02-21 18:01:41,DMO_1001000,3712,Bill Gates Foundation,Metformin,2022-05-29 08:00:00,62
+998,Notuv - Denk Pharma,2022-02-22 09:11:49,DMO_1001000,3893,WHO,Metformin,2022-09-17 08:00:00,33
+999,Notuv - Denk Pharma,2022-02-22 11:21:19,DMO_1001000,2487,WHO,Metformin,2023-06-04 08:00:00,76
+1000,Notuv - Denk Pharma,2022-02-23 02:50:11,DMO_1001000,2765,Red Cross,Metformin,2023-03-14 08:00:00,76
+1001,Notuv - Denk Pharma,2022-02-23 06:23:17,DMO_1001000,2843,Red Cross,Metformin,2023-04-21 08:00:00,1
+1002,Notuv - Denk Pharma,2022-02-23 06:52:52,DMO_1001000,2195,Red Cross,Metformin,2023-02-25 08:00:00,22
+1003,Notuv - Denk Pharma,2022-02-23 09:13:21,DMO_1001000,3115,Bill Gates Foundation,Metformin,2022-09-16 08:00:00,149
+1004,Notuv - Denk Pharma,2022-02-24 03:52:37,DMO_1001000,3905,WHO,Metformin,2022-12-22 08:00:00,1
+1005,Notuv - Denk Pharma,2022-02-24 10:08:28,DMO_1001000,4571,Red Cross,Metformin,2023-03-05 08:00:00,97
+1006,Notuv - Denk Pharma,2022-02-24 13:30:22,DMO_1001000,3867,Bill Gates Foundation,Metformin,2023-07-22 08:00:00,43
+1007,Notuv - Denk Pharma,2022-02-24 21:49:18,DMO_1001000,3688,WHO,Metformin,2022-09-18 08:00:00,52
+1008,Notuv - Denk Pharma,2022-02-25 04:01:11,DMO_1001000,2259,Red Cross,Metformin,2022-09-23 08:00:00,72
+1009,Notuv - Denk Pharma,2022-02-25 04:27:07,DMO_1001000,4240,Red Cross,Metformin,2021-12-03 08:00:00,82
+1010,Notuv - Denk Pharma,2022-02-25 13:16:26,DMO_1001000,1835,WHO,Metformin,2022-05-30 08:00:00,50
+1011,Notuv - Denk Pharma,2022-02-25 15:24:50,DMO_1001000,4878,Bill Gates Foundation,Metformin,2023-01-30 08:00:00,93
+1012,Notuv - Denk Pharma,2022-02-25 19:33:43,DMO_1001000,1746,WHO,Metformin,2022-11-12 08:00:00,184
+1013,Notuv - Denk Pharma,2022-02-25 20:50:29,DMO_1001000,2164,WHO,Metformin,2023-04-24 08:00:00,28
+1014,Notuv - Denk Pharma,2022-02-26 00:06:31,DMO_1001000,1062,Bill Gates Foundation,Metformin,2023-07-01 08:00:00,18
+1015,Notuv - Denk Pharma,2022-02-26 03:04:04,DMO_1001000,4255,WHO,Metformin,2022-04-18 08:00:00,1
+1016,Notuv - Denk Pharma,2022-02-26 13:20:48,DMO_1001000,1711,WHO,Metformin,2022-04-10 08:00:00,1
+1017,Notuv - Denk Pharma,2022-02-26 16:52:00,DMO_1001000,1509,Red Cross,Metformin,2022-08-26 08:00:00,82
+1018,Notuv - Denk Pharma,2022-02-26 22:43:09,DMO_1001000,1738,WHO,Metformin,2022-02-21 08:00:00,99
+1019,Notuv - Denk Pharma,2022-02-26 23:09:45,DMO_1001000,3289,Bill Gates Foundation,Metformin,2022-08-07 08:00:00,138
+1020,Notuv - Denk Pharma,2022-02-27 09:28:57,DMO_1001000,1305,Red Cross,Metformin,2022-12-31 08:00:00,1
+1021,Notuv - Denk Pharma,2022-02-27 18:38:12,DMO_1001000,4906,Red Cross,Metformin,2022-01-24 08:00:00,187
+1022,Notuv - Denk Pharma,2022-02-28 02:49:51,DMO_1001000,2972,Red Cross,Metformin,2022-05-08 08:00:00,71
+1023,Notuv - Denk Pharma,2022-02-28 12:45:35,DMO_1001000,1585,WHO,Metformin,2023-02-25 08:00:00,1
+1024,Notuv - Denk Pharma,2022-02-28 14:33:18,DMO_1001000,3602,Bill Gates Foundation,Metformin,2023-06-26 08:00:00,1
+1025,Notuv - Denk Pharma,2022-02-28 22:16:28,DMO_1001000,3671,Red Cross,Metformin,2023-04-21 08:00:00,88
+1026,Notuv - Denk Pharma,2022-03-01 02:21:55,DMO_1001000,1112,Red Cross,Metformin,2023-04-22 08:00:00,57
+1027,Notuv - Denk Pharma,2022-03-01 03:56:09,DMO_1001000,3093,Red Cross,Metformin,2021-12-16 08:00:00,170
+1028,Notuv - Denk Pharma,2022-03-01 10:12:11,DMO_1001000,4367,Red Cross,Metformin,2023-03-24 08:00:00,56
+1029,Notuv - Denk Pharma,2022-03-01 10:12:50,DMO_1001000,4060,WHO,Metformin,2022-01-06 08:00:00,75
+1030,Notuv - Denk Pharma,2022-03-01 10:22:37,DMO_1001000,2307,Red Cross,Metformin,2023-06-28 08:00:00,1
+1031,Notuv - Denk Pharma,2022-03-01 18:46:41,DMO_1001000,4453,WHO,Metformin,2022-01-26 08:00:00,45
+1032,Notuv - Denk Pharma,2022-03-02 08:07:06,DMO_1001000,3906,WHO,Metformin,2023-07-06 08:00:00,24
+1033,Notuv - Denk Pharma,2022-03-02 12:30:35,DMO_1001000,1837,Bill Gates Foundation,Metformin,2023-04-16 08:00:00,1
+1034,Notuv - Denk Pharma,2022-03-02 13:35:14,DMO_1001000,1294,Red Cross,Metformin,2022-03-06 08:00:00,109
+1035,Notuv - Denk Pharma,2022-03-02 16:58:20,DMO_1001000,3990,Red Cross,Metformin,2023-02-04 08:00:00,60
+1036,Notuv - Denk Pharma,2022-03-02 23:35:39,DMO_1001000,1748,Bill Gates Foundation,Metformin,2022-06-19 08:00:00,21
+1037,Notuv - Denk Pharma,2022-03-03 09:24:09,DMO_1001000,4976,Bill Gates Foundation,Metformin,2022-07-06 08:00:00,61
+1038,Notuv - Denk Pharma,2022-03-03 09:52:17,DMO_1001000,1303,WHO,Metformin,2022-09-18 08:00:00,30
+1039,Notuv - Denk Pharma,2022-03-03 13:43:40,DMO_1001000,4341,WHO,Metformin,2023-02-09 08:00:00,66
+1040,Notuv - Denk Pharma,2022-03-03 17:28:07,DMO_1001000,1080,Bill Gates Foundation,Metformin,2022-07-01 08:00:00,3
+1041,Notuv - Denk Pharma,2022-03-03 21:52:43,DMO_1001000,2725,WHO,Metformin,2022-03-23 08:00:00,81
+1042,Notuv - Denk Pharma,2022-03-04 13:49:31,DMO_1001000,4296,Bill Gates Foundation,Metformin,2023-04-13 08:00:00,35
+1043,Notuv - Denk Pharma,2022-03-04 19:47:27,DMO_1001000,1073,Bill Gates Foundation,Metformin,2023-03-02 08:00:00,68
+1044,Notuv - Denk Pharma,2022-03-04 23:05:45,DMO_1001000,4935,Bill Gates Foundation,Metformin,2022-08-24 08:00:00,81
+1045,Notuv - Denk Pharma,2022-03-05 01:25:47,DMO_1001000,3241,WHO,Metformin,2021-12-25 08:00:00,44
+1046,Notuv - Denk Pharma,2022-03-05 15:27:37,DMO_1001000,1913,Red Cross,Metformin,2022-09-05 08:00:00,24
+1047,Notuv - Denk Pharma,2022-03-05 20:29:19,DMO_1001000,2752,WHO,Metformin,2022-07-18 08:00:00,1
+1048,Notuv - Denk Pharma,2022-03-05 23:59:58,DMO_1001000,2091,Red Cross,Metformin,2023-06-21 08:00:00,175
+1049,Notuv - Denk Pharma,2022-03-06 09:59:00,DMO_1001000,2226,WHO,Metformin,2022-11-03 08:00:00,60
+1050,Notuv - Denk Pharma,2022-03-06 10:17:19,DMO_1001000,4382,Bill Gates Foundation,Metformin,2022-08-22 08:00:00,60
+1051,Notuv - Denk Pharma,2022-03-06 16:40:15,DMO_1001000,1438,WHO,Metformin,2023-02-16 08:00:00,14
+1052,Notuv - Denk Pharma,2022-03-06 17:00:21,DMO_1001000,2352,Red Cross,Metformin,2022-04-07 08:00:00,89
+1053,Notuv - Denk Pharma,2022-03-06 21:59:08,DMO_1001000,1816,Red Cross,Metformin,2023-07-08 08:00:00,50
+1054,Notuv - Denk Pharma,2022-03-07 01:24:43,DMO_1001000,4735,Red Cross,Metformin,2022-06-11 08:00:00,1
+1055,Notuv - Denk Pharma,2022-03-07 02:09:59,DMO_1001000,4160,WHO,Metformin,2022-07-01 08:00:00,93
+1056,Notuv - Denk Pharma,2022-03-07 02:13:23,DMO_1001000,2911,WHO,Metformin,2023-06-24 08:00:00,43
+1057,Notuv - Denk Pharma,2022-03-07 14:39:53,DMO_1001000,4647,WHO,Metformin,2021-11-17 08:00:00,14
+1058,Notuv - Denk Pharma,2022-03-07 22:56:13,DMO_1001000,2319,WHO,Metformin,2023-05-28 08:00:00,1
+1059,Notuv - Denk Pharma,2022-03-08 02:38:21,DMO_1001000,4054,Bill Gates Foundation,Metformin,2022-06-09 08:00:00,31
+1060,Notuv - Denk Pharma,2022-03-08 07:17:31,DMO_1001000,3661,Red Cross,Metformin,2023-05-28 08:00:00,1
+1061,Notuv - Denk Pharma,2022-03-08 07:45:43,DMO_1001000,4652,WHO,Metformin,2023-04-12 08:00:00,101
+1062,Notuv - Denk Pharma,2022-03-08 08:43:22,DMO_1001000,3036,WHO,Metformin,2022-09-18 08:00:00,107
+1063,Notuv - Denk Pharma,2022-03-08 11:42:30,DMO_1001000,2931,Bill Gates Foundation,Metformin,2023-03-04 08:00:00,1
+1064,Notuv - Denk Pharma,2022-03-08 17:33:10,DMO_1001000,1635,WHO,Metformin,2022-07-25 08:00:00,1
+1065,Notuv - Denk Pharma,2022-03-09 03:54:07,DMO_1001000,2944,WHO,Metformin,2023-05-01 08:00:00,19
+1066,Notuv - Denk Pharma,2022-03-09 15:05:04,DMO_1001000,4319,Red Cross,Metformin,2022-10-17 08:00:00,30
+1067,Notuv - Denk Pharma,2022-03-09 17:05:26,DMO_1001000,4230,Red Cross,Metformin,2023-05-02 08:00:00,37
+1068,Notuv - Denk Pharma,2022-03-10 05:20:33,DMO_1001000,2521,Red Cross,Metformin,2021-12-31 08:00:00,73
+1069,Notuv - Denk Pharma,2022-03-10 16:50:06,DMO_1001000,3239,Bill Gates Foundation,Metformin,2021-11-23 08:00:00,89
+1070,Notuv - Denk Pharma,2022-03-11 04:40:28,DMO_1001000,1670,Bill Gates Foundation,Metformin,2022-03-22 08:00:00,47
+1071,Notuv - Denk Pharma,2022-03-11 11:16:25,DMO_1001000,2543,Bill Gates Foundation,Metformin,2023-07-06 08:00:00,44
+1072,Notuv - Denk Pharma,2022-03-11 16:15:32,DMO_1001000,1009,WHO,Metformin,2023-01-02 08:00:00,43
+1073,Notuv - Denk Pharma,2022-03-12 05:15:18,DMO_1001000,2495,Red Cross,Metformin,2022-07-26 08:00:00,58
+1074,Notuv - Denk Pharma,2022-03-12 08:15:35,DMO_1001000,3671,Bill Gates Foundation,Metformin,2022-02-16 08:00:00,98
+1075,Notuv - Denk Pharma,2022-03-12 13:06:59,DMO_1001000,1797,Red Cross,Metformin,2023-04-08 08:00:00,27
+1076,Notuv - Denk Pharma,2022-03-13 05:08:49,DMO_1001000,4241,Bill Gates Foundation,Metformin,2022-10-05 08:00:00,86
+1077,Notuv - Denk Pharma,2022-03-13 09:37:42,DMO_1001000,4342,WHO,Metformin,2022-08-17 08:00:00,9
+1078,Notuv - Denk Pharma,2022-03-13 10:32:25,DMO_1001000,4979,Bill Gates Foundation,Metformin,2022-07-26 08:00:00,1
+1079,Notuv - Denk Pharma,2022-03-14 05:28:19,DMO_1001000,4054,Bill Gates Foundation,Metformin,2023-02-03 08:00:00,59
+1080,Notuv - Denk Pharma,2022-03-14 07:58:00,DMO_1001000,2504,WHO,Metformin,2021-11-15 08:00:00,1
+1081,Notuv - Denk Pharma,2022-03-14 14:09:47,DMO_1001000,3016,WHO,Metformin,2021-12-28 08:00:00,1
+1082,Notuv - Denk Pharma,2022-03-14 22:26:26,DMO_1001000,1771,WHO,Metformin,2023-04-08 08:00:00,73
+1083,Notuv - Denk Pharma,2022-03-15 10:11:58,DMO_1001000,2082,Red Cross,Metformin,2022-05-06 08:00:00,23
+1084,Notuv - Denk Pharma,2022-03-15 23:26:52,DMO_1001000,1502,Bill Gates Foundation,Metformin,2023-05-27 08:00:00,1
+1085,Notuv - Denk Pharma,2022-03-16 01:22:10,DMO_1001000,1653,WHO,Metformin,2023-05-18 08:00:00,1
+1086,Notuv - Denk Pharma,2022-03-16 04:47:22,DMO_1001000,4491,WHO,Metformin,2021-11-20 08:00:00,124
+1087,Notuv - Denk Pharma,2022-03-16 12:41:47,DMO_1001000,3444,WHO,Metformin,2022-04-28 08:00:00,188
+1088,Notuv - Denk Pharma,2022-03-16 20:30:21,DMO_1001000,4786,Red Cross,Metformin,2022-07-01 08:00:00,14
+1089,Notuv - Denk Pharma,2022-03-17 01:18:31,DMO_1001000,4352,Red Cross,Metformin,2022-08-25 08:00:00,1
+1090,Notuv - Denk Pharma,2022-03-17 01:43:17,DMO_1001000,1848,Red Cross,Metformin,2022-08-14 08:00:00,48
+1091,Notuv - Denk Pharma,2022-03-17 03:22:09,DMO_1001000,2031,WHO,Metformin,2022-12-09 08:00:00,6
+1092,Notuv - Denk Pharma,2022-03-17 07:25:33,DMO_1001000,2801,Bill Gates Foundation,Metformin,2022-04-11 08:00:00,101
+1093,Notuv - Denk Pharma,2022-03-17 15:06:31,DMO_1001000,1628,Red Cross,Metformin,2022-09-18 08:00:00,65
+1094,Notuv - Denk Pharma,2022-03-18 08:41:51,DMO_1001000,2691,WHO,Metformin,2023-01-05 08:00:00,107
+1095,Notuv - Denk Pharma,2022-03-18 23:08:29,DMO_1001000,2500,Bill Gates Foundation,Metformin,2022-04-13 08:00:00,98
+1096,Notuv - Denk Pharma,2022-03-19 00:57:48,DMO_1001000,2469,WHO,Metformin,2023-04-16 08:00:00,86
+1097,Notuv - Denk Pharma,2022-03-19 07:15:38,DMO_1001000,2942,WHO,Metformin,2022-05-03 08:00:00,54
+1098,Notuv - Denk Pharma,2022-03-19 13:40:22,DMO_1001000,2021,WHO,Metformin,2023-03-22 08:00:00,5
+1099,Notuv - Denk Pharma,2022-03-19 17:32:00,DMO_1001000,3840,Bill Gates Foundation,Metformin,2022-04-10 08:00:00,84
+1100,Notuv - Denk Pharma,2022-03-19 21:05:40,DMO_1001000,3171,WHO,Metformin,2022-06-15 08:00:00,80
+1101,Notuv - Denk Pharma,2022-03-20 00:51:19,DMO_1001000,4274,Bill Gates Foundation,Metformin,2022-09-22 08:00:00,92
+1102,Notuv - Denk Pharma,2022-03-20 03:02:49,DMO_1001000,4849,Red Cross,Metformin,2022-02-05 08:00:00,49
+1103,Notuv - Denk Pharma,2022-03-20 07:57:53,DMO_1001000,1279,Bill Gates Foundation,Metformin,2022-12-12 08:00:00,77
+1104,Notuv - Denk Pharma,2022-03-20 09:35:56,DMO_1001000,2782,Bill Gates Foundation,Metformin,2022-08-28 08:00:00,186
+1105,Notuv - Denk Pharma,2022-03-20 11:11:28,DMO_1001000,1520,Bill Gates Foundation,Metformin,2023-04-09 08:00:00,30
+1106,Notuv - Denk Pharma,2022-03-20 15:58:08,DMO_1001000,3743,WHO,Metformin,2022-11-01 08:00:00,118
+1107,Notuv - Denk Pharma,2022-03-20 16:20:14,DMO_1001000,2685,Red Cross,Metformin,2022-07-19 08:00:00,1
+1108,Notuv - Denk Pharma,2022-03-20 18:09:17,DMO_1001000,4609,Bill Gates Foundation,Metformin,2023-02-21 08:00:00,54
+1109,Notuv - Denk Pharma,2022-03-21 02:40:11,DMO_1001000,2527,WHO,Metformin,2022-02-17 08:00:00,155
+1110,Notuv - Denk Pharma,2022-03-21 04:10:00,DMO_1001000,4739,Red Cross,Metformin,2023-05-24 08:00:00,60
+1111,Notuv - Denk Pharma,2022-03-21 12:06:30,DMO_1001000,4714,Bill Gates Foundation,Metformin,2023-07-25 08:00:00,22
+1112,Notuv - Denk Pharma,2022-03-21 20:28:39,DMO_1001000,1741,Bill Gates Foundation,Metformin,2023-05-20 08:00:00,51
+1113,Notuv - Denk Pharma,2022-03-21 23:34:21,DMO_1001000,4864,WHO,Metformin,2021-11-20 08:00:00,104
+1114,Notuv - Denk Pharma,2022-03-22 13:46:25,DMO_1001000,2896,Red Cross,Metformin,2023-06-18 08:00:00,23
+1115,Notuv - Denk Pharma,2022-03-22 15:23:06,DMO_1001000,2021,Red Cross,Metformin,2023-06-19 08:00:00,167
+1116,Notuv - Denk Pharma,2022-03-22 21:47:34,DMO_1001000,4050,Bill Gates Foundation,Metformin,2023-03-15 08:00:00,50
+1117,Notuv - Denk Pharma,2022-03-23 11:14:56,DMO_1001000,3861,Bill Gates Foundation,Metformin,2022-10-02 08:00:00,1
+1118,Notuv - Denk Pharma,2022-03-23 11:47:49,DMO_1001000,2730,Red Cross,Metformin,2023-06-24 08:00:00,62
+1119,Notuv - Denk Pharma,2022-03-24 05:24:29,DMO_1001000,2525,WHO,Metformin,2022-08-25 08:00:00,61
+1120,Notuv - Denk Pharma,2022-03-24 10:16:30,DMO_1001000,2613,Red Cross,Metformin,2023-04-28 08:00:00,124
+1121,Notuv - Denk Pharma,2022-03-24 12:32:11,DMO_1001000,2377,Red Cross,Metformin,2023-03-27 08:00:00,92
+1122,Notuv - Denk Pharma,2022-03-24 13:37:18,DMO_1001000,2579,Red Cross,Metformin,2022-02-04 08:00:00,1
+1123,Notuv - Denk Pharma,2022-03-24 17:48:02,DMO_1001000,3059,Red Cross,Metformin,2021-12-27 08:00:00,103
+1124,Notuv - Denk Pharma,2022-03-24 20:20:22,DMO_1001000,1975,Bill Gates Foundation,Metformin,2021-12-03 08:00:00,102
+1125,Notuv - Denk Pharma,2022-03-24 23:56:35,DMO_1001000,2577,WHO,Metformin,2022-12-18 08:00:00,108
+1126,Notuv - Denk Pharma,2022-03-25 16:22:44,DMO_1001000,2607,WHO,Metformin,2023-05-15 08:00:00,1
+1127,Notuv - Denk Pharma,2022-03-25 19:21:40,DMO_1001000,1404,Red Cross,Metformin,2022-09-08 08:00:00,144
+1128,Notuv - Denk Pharma,2022-03-26 10:02:16,DMO_1001000,3456,WHO,Metformin,2022-06-07 08:00:00,1
+1129,Notuv - Denk Pharma,2022-03-26 12:03:00,DMO_1001000,1670,Bill Gates Foundation,Metformin,2022-03-30 08:00:00,40
+1130,Notuv - Denk Pharma,2022-03-26 21:12:33,DMO_1001000,1667,Bill Gates Foundation,Metformin,2022-07-24 08:00:00,75
+1131,Notuv - Denk Pharma,2022-03-26 21:24:08,DMO_1001000,3846,WHO,Metformin,2022-10-23 08:00:00,1
+1132,Notuv - Denk Pharma,2022-03-27 02:08:28,DMO_1001000,3777,Red Cross,Metformin,2023-01-20 08:00:00,173
+1133,Notuv - Denk Pharma,2022-03-27 06:20:37,DMO_1001000,3081,Bill Gates Foundation,Metformin,2023-05-17 08:00:00,82
+1134,Notuv - Denk Pharma,2022-03-27 19:24:12,DMO_1001000,1624,WHO,Metformin,2022-09-03 08:00:00,149
+1135,Notuv - Denk Pharma,2022-03-28 02:17:51,DMO_1001000,2802,Red Cross,Metformin,2022-07-28 08:00:00,41
+1136,Notuv - Denk Pharma,2022-03-28 02:29:48,DMO_1001000,4461,Red Cross,Metformin,2022-05-29 08:00:00,1
+1137,Notuv - Denk Pharma,2022-03-28 04:03:29,DMO_1001000,3845,Bill Gates Foundation,Metformin,2021-12-01 08:00:00,19
+1138,Notuv - Denk Pharma,2022-03-28 09:36:46,DMO_1001000,3589,Red Cross,Metformin,2022-07-09 08:00:00,85
+1139,Notuv - Denk Pharma,2022-03-28 14:02:30,DMO_1001000,1577,Bill Gates Foundation,Metformin,2022-01-17 08:00:00,113
+1140,Notuv - Denk Pharma,2022-03-28 17:41:42,DMO_1001000,4083,Red Cross,Metformin,2022-07-03 08:00:00,105
+1141,Notuv - Denk Pharma,2022-03-28 20:54:36,DMO_1001000,3057,WHO,Metformin,2023-01-16 08:00:00,15
+1142,Notuv - Denk Pharma,2022-03-29 03:12:35,DMO_1001000,2890,Red Cross,Metformin,2022-11-01 08:00:00,82
+1143,Notuv - Denk Pharma,2022-03-29 08:34:05,DMO_1001000,1664,Red Cross,Metformin,2022-02-18 08:00:00,1
+1144,Notuv - Denk Pharma,2022-03-29 12:05:57,DMO_1001000,3602,WHO,Metformin,2023-07-21 08:00:00,154
+1145,Notuv - Denk Pharma,2022-03-29 15:32:11,DMO_1001000,4703,Red Cross,Metformin,2022-07-11 08:00:00,1
+1146,Notuv - Denk Pharma,2022-03-29 18:02:37,DMO_1001000,3016,Bill Gates Foundation,Metformin,2021-12-31 08:00:00,87
+1147,Notuv - Denk Pharma,2022-03-30 01:18:47,DMO_1001000,3456,Bill Gates Foundation,Metformin,2021-12-02 08:00:00,190
+1148,Notuv - Denk Pharma,2022-03-30 02:30:41,DMO_1001000,4856,WHO,Metformin,2022-02-09 08:00:00,12
+1149,Notuv - Denk Pharma,2022-03-30 04:22:22,DMO_1001000,2006,Bill Gates Foundation,Metformin,2022-03-21 08:00:00,1
+1150,Notuv - Denk Pharma,2022-03-31 10:56:13,DMO_1001000,3206,WHO,Metformin,2021-12-18 08:00:00,1
+1151,Notuv - Denk Pharma,2022-03-31 14:51:52,DMO_1001000,4521,Red Cross,Metformin,2023-06-30 08:00:00,1
+1152,Notuv - Denk Pharma,2022-03-31 20:12:46,DMO_1001000,2446,WHO,Metformin,2022-07-01 08:00:00,118
+1153,Notuv - Denk Pharma,2022-04-01 16:17:26,DMO_1001000,2332,Red Cross,Metformin,2022-11-15 08:00:00,156
+1154,Notuv - Denk Pharma,2022-04-01 16:28:33,DMO_1001000,1838,Red Cross,Metformin,2022-02-02 08:00:00,214
+1155,Notuv - Denk Pharma,2022-04-01 20:51:08,DMO_1001000,2705,Bill Gates Foundation,Metformin,2022-01-23 08:00:00,124
+1156,Notuv - Denk Pharma,2022-04-01 21:42:04,DMO_1001000,2766,Bill Gates Foundation,Metformin,2023-04-12 08:00:00,100
+1157,Notuv - Denk Pharma,2022-04-02 11:56:24,DMO_1001000,4082,Red Cross,Metformin,2022-08-16 08:00:00,1
+1158,Notuv - Denk Pharma,2022-04-02 14:16:17,DMO_1001000,3574,Bill Gates Foundation,Metformin,2023-05-08 08:00:00,1
+1159,Notuv - Denk Pharma,2022-04-02 18:31:08,DMO_1001000,3788,Bill Gates Foundation,Metformin,2023-05-12 08:00:00,93
+1160,Notuv - Denk Pharma,2022-04-02 22:20:20,DMO_1001000,3573,Red Cross,Metformin,2022-01-08 08:00:00,144
+1161,Notuv - Denk Pharma,2022-04-02 22:41:39,DMO_1001000,4382,Red Cross,Metformin,2021-11-24 08:00:00,34
+1162,Notuv - Denk Pharma,2022-04-02 23:28:11,DMO_1001000,4564,Bill Gates Foundation,Metformin,2022-06-28 08:00:00,19
+1163,Notuv - Denk Pharma,2022-04-03 00:16:36,DMO_1001000,2517,Red Cross,Metformin,2022-08-16 08:00:00,55
+1164,Notuv - Denk Pharma,2022-04-03 02:42:10,DMO_1001000,3593,Red Cross,Metformin,2023-05-14 08:00:00,123
+1165,Notuv - Denk Pharma,2022-04-03 10:42:21,DMO_1001000,4666,WHO,Metformin,2022-03-19 08:00:00,109
+1166,Notuv - Denk Pharma,2022-04-03 14:54:08,DMO_1001000,3693,WHO,Metformin,2021-12-30 08:00:00,40
+1167,Notuv - Denk Pharma,2022-04-03 20:49:30,DMO_1001000,4157,Bill Gates Foundation,Metformin,2023-04-19 08:00:00,1
+1168,Notuv - Denk Pharma,2022-04-03 23:14:30,DMO_1001000,2179,Bill Gates Foundation,Metformin,2023-03-05 08:00:00,58
+1169,Notuv - Denk Pharma,2022-04-04 09:16:25,DMO_1001000,3531,Red Cross,Metformin,2023-03-10 08:00:00,68
+1170,Notuv - Denk Pharma,2022-04-04 20:01:49,DMO_1001000,1738,Bill Gates Foundation,Metformin,2022-11-07 08:00:00,133
+1171,Notuv - Denk Pharma,2022-04-04 21:44:28,DMO_1001000,3627,WHO,Metformin,2023-02-23 08:00:00,66
+1172,Notuv - Denk Pharma,2022-04-05 03:50:56,DMO_1001000,3145,Bill Gates Foundation,Metformin,2022-09-05 08:00:00,18
+1173,Notuv - Denk Pharma,2022-04-05 07:25:40,DMO_1001000,1111,Bill Gates Foundation,Metformin,2022-03-29 08:00:00,19
+1174,Notuv - Denk Pharma,2022-04-05 12:24:23,DMO_1001000,2422,Bill Gates Foundation,Metformin,2022-09-20 08:00:00,1
+1175,Notuv - Denk Pharma,2022-04-05 13:24:11,DMO_1001000,3204,Red Cross,Metformin,2023-01-25 08:00:00,1
+1176,Notuv - Denk Pharma,2022-04-06 04:52:42,DMO_1001000,1912,Red Cross,Metformin,2022-09-17 08:00:00,59
+1177,Notuv - Denk Pharma,2022-04-06 18:16:01,DMO_1001000,4109,WHO,Metformin,2023-01-14 08:00:00,15
+1178,Notuv - Denk Pharma,2022-04-06 19:02:12,DMO_1001000,4360,Bill Gates Foundation,Metformin,2022-05-22 08:00:00,3
+1179,Notuv - Denk Pharma,2022-04-06 19:07:10,DMO_1001000,3528,WHO,Metformin,2022-02-21 08:00:00,132
+1180,Notuv - Denk Pharma,2022-04-07 01:04:18,DMO_1001000,3337,Red Cross,Metformin,2023-04-21 08:00:00,29
+1181,Notuv - Denk Pharma,2022-04-07 02:09:33,DMO_1001000,1145,WHO,Metformin,2022-11-04 08:00:00,1
+1182,Notuv - Denk Pharma,2022-04-07 17:32:44,DMO_1001000,4847,Bill Gates Foundation,Metformin,2022-10-14 08:00:00,156
+1183,Notuv - Denk Pharma,2022-04-07 19:37:19,DMO_1001000,2792,Bill Gates Foundation,Metformin,2023-07-11 08:00:00,60
+1184,Notuv - Denk Pharma,2022-04-08 00:53:17,DMO_1001000,2857,Red Cross,Metformin,2023-05-26 08:00:00,181
+1185,Notuv - Denk Pharma,2022-04-08 11:37:06,DMO_1001000,2594,Bill Gates Foundation,Metformin,2022-09-05 08:00:00,13
+1186,Notuv - Denk Pharma,2022-04-08 19:13:21,DMO_1001000,4719,Red Cross,Metformin,2023-04-10 08:00:00,91
+1187,Notuv - Denk Pharma,2022-04-09 21:01:32,DMO_1001000,4199,Bill Gates Foundation,Metformin,2023-05-17 08:00:00,71
+1188,Notuv - Denk Pharma,2022-04-10 05:08:58,DMO_1001000,3134,Bill Gates Foundation,Metformin,2023-07-17 08:00:00,11
+1189,Notuv - Denk Pharma,2022-04-10 05:40:00,DMO_1001000,1614,Red Cross,Metformin,2023-03-24 08:00:00,76
+1190,Notuv - Denk Pharma,2022-04-10 09:05:47,DMO_1001000,3758,WHO,Metformin,2022-05-04 08:00:00,1
+1191,Notuv - Denk Pharma,2022-04-10 13:54:35,DMO_1001000,3241,Red Cross,Metformin,2022-05-31 08:00:00,109
+1192,Notuv - Denk Pharma,2022-04-10 20:28:44,DMO_1001000,3005,WHO,Metformin,2023-03-12 08:00:00,31
+1193,Notuv - Denk Pharma,2022-04-10 20:49:02,DMO_1001000,2939,WHO,Metformin,2023-05-14 08:00:00,14
+1194,Notuv - Denk Pharma,2022-04-11 05:13:35,DMO_1001000,2000,Red Cross,Metformin,2022-03-15 08:00:00,15
+1195,Notuv - Denk Pharma,2022-04-11 07:43:57,DMO_1001000,3040,WHO,Metformin,2022-07-29 08:00:00,23
+1196,Notuv - Denk Pharma,2022-04-11 08:15:38,DMO_1001000,3258,WHO,Metformin,2022-10-30 08:00:00,1
+1197,Notuv - Denk Pharma,2022-04-12 07:05:13,DMO_1001000,3274,WHO,Metformin,2023-03-27 08:00:00,155
+1198,Notuv - Denk Pharma,2022-04-12 12:33:50,DMO_1001000,2607,WHO,Metformin,2023-05-09 08:00:00,1
+1199,Notuv - Denk Pharma,2022-04-12 19:48:11,DMO_1001000,4436,Red Cross,Metformin,2022-07-18 08:00:00,44
+1200,Notuv - Denk Pharma,2022-04-12 22:10:32,DMO_1001000,1462,WHO,Metformin,2022-01-05 08:00:00,26
+1201,Notuv - Denk Pharma,2022-04-13 05:05:34,DMO_1001000,3697,Red Cross,Metformin,2022-11-08 08:00:00,37
+1202,Notuv - Denk Pharma,2022-04-13 09:25:16,DMO_1001000,3361,Red Cross,Metformin,2022-02-16 08:00:00,5
+1203,Notuv - Denk Pharma,2022-04-13 16:28:56,DMO_1001000,3669,WHO,Metformin,2022-11-13 08:00:00,97
+1204,Notuv - Denk Pharma,2022-04-13 22:27:39,DMO_1001000,3586,WHO,Metformin,2023-03-22 08:00:00,87
+1205,Notuv - Denk Pharma,2022-04-14 00:07:27,DMO_1001000,4307,Red Cross,Metformin,2022-09-15 08:00:00,1
+1206,Notuv - Denk Pharma,2022-04-14 09:11:06,DMO_1001000,1224,Bill Gates Foundation,Metformin,2022-05-28 08:00:00,1
+1207,Notuv - Denk Pharma,2022-04-14 22:05:05,DMO_1001000,3280,Bill Gates Foundation,Metformin,2022-01-19 08:00:00,15
+1208,Notuv - Denk Pharma,2022-04-15 00:43:30,DMO_1001000,4753,Bill Gates Foundation,Metformin,2023-04-22 08:00:00,118
+1209,Notuv - Denk Pharma,2022-04-15 03:23:50,DMO_1001000,4774,Red Cross,Metformin,2022-01-01 08:00:00,88
+1210,Notuv - Denk Pharma,2022-04-15 04:16:00,DMO_1001000,2365,WHO,Metformin,2023-07-25 08:00:00,1
+1211,Notuv - Denk Pharma,2022-04-15 04:32:30,DMO_1001000,2476,Bill Gates Foundation,Metformin,2022-06-08 08:00:00,1
+1212,Notuv - Denk Pharma,2022-04-15 06:42:17,DMO_1001000,4224,Bill Gates Foundation,Metformin,2022-02-18 08:00:00,1
+1213,Notuv - Denk Pharma,2022-04-15 08:57:42,DMO_1001000,4062,Bill Gates Foundation,Metformin,2021-12-20 08:00:00,1
+1214,Notuv - Denk Pharma,2022-04-15 19:58:39,DMO_1001000,1883,WHO,Metformin,2022-06-14 08:00:00,130
+1215,Notuv - Denk Pharma,2022-04-16 05:51:00,DMO_1001000,3399,Bill Gates Foundation,Metformin,2022-06-18 08:00:00,49
+1216,Notuv - Denk Pharma,2022-04-16 08:48:18,DMO_1001000,1672,Bill Gates Foundation,Metformin,2023-04-08 08:00:00,12
+1217,Notuv - Denk Pharma,2022-04-16 11:28:13,DMO_1001000,4721,WHO,Metformin,2022-05-22 08:00:00,73
+1218,Notuv - Denk Pharma,2022-04-16 16:50:24,DMO_1001000,2698,WHO,Metformin,2023-01-27 08:00:00,85
+1219,Notuv - Denk Pharma,2022-04-17 00:27:26,DMO_1001000,4002,Bill Gates Foundation,Metformin,2023-04-04 08:00:00,108
+1220,Notuv - Denk Pharma,2022-04-17 17:49:17,DMO_1001000,3995,WHO,Metformin,2022-10-08 08:00:00,48
+1221,Notuv - Denk Pharma,2022-04-17 20:50:11,DMO_1001000,2900,Bill Gates Foundation,Metformin,2022-01-01 08:00:00,92
+1222,Notuv - Denk Pharma,2022-04-18 01:32:57,DMO_1001000,2207,WHO,Metformin,2022-09-12 08:00:00,65
+1223,Notuv - Denk Pharma,2022-04-18 02:57:35,DMO_1001000,2089,Red Cross,Metformin,2023-07-02 08:00:00,56
+1224,Notuv - Denk Pharma,2022-04-18 15:31:06,DMO_1001000,4001,WHO,Metformin,2022-11-19 08:00:00,1
+1225,Notuv - Denk Pharma,2022-04-18 18:23:35,DMO_1001000,3921,WHO,Metformin,2022-03-13 08:00:00,56
+1226,Notuv - Denk Pharma,2022-04-18 20:11:31,DMO_1001000,1512,Red Cross,Metformin,2022-09-28 08:00:00,1
+1227,Notuv - Denk Pharma,2022-04-18 23:34:45,DMO_1001000,1928,Bill Gates Foundation,Metformin,2022-02-18 08:00:00,2
+1228,Notuv - Denk Pharma,2022-04-19 01:03:10,DMO_1001000,1536,Bill Gates Foundation,Metformin,2021-12-28 08:00:00,112
+1229,Notuv - Denk Pharma,2022-04-19 02:48:47,DMO_1001000,2355,Bill Gates Foundation,Metformin,2022-01-28 08:00:00,120
+1230,Notuv - Denk Pharma,2022-04-19 03:49:09,DMO_1001000,4793,Bill Gates Foundation,Metformin,2022-10-09 08:00:00,59
+1231,Notuv - Denk Pharma,2022-04-20 04:04:13,DMO_1001000,4292,Red Cross,Metformin,2021-10-30 08:00:00,94
+1232,Notuv - Denk Pharma,2022-04-20 06:16:16,DMO_1001000,4762,Red Cross,Metformin,2021-11-19 08:00:00,94
+1233,Notuv - Denk Pharma,2022-04-20 11:28:31,DMO_1001000,2804,Bill Gates Foundation,Metformin,2022-06-02 08:00:00,8
+1234,Notuv - Denk Pharma,2022-04-21 04:57:00,DMO_1001000,4262,Red Cross,Metformin,2023-07-06 08:00:00,192
+1235,Notuv - Denk Pharma,2022-04-21 19:10:14,DMO_1001000,4785,Bill Gates Foundation,Metformin,2022-01-11 08:00:00,6
+1236,Notuv - Denk Pharma,2022-04-22 06:04:37,DMO_1001000,1569,Red Cross,Metformin,2021-12-17 08:00:00,1
+1237,Notuv - Denk Pharma,2022-04-22 06:53:47,DMO_1001000,1002,Bill Gates Foundation,Metformin,2023-01-04 08:00:00,102
+1238,Notuv - Denk Pharma,2022-04-22 08:38:01,DMO_1001000,4103,WHO,Metformin,2023-02-15 08:00:00,1
+1239,Notuv - Denk Pharma,2022-04-22 18:43:35,DMO_1001000,1365,WHO,Metformin,2022-01-18 08:00:00,40
+1240,Notuv - Denk Pharma,2022-04-23 00:50:04,DMO_1001000,4862,Red Cross,Metformin,2022-06-25 08:00:00,1
+1241,Notuv - Denk Pharma,2022-04-23 04:11:12,DMO_1001000,3381,WHO,Metformin,2023-02-07 08:00:00,1
+1242,Notuv - Denk Pharma,2022-04-23 06:23:09,DMO_1001000,3423,Bill Gates Foundation,Metformin,2023-03-09 08:00:00,147
+1243,Notuv - Denk Pharma,2022-04-23 20:17:17,DMO_1001000,3279,Red Cross,Metformin,2022-04-08 08:00:00,51
+1244,Notuv - Denk Pharma,2022-04-23 22:05:04,DMO_1001000,3702,Bill Gates Foundation,Metformin,2021-11-27 08:00:00,51
+1245,Notuv - Denk Pharma,2022-04-24 13:50:00,DMO_1001000,1412,Red Cross,Metformin,2023-03-22 08:00:00,30
+1246,Notuv - Denk Pharma,2022-04-24 17:26:53,DMO_1001000,3717,WHO,Metformin,2023-07-09 08:00:00,53
+1247,Notuv - Denk Pharma,2022-04-25 01:55:51,DMO_1001000,1526,WHO,Metformin,2022-02-13 08:00:00,62
+1248,Notuv - Denk Pharma,2022-04-25 14:47:55,DMO_1001000,1833,Bill Gates Foundation,Metformin,2021-11-18 08:00:00,1
+1249,Notuv - Denk Pharma,2022-04-26 02:10:29,DMO_1001000,1352,Bill Gates Foundation,Metformin,2023-05-13 08:00:00,36
+1250,Notuv - Denk Pharma,2022-04-26 08:49:40,DMO_1001000,1530,Bill Gates Foundation,Metformin,2022-11-09 08:00:00,65
+1251,Notuv - Denk Pharma,2022-04-26 20:05:57,DMO_1001000,3630,Bill Gates Foundation,Metformin,2021-12-16 08:00:00,135
+1252,Notuv - Denk Pharma,2022-04-26 22:46:21,DMO_1001000,2094,Red Cross,Metformin,2022-09-04 08:00:00,201
+1253,Notuv - Denk Pharma,2022-04-27 05:57:27,DMO_1001000,1956,WHO,Metformin,2022-02-08 08:00:00,1
+1254,Notuv - Denk Pharma,2022-04-27 13:37:35,DMO_1001000,2186,WHO,Metformin,2023-07-26 08:00:00,142
+1255,Notuv - Denk Pharma,2022-04-27 13:51:09,DMO_1001000,4561,Bill Gates Foundation,Metformin,2022-03-25 08:00:00,79
+1256,Notuv - Denk Pharma,2022-04-28 05:41:34,DMO_1001000,3593,Red Cross,Metformin,2022-02-22 08:00:00,1
+1257,Notuv - Denk Pharma,2022-04-28 05:42:05,DMO_1001000,3420,Red Cross,Metformin,2023-01-11 08:00:00,231
+1258,Notuv - Denk Pharma,2022-04-28 09:20:02,DMO_1001000,4502,Red Cross,Metformin,2022-04-15 08:00:00,153
+1259,Notuv - Denk Pharma,2022-04-28 20:02:49,DMO_1001000,3099,WHO,Metformin,2022-10-26 08:00:00,57
+1260,Notuv - Denk Pharma,2022-04-28 20:22:08,DMO_1001000,2599,Red Cross,Metformin,2022-12-27 08:00:00,1
+1261,Notuv - Denk Pharma,2022-04-29 04:58:56,DMO_1001000,2321,Red Cross,Metformin,2023-05-06 08:00:00,12
+1262,Notuv - Denk Pharma,2022-04-29 06:32:36,DMO_1001000,4176,Red Cross,Metformin,2023-02-16 08:00:00,16
+1263,Notuv - Denk Pharma,2022-04-29 06:51:15,DMO_1001000,2652,Red Cross,Metformin,2023-02-02 08:00:00,1
+1264,Notuv - Denk Pharma,2022-04-29 09:19:09,DMO_1001000,1995,Bill Gates Foundation,Metformin,2023-06-07 08:00:00,121
+1265,Notuv - Denk Pharma,2022-04-29 15:58:05,DMO_1001000,3829,Red Cross,Metformin,2022-08-19 08:00:00,75
+1266,Notuv - Denk Pharma,2022-04-29 17:50:07,DMO_1001000,1173,WHO,Metformin,2023-03-29 08:00:00,7
+1267,Notuv - Denk Pharma,2022-04-30 05:22:49,DMO_1001000,3226,WHO,Metformin,2022-06-26 08:00:00,93
+1268,Notuv - Denk Pharma,2022-04-30 18:40:45,DMO_1001000,3986,WHO,Metformin,2022-02-21 08:00:00,46
+1269,Notuv - Denk Pharma,2022-04-30 20:28:31,DMO_1001000,3957,WHO,Metformin,2022-04-09 08:00:00,13
+1270,Notuv - Denk Pharma,2022-05-01 00:48:56,DMO_1001000,3321,WHO,Metformin,2023-06-11 08:00:00,1
+1271,Notuv - Denk Pharma,2022-05-01 07:23:04,DMO_1001000,2314,Bill Gates Foundation,Metformin,2023-01-11 08:00:00,30
+1272,Notuv - Denk Pharma,2022-05-01 07:43:08,DMO_1001000,2589,Red Cross,Metformin,2022-03-31 08:00:00,81
+1273,Notuv - Denk Pharma,2022-05-01 11:07:19,DMO_1001000,3998,WHO,Metformin,2023-05-26 08:00:00,100
+1274,Notuv - Denk Pharma,2022-05-01 13:35:00,DMO_1001000,2209,WHO,Metformin,2023-04-06 08:00:00,160
+1275,Notuv - Denk Pharma,2022-05-01 21:53:01,DMO_1001000,2903,Bill Gates Foundation,Metformin,2023-06-08 08:00:00,1
+1276,Notuv - Denk Pharma,2022-05-02 00:30:27,DMO_1001000,1636,WHO,Metformin,2022-06-28 08:00:00,91
+1277,Notuv - Denk Pharma,2022-05-02 12:20:47,DMO_1001000,2417,Bill Gates Foundation,Metformin,2023-04-14 08:00:00,2
+1278,Notuv - Denk Pharma,2022-05-02 15:26:28,DMO_1001000,1964,WHO,Metformin,2022-07-22 08:00:00,9
+1279,Notuv - Denk Pharma,2022-05-02 17:50:43,DMO_1001000,3828,WHO,Metformin,2022-04-01 08:00:00,11
+1280,Notuv - Denk Pharma,2022-05-02 19:22:25,DMO_1001000,2253,Bill Gates Foundation,Metformin,2022-01-02 08:00:00,119
+1281,Notuv - Denk Pharma,2022-05-03 02:14:33,DMO_1001000,4942,Red Cross,Metformin,2023-03-27 08:00:00,10
+1282,Notuv - Denk Pharma,2022-05-03 02:43:21,DMO_1001000,1801,Red Cross,Metformin,2022-05-08 08:00:00,43
+1283,Notuv - Denk Pharma,2022-05-03 09:34:49,DMO_1001000,4532,Red Cross,Metformin,2022-06-28 08:00:00,40
+1284,Notuv - Denk Pharma,2022-05-04 00:24:01,DMO_1001000,2334,WHO,Metformin,2022-08-28 08:00:00,128
+1285,Notuv - Denk Pharma,2022-05-04 01:18:51,DMO_1001000,2867,Red Cross,Metformin,2022-05-13 08:00:00,80
+1286,Notuv - Denk Pharma,2022-05-05 05:54:38,DMO_1001000,2239,Bill Gates Foundation,Metformin,2022-01-08 08:00:00,145
+1287,Notuv - Denk Pharma,2022-05-05 14:19:40,DMO_1001000,4290,WHO,Metformin,2022-11-23 08:00:00,78
+1288,Notuv - Denk Pharma,2022-05-05 16:32:47,DMO_1001000,3127,Bill Gates Foundation,Metformin,2022-06-23 08:00:00,39
+1289,Notuv - Denk Pharma,2022-05-05 17:29:11,DMO_1001000,4611,WHO,Metformin,2023-01-11 08:00:00,62
+1290,Notuv - Denk Pharma,2022-05-06 08:51:06,DMO_1001000,2373,Red Cross,Metformin,2023-03-11 08:00:00,63
+1291,Notuv - Denk Pharma,2022-05-06 09:07:48,DMO_1001000,4739,WHO,Metformin,2022-01-02 08:00:00,52
+1292,Notuv - Denk Pharma,2022-05-06 14:19:18,DMO_1001000,2767,WHO,Metformin,2022-03-29 08:00:00,88
+1293,Notuv - Denk Pharma,2022-05-06 19:44:37,DMO_1001000,4712,Red Cross,Metformin,2021-12-28 08:00:00,1
+1294,Notuv - Denk Pharma,2022-05-06 23:39:51,DMO_1001000,1032,WHO,Metformin,2022-05-28 08:00:00,33
+1295,Notuv - Denk Pharma,2022-05-07 00:02:48,DMO_1001000,4289,WHO,Metformin,2023-04-09 08:00:00,21
+1296,Notuv - Denk Pharma,2022-05-07 00:37:45,DMO_1001000,3637,Red Cross,Metformin,2021-11-03 08:00:00,125
+1297,Notuv - Denk Pharma,2022-05-07 07:29:15,DMO_1001000,4328,Red Cross,Metformin,2023-02-19 08:00:00,146
+1298,Notuv - Denk Pharma,2022-05-07 17:39:48,DMO_1001000,3602,Red Cross,Metformin,2022-09-03 08:00:00,55
+1299,Notuv - Denk Pharma,2022-05-07 18:46:09,DMO_1001000,4657,Bill Gates Foundation,Metformin,2022-06-02 08:00:00,214
+1300,Notuv - Denk Pharma,2022-05-07 20:46:08,DMO_1001000,2942,WHO,Metformin,2023-03-31 08:00:00,90
+1301,Notuv - Denk Pharma,2022-05-07 22:11:38,DMO_1001000,4274,Red Cross,Metformin,2022-10-06 08:00:00,95
+1302,Notuv - Denk Pharma,2022-05-08 17:06:59,DMO_1001000,2680,WHO,Metformin,2023-03-30 08:00:00,159
+1303,Notuv - Denk Pharma,2022-05-08 21:55:29,DMO_1001000,4762,Bill Gates Foundation,Metformin,2021-12-13 08:00:00,105
+1304,Notuv - Denk Pharma,2022-05-09 02:17:27,DMO_1001000,1441,WHO,Metformin,2022-03-19 08:00:00,1
+1305,Notuv - Denk Pharma,2022-05-09 06:27:04,DMO_1001000,1615,Bill Gates Foundation,Metformin,2023-04-13 08:00:00,11
+1306,Notuv - Denk Pharma,2022-05-09 13:28:03,DMO_1001000,3934,WHO,Metformin,2023-06-29 08:00:00,1
+1307,Notuv - Denk Pharma,2022-05-09 17:35:16,DMO_1001000,3993,Red Cross,Metformin,2021-11-01 08:00:00,56
+1308,Notuv - Denk Pharma,2022-05-10 08:52:33,DMO_1001000,3743,Red Cross,Metformin,2023-04-08 08:00:00,1
+1309,Notuv - Denk Pharma,2022-05-10 14:13:22,DMO_1001000,1496,Bill Gates Foundation,Metformin,2023-04-26 08:00:00,1
+1310,Notuv - Denk Pharma,2022-05-10 14:33:00,DMO_1001000,4887,WHO,Metformin,2023-03-08 08:00:00,26
+1311,Notuv - Denk Pharma,2022-05-10 14:49:14,DMO_1001000,3437,Red Cross,Metformin,2023-02-08 08:00:00,110
+1312,Notuv - Denk Pharma,2022-05-10 21:13:13,DMO_1001000,1672,WHO,Metformin,2023-02-17 08:00:00,1
+1313,Notuv - Denk Pharma,2022-05-10 23:02:50,DMO_1001000,3580,Red Cross,Metformin,2023-01-03 08:00:00,9
+1314,Notuv - Denk Pharma,2022-05-11 01:18:20,DMO_1001000,2414,Bill Gates Foundation,Metformin,2023-04-21 08:00:00,50
+1315,Notuv - Denk Pharma,2022-05-11 14:43:00,DMO_1001000,2837,Bill Gates Foundation,Metformin,2022-11-26 08:00:00,113
+1316,Notuv - Denk Pharma,2022-05-11 16:53:01,DMO_1001000,2918,Red Cross,Metformin,2023-07-21 08:00:00,1
+1317,Notuv - Denk Pharma,2022-05-12 02:40:00,DMO_1001000,4753,Red Cross,Metformin,2022-01-18 08:00:00,1
+1318,Notuv - Denk Pharma,2022-05-12 05:10:49,DMO_1001000,2410,Red Cross,Metformin,2022-02-28 08:00:00,81
+1319,Notuv - Denk Pharma,2022-05-12 11:08:27,DMO_1001000,4165,WHO,Metformin,2023-02-17 08:00:00,113
+1320,Notuv - Denk Pharma,2022-05-12 13:40:50,DMO_1001000,3543,WHO,Metformin,2022-05-29 08:00:00,42
+1321,Notuv - Denk Pharma,2022-05-12 23:12:11,DMO_1001000,4236,WHO,Metformin,2022-08-22 08:00:00,32
+1322,Notuv - Denk Pharma,2022-05-13 00:49:03,DMO_1001000,3221,Red Cross,Metformin,2022-01-17 08:00:00,89
+1323,Notuv - Denk Pharma,2022-05-13 02:17:46,DMO_1001000,2095,WHO,Metformin,2022-01-14 08:00:00,59
+1324,Notuv - Denk Pharma,2022-05-13 22:36:02,DMO_1001000,3024,Red Cross,Metformin,2023-06-09 08:00:00,99
+1325,Notuv - Denk Pharma,2022-05-14 02:42:49,DMO_1001000,3923,Bill Gates Foundation,Metformin,2023-07-19 08:00:00,6
+1326,Notuv - Denk Pharma,2022-05-14 11:12:40,DMO_1001000,1797,WHO,Metformin,2022-02-16 08:00:00,84
+1327,Notuv - Denk Pharma,2022-05-14 19:55:39,DMO_1001000,4148,Bill Gates Foundation,Metformin,2023-05-07 08:00:00,119
+1328,Notuv - Denk Pharma,2022-05-15 09:24:18,DMO_1001000,3100,WHO,Metformin,2022-07-07 08:00:00,74
+1329,Notuv - Denk Pharma,2022-05-15 14:39:10,DMO_1001000,3705,WHO,Metformin,2023-07-18 08:00:00,106
+1330,Notuv - Denk Pharma,2022-05-15 16:53:14,DMO_1001000,2784,Bill Gates Foundation,Metformin,2023-06-09 08:00:00,28
+1331,Notuv - Denk Pharma,2022-05-15 22:33:09,DMO_1001000,3213,Red Cross,Metformin,2022-07-17 08:00:00,149
+1332,Notuv - Denk Pharma,2022-05-16 10:02:24,DMO_1001000,4245,Bill Gates Foundation,Metformin,2023-05-12 08:00:00,43
+1333,Notuv - Denk Pharma,2022-05-16 13:02:50,DMO_1001000,1815,Bill Gates Foundation,Metformin,2023-01-30 08:00:00,85
+1334,Notuv - Denk Pharma,2022-05-16 17:08:47,DMO_1001000,1226,Bill Gates Foundation,Metformin,2023-05-21 08:00:00,68
+1335,Notuv - Denk Pharma,2022-05-17 02:49:27,DMO_1001000,3143,WHO,Metformin,2022-01-14 08:00:00,115
+1336,Notuv - Denk Pharma,2022-05-17 03:40:19,DMO_1001000,2753,Bill Gates Foundation,Metformin,2022-07-22 08:00:00,153
+1337,Notuv - Denk Pharma,2022-05-17 15:42:20,DMO_1001000,3142,Red Cross,Metformin,2023-02-01 08:00:00,1
+1338,Notuv - Denk Pharma,2022-05-17 19:28:36,DMO_1001000,2127,Bill Gates Foundation,Metformin,2022-10-17 08:00:00,80
+1339,Notuv - Denk Pharma,2022-05-17 20:48:05,DMO_1001000,1863,Red Cross,Metformin,2021-12-05 08:00:00,10
+1340,Notuv - Denk Pharma,2022-05-17 23:41:26,DMO_1001000,4982,WHO,Metformin,2022-08-20 08:00:00,55
+1341,Notuv - Denk Pharma,2022-05-18 02:35:04,DMO_1001000,1553,WHO,Metformin,2022-02-27 08:00:00,45
+1342,Notuv - Denk Pharma,2022-05-18 04:59:19,DMO_1001000,3550,WHO,Metformin,2022-07-31 08:00:00,1
+1343,Notuv - Denk Pharma,2022-05-18 11:16:23,DMO_1001000,1639,WHO,Metformin,2023-06-05 08:00:00,97
+1344,Notuv - Denk Pharma,2022-05-19 00:19:57,DMO_1001000,4720,WHO,Metformin,2023-04-11 08:00:00,82
+1345,Notuv - Denk Pharma,2022-05-19 02:30:56,DMO_1001000,1454,Red Cross,Metformin,2022-03-19 08:00:00,44
+1346,Notuv - Denk Pharma,2022-05-19 09:42:43,DMO_1001000,3924,WHO,Metformin,2022-07-25 08:00:00,5
+1347,Notuv - Denk Pharma,2022-05-19 12:24:18,DMO_1001000,4152,WHO,Metformin,2022-05-11 08:00:00,51
+1348,Notuv - Denk Pharma,2022-05-19 22:21:13,DMO_1001000,2412,Red Cross,Metformin,2022-05-04 08:00:00,1
+1349,Notuv - Denk Pharma,2022-05-20 11:28:57,DMO_1001000,2084,Bill Gates Foundation,Metformin,2023-05-08 08:00:00,119
+1350,Notuv - Denk Pharma,2022-05-20 23:49:17,DMO_1001000,2889,Red Cross,Metformin,2022-02-15 08:00:00,46
+1351,Notuv - Denk Pharma,2022-05-21 07:42:03,DMO_1001000,3879,Bill Gates Foundation,Metformin,2023-06-06 08:00:00,27
+1352,Notuv - Denk Pharma,2022-05-22 11:15:40,DMO_1001000,1856,Red Cross,Metformin,2023-02-24 08:00:00,83
+1353,Notuv - Denk Pharma,2022-05-23 00:53:41,DMO_1001000,4346,WHO,Metformin,2022-05-26 08:00:00,71
+1354,Notuv - Denk Pharma,2022-05-23 12:07:28,DMO_1001000,1136,WHO,Metformin,2022-11-20 08:00:00,103
+1355,Notuv - Denk Pharma,2022-05-23 12:24:19,DMO_1001000,3367,Bill Gates Foundation,Metformin,2022-04-19 08:00:00,87
+1356,Notuv - Denk Pharma,2022-05-23 14:35:57,DMO_1001000,2633,Red Cross,Metformin,2022-11-12 08:00:00,77
+1357,Notuv - Denk Pharma,2022-05-23 15:36:40,DMO_1001000,1061,WHO,Metformin,2023-07-15 08:00:00,1
+1358,Notuv - Denk Pharma,2022-05-23 17:54:15,DMO_1001000,1231,Red Cross,Metformin,2022-08-24 08:00:00,73
+1359,Notuv - Denk Pharma,2022-05-24 02:09:18,DMO_1001000,2641,Bill Gates Foundation,Metformin,2022-10-12 08:00:00,5
+1360,Notuv - Denk Pharma,2022-05-24 07:10:55,DMO_1001000,1817,Red Cross,Metformin,2022-11-03 08:00:00,1
+1361,Notuv - Denk Pharma,2022-05-24 15:07:08,DMO_1001000,1229,Red Cross,Metformin,2022-07-21 08:00:00,52
+1362,Notuv - Denk Pharma,2022-05-24 22:25:42,DMO_1001000,4803,WHO,Metformin,2023-05-13 08:00:00,18
+1363,Notuv - Denk Pharma,2022-05-25 04:31:44,DMO_1001000,4535,WHO,Metformin,2022-05-03 08:00:00,120
+1364,Notuv - Denk Pharma,2022-05-26 11:24:37,DMO_1001000,2016,WHO,Metformin,2023-01-06 08:00:00,111
+1365,Notuv - Denk Pharma,2022-05-26 18:07:31,DMO_1001000,3647,Red Cross,Metformin,2022-09-04 08:00:00,12
+1366,Notuv - Denk Pharma,2022-05-26 19:52:43,DMO_1001000,1491,Bill Gates Foundation,Metformin,2022-02-16 08:00:00,85
+1367,Notuv - Denk Pharma,2022-05-27 01:47:00,DMO_1001000,2817,WHO,Metformin,2023-05-24 08:00:00,1
+1368,Notuv - Denk Pharma,2022-05-27 05:36:48,DMO_1001000,3679,Red Cross,Metformin,2022-03-04 08:00:00,29
+1369,Notuv - Denk Pharma,2022-05-27 09:30:53,DMO_1001000,4124,WHO,Metformin,2023-05-28 08:00:00,70
+1370,Notuv - Denk Pharma,2022-05-27 11:45:03,DMO_1001000,1360,Red Cross,Metformin,2023-05-07 08:00:00,172
+1371,Notuv - Denk Pharma,2022-05-27 12:11:15,DMO_1001000,1415,Bill Gates Foundation,Metformin,2023-05-06 08:00:00,20
+1372,Notuv - Denk Pharma,2022-05-27 19:25:02,DMO_1001000,2980,WHO,Metformin,2023-07-27 08:00:00,57
+1373,Notuv - Denk Pharma,2022-05-27 22:22:21,DMO_1001000,3442,Red Cross,Metformin,2022-11-29 08:00:00,80
+1374,Notuv - Denk Pharma,2022-05-27 22:23:12,DMO_1001000,2064,WHO,Metformin,2022-12-25 08:00:00,1
+1375,Notuv - Denk Pharma,2022-05-27 23:33:21,DMO_1001000,4881,WHO,Metformin,2022-11-11 08:00:00,88
+1376,Notuv - Denk Pharma,2022-05-28 10:02:01,DMO_1001000,1315,Red Cross,Metformin,2023-04-24 08:00:00,26
+1377,Notuv - Denk Pharma,2022-05-28 15:02:28,DMO_1001000,1667,Red Cross,Metformin,2022-07-12 08:00:00,70
+1378,Notuv - Denk Pharma,2022-05-28 15:10:56,DMO_1001000,1166,Red Cross,Metformin,2022-01-16 08:00:00,137
+1379,Notuv - Denk Pharma,2022-05-28 18:29:00,DMO_1001000,3478,Red Cross,Metformin,2022-07-23 08:00:00,30
+1380,Notuv - Denk Pharma,2022-05-29 06:43:17,DMO_1001000,1427,WHO,Metformin,2022-07-27 08:00:00,155
+1381,Notuv - Denk Pharma,2022-05-29 09:21:43,DMO_1001000,3280,Bill Gates Foundation,Metformin,2022-02-15 08:00:00,56
+1382,Notuv - Denk Pharma,2022-05-29 14:18:23,DMO_1001000,4603,Bill Gates Foundation,Metformin,2022-06-02 08:00:00,57
+1383,Notuv - Denk Pharma,2022-05-29 16:49:02,DMO_1001000,3188,Bill Gates Foundation,Metformin,2022-08-23 08:00:00,118
+1384,Notuv - Denk Pharma,2022-05-29 17:12:17,DMO_1001000,4517,Red Cross,Metformin,2021-12-20 08:00:00,1
+1385,Notuv - Denk Pharma,2022-05-30 02:33:14,DMO_1001000,3167,Red Cross,Metformin,2023-07-14 08:00:00,81
+1386,Notuv - Denk Pharma,2022-05-30 06:48:18,DMO_1001000,3330,Bill Gates Foundation,Metformin,2023-01-24 08:00:00,15
+1387,Notuv - Denk Pharma,2022-05-31 06:59:12,DMO_1001000,2484,WHO,Metformin,2022-10-29 08:00:00,30
+1388,Notuv - Denk Pharma,2022-05-31 07:32:28,DMO_1001000,3137,Red Cross,Metformin,2022-10-29 08:00:00,158
+1389,Notuv - Denk Pharma,2022-05-31 10:05:25,DMO_1001000,4997,WHO,Metformin,2023-06-25 08:00:00,95
+1390,Notuv - Denk Pharma,2022-05-31 10:12:09,DMO_1001000,4093,Bill Gates Foundation,Metformin,2022-12-04 08:00:00,90
+1391,Notuv - Denk Pharma,2022-05-31 18:14:07,DMO_1001000,2979,Bill Gates Foundation,Metformin,2023-01-19 08:00:00,10
+1392,Notuv - Denk Pharma,2022-05-31 21:13:36,DMO_1001000,2464,Red Cross,Metformin,2022-10-13 08:00:00,103
+1393,Notuv - Denk Pharma,2022-06-01 09:56:07,DMO_1001000,1039,WHO,Metformin,2022-03-20 08:00:00,74
+1394,Notuv - Denk Pharma,2022-06-01 11:37:03,DMO_1001000,1333,Red Cross,Metformin,2023-04-09 08:00:00,62
+1395,Notuv - Denk Pharma,2022-06-01 14:45:42,DMO_1001000,1342,Bill Gates Foundation,Metformin,2023-02-20 08:00:00,43
+1396,Notuv - Denk Pharma,2022-06-02 05:32:47,DMO_1001000,1319,Red Cross,Metformin,2022-12-31 08:00:00,107
+1397,Notuv - Denk Pharma,2022-06-02 07:43:18,DMO_1001000,2373,WHO,Metformin,2022-12-22 08:00:00,136
+1398,Notuv - Denk Pharma,2022-06-02 18:30:26,DMO_1001000,1532,Bill Gates Foundation,Metformin,2022-07-27 08:00:00,1
+1399,Notuv - Denk Pharma,2022-06-02 19:28:58,DMO_1001000,3265,Red Cross,Metformin,2022-11-28 08:00:00,1
+1400,Notuv - Denk Pharma,2022-06-03 05:52:26,DMO_1001000,4728,Bill Gates Foundation,Metformin,2022-08-16 08:00:00,117
+1401,Notuv - Denk Pharma,2022-06-03 21:37:20,DMO_1001000,4341,Red Cross,Metformin,2022-10-15 08:00:00,1
+1402,Notuv - Denk Pharma,2022-06-04 05:01:38,DMO_1001000,3965,Red Cross,Metformin,2022-02-20 08:00:00,89
+1403,Notuv - Denk Pharma,2022-06-04 11:27:49,DMO_1001000,4025,WHO,Metformin,2021-12-26 08:00:00,1
+1404,Notuv - Denk Pharma,2022-06-04 12:11:35,DMO_1001000,4216,WHO,Metformin,2022-03-04 08:00:00,1
+1405,Notuv - Denk Pharma,2022-06-04 14:22:28,DMO_1001000,3895,Bill Gates Foundation,Metformin,2022-04-11 08:00:00,37
+1406,Notuv - Denk Pharma,2022-06-04 18:33:44,DMO_1001000,4327,Bill Gates Foundation,Metformin,2023-06-16 08:00:00,17
+1407,Notuv - Denk Pharma,2022-06-04 22:03:01,DMO_1001000,3471,Red Cross,Metformin,2022-10-03 08:00:00,1
+1408,Notuv - Denk Pharma,2022-06-04 23:03:51,DMO_1001000,4493,WHO,Metformin,2023-01-09 08:00:00,1
+1409,Notuv - Denk Pharma,2022-06-05 13:54:25,DMO_1001000,3221,WHO,Metformin,2022-02-21 08:00:00,118
+1410,Notuv - Denk Pharma,2022-06-05 22:48:17,DMO_1001000,4067,Bill Gates Foundation,Metformin,2022-11-12 08:00:00,70
+1411,Notuv - Denk Pharma,2022-06-06 04:26:11,DMO_1001000,1197,WHO,Metformin,2022-08-04 08:00:00,122
+1412,Notuv - Denk Pharma,2022-06-06 05:18:08,DMO_1001000,2331,Red Cross,Metformin,2023-02-27 08:00:00,36
+1413,Notuv - Denk Pharma,2022-06-06 12:19:11,DMO_1001000,4371,WHO,Metformin,2023-04-15 08:00:00,22
+1414,Notuv - Denk Pharma,2022-06-06 17:30:29,DMO_1001000,1004,Bill Gates Foundation,Metformin,2021-11-13 08:00:00,72
+1415,Notuv - Denk Pharma,2022-06-06 18:21:15,DMO_1001000,1945,Red Cross,Metformin,2022-06-16 08:00:00,24
+1416,Notuv - Denk Pharma,2022-06-06 19:57:40,DMO_1001000,4472,WHO,Metformin,2021-11-16 08:00:00,44
+1417,Notuv - Denk Pharma,2022-06-07 14:39:40,DMO_1001000,1903,WHO,Metformin,2022-08-29 08:00:00,52
+1418,Notuv - Denk Pharma,2022-06-07 19:20:21,DMO_1001000,2492,WHO,Metformin,2022-05-29 08:00:00,10
+1419,Notuv - Denk Pharma,2022-06-07 20:46:47,DMO_1001000,3406,WHO,Metformin,2023-05-27 08:00:00,128
+1420,Notuv - Denk Pharma,2022-06-08 01:54:57,DMO_1001000,1308,WHO,Metformin,2022-03-01 08:00:00,1
+1421,Notuv - Denk Pharma,2022-06-08 02:49:11,DMO_1001000,4164,Red Cross,Metformin,2022-08-31 08:00:00,58
+1422,Notuv - Denk Pharma,2022-06-09 05:35:21,DMO_1001000,2215,WHO,Metformin,2023-03-02 08:00:00,108
+1423,Notuv - Denk Pharma,2022-06-09 06:39:45,DMO_1001000,3580,WHO,Metformin,2023-05-28 08:00:00,44
+1424,Notuv - Denk Pharma,2022-06-09 08:11:08,DMO_1001000,1683,Bill Gates Foundation,Metformin,2022-10-09 08:00:00,119
+1425,Notuv - Denk Pharma,2022-06-09 12:48:26,DMO_1001000,3601,Red Cross,Metformin,2022-07-18 08:00:00,1
+1426,Notuv - Denk Pharma,2022-06-09 12:52:41,DMO_1001000,2688,WHO,Metformin,2022-03-15 08:00:00,92
+1427,Notuv - Denk Pharma,2022-06-09 15:36:10,DMO_1001000,3826,WHO,Metformin,2023-01-20 08:00:00,24
+1428,Notuv - Denk Pharma,2022-06-10 03:04:50,DMO_1001000,3352,WHO,Metformin,2023-07-22 08:00:00,25
+1429,Notuv - Denk Pharma,2022-06-11 04:54:47,DMO_1001000,3965,Red Cross,Metformin,2021-11-06 08:00:00,57
+1430,Notuv - Denk Pharma,2022-06-11 08:27:35,DMO_1001000,1582,Red Cross,Metformin,2022-09-30 08:00:00,45
+1431,Notuv - Denk Pharma,2022-06-11 09:12:38,DMO_1001000,3351,Red Cross,Metformin,2022-10-09 08:00:00,4
+1432,Notuv - Denk Pharma,2022-06-11 10:13:02,DMO_1001000,2971,Bill Gates Foundation,Metformin,2021-11-16 08:00:00,25
+1433,Notuv - Denk Pharma,2022-06-12 04:08:34,DMO_1001000,1566,WHO,Metformin,2023-04-08 08:00:00,45
+1434,Notuv - Denk Pharma,2022-06-12 07:13:29,DMO_1001000,3634,WHO,Metformin,2023-02-21 08:00:00,6
+1435,Notuv - Denk Pharma,2022-06-12 07:16:13,DMO_1001000,2603,WHO,Metformin,2022-08-28 08:00:00,126
+1436,Notuv - Denk Pharma,2022-06-12 13:42:07,DMO_1001000,4410,Red Cross,Metformin,2022-01-05 08:00:00,18
+1437,Notuv - Denk Pharma,2022-06-12 15:37:33,DMO_1001000,1752,Bill Gates Foundation,Metformin,2021-10-31 08:00:00,87
+1438,Notuv - Denk Pharma,2022-06-12 17:07:49,DMO_1001000,2900,Red Cross,Metformin,2022-12-24 08:00:00,1
+1439,Notuv - Denk Pharma,2022-06-12 19:46:06,DMO_1001000,3181,WHO,Metformin,2023-06-28 08:00:00,55
+1440,Notuv - Denk Pharma,2022-06-12 21:12:57,DMO_1001000,3452,Bill Gates Foundation,Metformin,2021-12-17 08:00:00,60
+1441,Notuv - Denk Pharma,2022-06-13 00:06:43,DMO_1001000,3060,WHO,Metformin,2021-11-28 08:00:00,123
+1442,Notuv - Denk Pharma,2022-06-13 02:48:10,DMO_1001000,4076,WHO,Metformin,2023-06-25 08:00:00,71
+1443,Notuv - Denk Pharma,2022-06-13 03:36:40,DMO_1001000,4924,Red Cross,Metformin,2021-11-06 08:00:00,1
+1444,Notuv - Denk Pharma,2022-06-13 14:20:27,DMO_1001000,1085,WHO,Metformin,2022-08-07 08:00:00,113
+1445,Notuv - Denk Pharma,2022-06-13 19:09:22,DMO_1001000,3223,WHO,Metformin,2022-06-20 08:00:00,66
+1446,Notuv - Denk Pharma,2022-06-13 20:40:09,DMO_1001000,3770,Red Cross,Metformin,2021-12-04 08:00:00,80
+1447,Notuv - Denk Pharma,2022-06-14 01:15:59,DMO_1001000,3221,Bill Gates Foundation,Metformin,2021-11-09 08:00:00,1
+1448,Notuv - Denk Pharma,2022-06-14 14:27:01,DMO_1001000,4602,Red Cross,Metformin,2023-01-01 08:00:00,1
+1449,Notuv - Denk Pharma,2022-06-14 17:37:50,DMO_1001000,4223,WHO,Metformin,2023-02-07 08:00:00,5
+1450,Notuv - Denk Pharma,2022-06-14 21:40:18,DMO_1001000,4517,Red Cross,Metformin,2022-04-26 08:00:00,79
+1451,Notuv - Denk Pharma,2022-06-14 22:18:38,DMO_1001000,2897,Red Cross,Metformin,2023-02-01 08:00:00,10
+1452,Notuv - Denk Pharma,2022-06-14 23:51:42,DMO_1001000,1391,Bill Gates Foundation,Metformin,2022-06-29 08:00:00,1
+1453,Notuv - Denk Pharma,2022-06-16 01:02:57,DMO_1001000,4555,WHO,Metformin,2023-02-05 08:00:00,94
+1454,Notuv - Denk Pharma,2022-06-17 12:28:58,DMO_1001000,1427,Bill Gates Foundation,Metformin,2022-03-08 08:00:00,56
+1455,Notuv - Denk Pharma,2022-06-17 13:39:50,DMO_1001000,3588,WHO,Metformin,2022-03-26 08:00:00,40
+1456,Notuv - Denk Pharma,2022-06-17 15:26:52,DMO_1001000,4054,Bill Gates Foundation,Metformin,2022-04-19 08:00:00,173
+1457,Notuv - Denk Pharma,2022-06-17 20:22:17,DMO_1001000,3114,Bill Gates Foundation,Metformin,2022-04-12 08:00:00,142
+1458,Notuv - Denk Pharma,2022-06-18 01:16:04,DMO_1001000,3088,Bill Gates Foundation,Metformin,2022-10-15 08:00:00,96
+1459,Notuv - Denk Pharma,2022-06-18 10:10:57,DMO_1001000,1166,Red Cross,Metformin,2022-10-21 08:00:00,7
+1460,Notuv - Denk Pharma,2022-06-18 19:37:29,DMO_1001000,1448,WHO,Metformin,2022-02-22 08:00:00,49
+1461,Notuv - Denk Pharma,2022-06-18 22:20:52,DMO_1001000,3987,Red Cross,Metformin,2021-11-29 08:00:00,85
+1462,Notuv - Denk Pharma,2022-06-19 00:37:11,DMO_1001000,1035,Red Cross,Metformin,2022-09-23 08:00:00,58
+1463,Notuv - Denk Pharma,2022-06-19 01:51:19,DMO_1001000,2416,WHO,Metformin,2022-12-25 08:00:00,1
+1464,Notuv - Denk Pharma,2022-06-19 07:06:10,DMO_1001000,2655,WHO,Metformin,2022-04-16 08:00:00,28
+1465,Notuv - Denk Pharma,2022-06-19 08:42:54,DMO_1001000,4350,WHO,Metformin,2023-01-26 08:00:00,1
+1466,Notuv - Denk Pharma,2022-06-19 10:03:15,DMO_1001000,2439,Bill Gates Foundation,Metformin,2022-03-26 08:00:00,40
+1467,Notuv - Denk Pharma,2022-06-19 11:46:35,DMO_1001000,2066,Red Cross,Metformin,2022-04-17 08:00:00,129
+1468,Notuv - Denk Pharma,2022-06-20 00:21:42,DMO_1001000,2315,WHO,Metformin,2022-05-27 08:00:00,1
+1469,Notuv - Denk Pharma,2022-06-20 01:29:20,DMO_1001000,4765,WHO,Metformin,2023-06-25 08:00:00,89
+1470,Notuv - Denk Pharma,2022-06-20 01:57:31,DMO_1001000,3513,Red Cross,Metformin,2022-12-27 08:00:00,1
+1471,Notuv - Denk Pharma,2022-06-20 07:25:31,DMO_1001000,3348,Red Cross,Metformin,2023-06-01 08:00:00,210
+1472,Notuv - Denk Pharma,2022-06-20 08:55:27,DMO_1001000,4395,WHO,Metformin,2022-10-01 08:00:00,110
+1473,Notuv - Denk Pharma,2022-06-20 10:57:06,DMO_1001000,1948,Red Cross,Metformin,2023-05-09 08:00:00,54
+1474,Notuv - Denk Pharma,2022-06-20 16:10:28,DMO_1001000,3316,Bill Gates Foundation,Metformin,2023-04-30 08:00:00,36
+1475,Notuv - Denk Pharma,2022-06-20 17:20:07,DMO_1001000,3407,WHO,Metformin,2021-12-07 08:00:00,143
+1476,Notuv - Denk Pharma,2022-06-21 06:44:43,DMO_1001000,4190,WHO,Metformin,2022-04-29 08:00:00,40
+1477,Notuv - Denk Pharma,2022-06-21 11:31:08,DMO_1001000,4711,Red Cross,Metformin,2022-03-24 08:00:00,94
+1478,Notuv - Denk Pharma,2022-06-21 12:07:51,DMO_1001000,2420,WHO,Metformin,2022-07-15 08:00:00,20
+1479,Notuv - Denk Pharma,2022-06-21 16:58:33,DMO_1001000,3701,WHO,Metformin,2022-03-13 08:00:00,10
+1480,Notuv - Denk Pharma,2022-06-21 20:49:00,DMO_1001000,4517,Red Cross,Metformin,2023-04-22 08:00:00,1
+1481,Notuv - Denk Pharma,2022-06-22 00:21:27,DMO_1001000,1506,Red Cross,Metformin,2023-04-18 08:00:00,106
+1482,Notuv - Denk Pharma,2022-06-22 19:34:51,DMO_1001000,3538,WHO,Metformin,2022-11-24 08:00:00,107
+1483,Notuv - Denk Pharma,2022-06-22 20:09:32,DMO_1001000,4356,Bill Gates Foundation,Metformin,2022-11-29 08:00:00,55
+1484,Notuv - Denk Pharma,2022-06-23 04:47:01,DMO_1001000,1627,WHO,Metformin,2023-04-01 08:00:00,169
+1485,Notuv - Denk Pharma,2022-06-23 09:57:39,DMO_1001000,1731,Red Cross,Metformin,2023-03-28 08:00:00,130
+1486,Notuv - Denk Pharma,2022-06-23 10:15:39,DMO_1001000,3249,WHO,Metformin,2023-07-15 08:00:00,1
+1487,Notuv - Denk Pharma,2022-06-23 10:32:22,DMO_1001000,2445,WHO,Metformin,2023-01-16 08:00:00,1
+1488,Notuv - Denk Pharma,2022-06-23 20:52:55,DMO_1001000,3858,Bill Gates Foundation,Metformin,2022-09-01 08:00:00,66
+1489,Notuv - Denk Pharma,2022-06-24 00:16:24,DMO_1001000,1797,Red Cross,Metformin,2023-06-23 08:00:00,43
+1490,Notuv - Denk Pharma,2022-06-24 10:09:25,DMO_1001000,2660,Bill Gates Foundation,Metformin,2022-01-23 08:00:00,37
+1491,Notuv - Denk Pharma,2022-06-25 03:08:27,DMO_1001000,3133,Bill Gates Foundation,Metformin,2022-03-12 08:00:00,57
+1492,Notuv - Denk Pharma,2022-06-26 12:23:45,DMO_1001000,2482,Bill Gates Foundation,Metformin,2023-05-27 08:00:00,1
+1493,Notuv - Denk Pharma,2022-06-26 13:41:09,DMO_1001000,3338,Bill Gates Foundation,Metformin,2022-04-22 08:00:00,73
+1494,Notuv - Denk Pharma,2022-06-27 01:59:55,DMO_1001000,2258,WHO,Metformin,2022-08-17 08:00:00,1
+1495,Notuv - Denk Pharma,2022-06-27 17:29:46,DMO_1001000,3929,Red Cross,Metformin,2022-02-04 08:00:00,6
+1496,Notuv - Denk Pharma,2022-06-28 03:25:00,DMO_1001000,1861,Red Cross,Metformin,2022-06-07 08:00:00,155
+1497,Notuv - Denk Pharma,2022-06-28 03:39:25,DMO_1001000,2832,Bill Gates Foundation,Metformin,2023-03-25 08:00:00,154
+1498,Notuv - Denk Pharma,2022-06-28 04:29:33,DMO_1001000,4562,Bill Gates Foundation,Metformin,2022-01-23 08:00:00,37
+1499,Notuv - Denk Pharma,2022-06-28 10:02:53,DMO_1001000,3285,Bill Gates Foundation,Metformin,2022-08-07 08:00:00,93
