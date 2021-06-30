@@ -12,11 +12,12 @@ class generator():
     This class takes two csv files: good in and goods out and fill it in with with synthetic data.
     '''
 
-    def __init__(self, num_records:int, scan_date_rng:tuple, scan_ref:tuple , supplier:list, exp_dates_rng:tuple, qty:tuple, 
+    def __init__(self, num_records:int, scan_date_rng:tuple, scan_date_out_rng:tuple, scan_ref:tuple , supplier:list, exp_dates_rng:tuple, qty:tuple, 
         organization=['Notuv - Denk Pharma'], scan_pnt_name_IN=['DMO_1001000'], scan_pnt_name_OUT=['DMO_1002000'],product=['Metformin']):
         
         self.num_records=num_records
         self.scan_date_rng=scan_date_rng
+        self.scan_date_out_rng=scan_date_out_rng
         self.scan_ref=scan_ref
         self.supplier=supplier
         self.exp_dates_rng=exp_dates_rng
@@ -37,19 +38,23 @@ class generator():
             'Product', 'Expiration Date', 'Quantity']
         self.headers_out=self.headers_in.copy()
         self.headers_out.append('Goods wasted')
-        self.headers_inventory=['Scan Reference', 'qty', 'qty_wasted', 'qty_new']
+        self.headers_inventory=['Organisation', 'date_IN','Scan Reference', 'qty', 'qty_wasted', 'qty_new']
 
         self.pd_goods_in=pd.DataFrame(columns=self.headers_in)
         self.pd_goods_out=pd.DataFrame(columns=self.headers_out)
         self.pd_inventory=pd.DataFrame(columns=self.pd_inventory)
         return
 
-    def compute_dateList(self, days_between_dates):
+    def compute_dateList(self, days_between_dates, mode='IN'):
         dates_list=[]
+        if mode=='IN':
+            initial_date=self.scan_date_rng[0]
+        else:
+            initial_date=self.scan_date_out_rng[0]
         for i in range(self.num_records):
             random_second = random.randrange(86400)
             random_day = random.randrange(days_between_dates)
-            dates_list.append(self.scan_date_rng[0] + timedelta(seconds=random_second)+timedelta(days=random_day))
+            dates_list.append(initial_date + timedelta(seconds=random_second)+timedelta(days=random_day))
 
         dates_list.sort()
         return dates_list
@@ -64,10 +69,10 @@ class generator():
         if mode=='IN':
             time_between_dates = self.scan_date_rng[1] - self.scan_date_rng[0]
         else:
-            time_between_dates = self.scan_date_rng[1] - (self.scan_date_rng[0]+timedelta(days=7))
+            time_between_dates = self.scan_date_out_rng[1] - self.scan_date_out_rng[0]
         days_between_dates = time_between_dates.days
         
-        dates_list=self.compute_dateList(days_between_dates)
+        dates_list=self.compute_dateList(days_between_dates, mode)
         if mode=='IN':
             self.pd_goods_in['Scan Date']=pd.Series(dates_list)
         else:
@@ -96,40 +101,16 @@ class generator():
         self.pd_goods_in['Product']=pd.Series(product_list)
         return
 
-    def fill_in_static_vars_OUT(self):
-        '''
-        This will fill in static vars: organization, scan point name
-        '''
-        organisation_list=[]
-        scan_ptn_list=[]
-
-        for i in range(self.num_records):
-            organisation_list.append(random.choice(self.organization))
-            scan_ptn_list.append(random.choice(self.scan_pnt_name_OUT))
-           
-        self.pd_goods_out['Organisation']=pd.Series(organisation_list)
-        self.pd_goods_out['Scan Point Name']=pd.Series(scan_ptn_list)
-        return
-
     def fill_in_scan_refs_IN(self):
         '''
         for scan dates according to given scan_ref range
         '''
-        scan_refs_list=list(np.random.randint(self.scan_ref[0], self.scan_ref[1], self.num_records))
+        x=np.array(list(range(self.scan_ref[0], self.scan_ref[1])))
+        np.random.shuffle(x)
+        scan_refs_list=list(x[0:self.num_records])
 
         self.pd_goods_in['Scan Reference']=pd.Series(scan_refs_list)
         
-        return
-
-    def fill_in_supplier(self):
-        '''
-        for supplier names. It is done randomly
-        '''
-
-    def fill_in_products(self):
-        '''
-        for product it could be many products according to input. It creates dict: product:qty for assertion
-        '''
         return
 
     def fill_in_exp_date_IN(self):
@@ -161,59 +142,116 @@ class generator():
         '''
         plot time vs qty for either IN or OUT
         '''
-        if mode=='IN':
-            pd_dataframe=self.pd_goods_in
-        else:
-            pd_dataframe=self.pd_goods_out
 
-        time=pd_dataframe['Scan Date'].to_numpy()
-        qty_cumsum=pd_dataframe['Quantity'].cumsum().to_numpy()
-        qty_per_date=pd_dataframe['Quantity'].to_numpy()
+        time_IN=self.pd_goods_in['Scan Date'].to_numpy()
+        qty_cumsum_IN=self.pd_goods_in['Quantity'].cumsum().to_numpy()
+        qty_per_date_IN=self.pd_goods_in['Quantity'].to_numpy()
+
+        time_OUT=self.pd_goods_out['Scan Date'].to_numpy()
+        qty_cumsum_OUT=self.pd_goods_out['Quantity'].cumsum().to_numpy()
+        qty_per_date_OUT=self.pd_goods_out['Quantity'].to_numpy()
+
         
-        plt.plot(time,qty_cumsum)
+        plt.plot(time_IN,qty_cumsum_IN, label='goods IN')
+        plt.plot(time_OUT,qty_cumsum_OUT, label='goods OUT')
         plt.title('Cumulative Sum')
         plt.show()
         
-        plt.plot(time,qty_per_date)
+
+        plt.plot(time_IN,qty_per_date_IN , label='goods IN')
+        plt.plot(time_OUT,qty_per_date_OUT, label='goods OUT')
         plt.title('Goods vs time')
         plt.show()
         return
 
     def update_inventory_expired(self, date):
-        self.pd_inventory[self.pd_inventory['Expiration Date']<=date]['qty_wasted']=self.pd_inventory['qty']
-        self.pd_inventory[self.pd_inventory['Expiration Date']<=date]['qty']=0
+        temp_frame=self.pd_inventory
+        self.pd_inventory.loc[self.pd_inventory['Expiration Date']<=date,'qty_wasted']=temp_frame['qty']
+        self.pd_inventory.loc[self.pd_inventory['Expiration Date']<=date, 'qty']=0
         return
 
     def fill_in_goods_OUT(self):
         '''
         last step where it checks pd_goods_in for scan ref and expiration date. Make update step to pd_inventory
         '''
+        scan_reference=[]
+        supplier_names=[]
+        products=[]
+        exp_dates=[]
+        qty_list=[]
+        goods_wasted=[]
+        organisation_list=[]
+        scan_ptn_list=[]
+
         for idx, row in self.pd_goods_out.iterrows():
             self.update_inventory_expired(row['Scan Date'])
             for i in range(len(self.pd_inventory['Scan Reference'])):
                 rand_id=int(random.choice(list(self.pd_inventory['Scan Reference'].to_numpy())))
-                x=self.pd_inventory[self.pd_inventory['Scan Reference']==rand_id]['qty']
-                print(x)
-                print(x.to_numpy())
-                print(self.pd_inventory[self.pd_inventory['Scan Reference']==rand_id])
-                if self.pd_inventory[self.pd_inventory['Scan Reference']==rand_id]['qty']>=1:
-                    rnd_qty=random.randint(1, self.pd_inventory[self.pd_inventory['Scan Reference']==rand_id]['qty'])
-                    self.pd_inventory[self.pd_inventory['Scan Reference']==rand_id]['qty']-=rnd_qty
-                    self.pd_goods_out['Scan Reference']=pd.Series(self.pd_inventory[self.pd_inventory['Scan Reference']==rand_id]['Scan Reference'])
-                    self.pd_goods_out['Supplier Name']=pd.Series(self.pd_inventory[self.pd_inventory['Scan Reference']==rand_id]['Supplier Name'])
-                    self.pd_goods_out['Scan Reference']=pd.Series(self.pd_inventory[self.pd_inventory['Scan Reference']==rand_id]['Product'])
-                    self.pd_goods_out['Expiration Date']=pd.Series(self.pd_inventory[self.pd_inventory['Scan Reference']==rand_id]['Expiration Date'])
-                    self.pd_goods_out['Quantity']=pd.Series(self.pd_inventory[self.pd_inventory['Scan Reference']==rand_id]['Quantity'])
-                    self.pd_goods_out['Goods wasted']=pd.Series('N')
+                qty=int(self.pd_inventory[self.pd_inventory['Scan Reference']==rand_id]['qty'].to_numpy())
+                date_IN=self.pd_inventory[self.pd_inventory['Scan Reference']==rand_id]['date_IN'].head().to_list()[0]
+                
+                if qty>=1 and date_IN<row['Scan Date']:
+                    rnd_qty=random.randint(1, qty)
+                    scan_reference.append(int(self.pd_inventory[self.pd_inventory['Scan Reference']==rand_id]['Scan Reference'].to_numpy()))
+                    supplier_names.append(str(self.pd_inventory[self.pd_inventory['Scan Reference']==rand_id]['Supplier Name'].to_numpy()[0]))
+                    products.append(str(self.pd_inventory[self.pd_inventory['Scan Reference']==rand_id]['Product'].to_numpy()[0]))
+                    exp_dates.append(str(self.pd_inventory[self.pd_inventory['Scan Reference']==rand_id]['Expiration Date'].head().to_list()[0]))
+                    qty_list.append(int(rnd_qty))
+                    goods_wasted.append('N')
+                    organisation_list.append(str(self.pd_inventory[self.pd_inventory['Scan Reference']==rand_id]['Organisation'].to_numpy()[0]))
+                    scan_ptn_list.append(self.scan_pnt_name_OUT[0])
+                    self.pd_inventory.loc[self.pd_inventory['Scan Reference']==rand_id,'qty']=qty-rnd_qty
+                    break
+        self.pd_goods_out['Scan Reference']=pd.Series(scan_reference)
+        self.pd_goods_out['Supplier Name']=pd.Series(supplier_names)
+        self.pd_goods_out['Product']=pd.Series(products)
+        self.pd_goods_out['Expiration Date']=pd.Series(exp_dates)
+        self.pd_goods_out['Quantity']=pd.Series(qty_list)
+        self.pd_goods_out['Goods wasted']=pd.Series(goods_wasted)
+        self.pd_goods_out['Organisation']=pd.Series(organisation_list)
+        self.pd_goods_out['Scan Point Name']=pd.Series(scan_ptn_list)
         return
     
     def fill_in_already_expired_to_OUT(self):
         '''
         Adds expired medicines to pd OUT and put them as scan out
         '''
-        self.pd_goods_out= self.pd_goods_in
-        self.pd_goods_out['Scan Date']=pd.Series(self.pd_goods_out['Expiration Date'])
-        self.pd_goods_out['Goods wasted']='Y'
+        scan_reference=[]
+        supplier_names=[]
+        products=[]
+        exp_dates=[]
+        qty_list=[]
+        goods_wasted=[]
+        organisation_list=[]
+        scan_ptn_list=[]
+        scan_date=[]
+        pd_temp=pd.DataFrame(columns=self.headers_out)
+        for idx, row in self.pd_inventory.iterrows():
+            if row['qty']!=0:
+                scan_reference.append(int(row['Scan Reference']))
+                supplier_names.append(row['Supplier Name'])
+                products.append(row['Product'])
+                exp_dates.append(row['Expiration Date'])
+                scan_date.append(row['Expiration Date'])
+                qty_list.append(row['qty'])
+                goods_wasted.append('Y')
+                organisation_list.append(row['Organisation'])
+                scan_ptn_list.append(self.scan_pnt_name_OUT[0])
+                
+        pd_temp['Scan Reference']=pd.Series(scan_reference)
+        pd_temp['Supplier Name']=pd.Series(supplier_names)
+        pd_temp['Product']=pd.Series(products)
+        pd_temp['Expiration Date']=pd.Series(exp_dates)
+        pd_temp['Quantity']=pd.Series(qty_list)
+        pd_temp['Goods wasted']=pd.Series(goods_wasted)
+        pd_temp['Organisation']=pd.Series(organisation_list)
+        pd_temp['Scan Point Name']=pd.Series(scan_ptn_list)
+        pd_temp['Scan Date']=pd.Series(scan_date)
+
+        self.pd_goods_out=self.pd_goods_out.append(pd_temp, ignore_index=True)
+        self.pd_goods_out=self.pd_goods_out.sort_values(by='Scan Date')
+        self.pd_goods_out.reset_index(inplace=True)
+        del self.pd_goods_out['index']
         return
 
     def compute_pd_inventory(self):
@@ -221,10 +259,14 @@ class generator():
         we use the third dataframe to keep track of the actual stock per day per product
         '''
         #['Scan Reference', 'qty_wasted', 'qty_new']
+        self.pd_inventory['date_IN']=self.pd_goods_in['Scan Date']
         self.pd_inventory['Scan Reference']=self.pd_goods_in['Scan Reference']
         self.pd_inventory['qty']=self.pd_goods_in['Quantity']
         self.pd_inventory['qty_wasted']=0
         self.pd_inventory['Expiration Date']=self.pd_goods_in['Expiration Date']
+        self.pd_inventory['Supplier Name']=self.pd_goods_in['Supplier Name']
+        self.pd_inventory['Product']=self.pd_goods_in['Product']
+        self.pd_inventory['Organisation']=self.pd_goods_in['Organisation']
         return
 
     def run_pipeline(self):
@@ -237,16 +279,17 @@ class generator():
         self.fill_in_scan_refs_IN()
         self.fill_in_exp_date_IN()
         self.fill_in_qty_IN()
+        self.pd_goods_in.to_csv('./goods_IN.csv', sep=',')
 
         self.compute_pd_inventory() #call here once we have scan_dates OUT
 
-        #self.fill_in_already_expired_to_OUT()
+        
         self.fill_in_scan_dates(mode='OUT')
         self.fill_in_goods_OUT()
-        self.fill_in_static_vars_OUT()
+        self.fill_in_already_expired_to_OUT()
         self.pd_goods_out.to_csv('./goods_OUT.csv', sep=',')
         
 
-        #self.plot_timeQty(mode='IN')
+        self.plot_timeQty(mode='IN')
 
 
