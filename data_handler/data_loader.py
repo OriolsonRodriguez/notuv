@@ -109,4 +109,4 @@ class CSVDataset(ABC):
         data_dict['features'] = self.data.iloc[index]
         data_dict['target'] = self.targets.iloc[index]
 
-        return self.transforms(data_dict)
+        return data_dict
