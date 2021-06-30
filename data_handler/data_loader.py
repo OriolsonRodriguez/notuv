@@ -3,110 +3,64 @@ import pandas as pd
 import os.path
 from abc import ABC, abstractmethod
 
+class CSVLoader:
 
-class DataLoader:
-    """
-    Dataloader Class
-    Defines an iterable batch-sampler over a given dataset
-    """
+    def __init__(self,adress_in,adress_out):
+        self.dataset_in=pd.read_csv(adress_in)
+        self.dataset_out=pd.read_csv(adress_out)
 
-    def __init__(self, dataset, batch_size=1, shuffle=False, drop_last=False):
-        """
-        :param dataset: dataset from which to load the data
-        :param batch_size: how many samples per batch to load
-        :param shuffle: set to True to have the data reshuffled at every epoch
-        :param drop_last: set to True to drop the last incomplete batch,
-            if the dataset size is not divisible by the batch size.
-            If False and the size of dataset is not divisible by the batch
-            size, then the last batch will be smaller.
-        """
-        self.dataset = dataset
-        self.batch_size = batch_size
-        self.shuffle = shuffle
-        self.drop_last = drop_last
+        ##Deleting rows containing NaNs or empty spaces
 
-    def __iter__(self):
-        def combine_batch_dicts(batch):
-            """
-            Combines a given batch (list of dicts) to a dict of numpy arrays
-            :param batch: batch, list of dicts
-                e.g. [{k1: v1, k2: v2, ...}, {k1:, v3, k2: v4, ...}, ...]
-            :returns: dict of numpy arrays
-                e.g. {k1: [v1, v3, ...], k2: [v2, v4, ...], ...}
-            """
-            batch_dict = {}
-            for data_dict in batch:
-                for key, value in data_dict.items():
-                    if key not in batch_dict:
-                        batch_dict[key] = []
-                    batch_dict[key].append(value)
-            return batch_dict
+        self.dataset_in.dropna(inplace=True)
+        self.dataset_out.dropna(inplace=True)
 
-        def batch_to_numpy(batch):
-            """Transform all values of the given batch dict to numpy arrays"""
-            numpy_batch = {}
-            for key, value in batch.items():
-                numpy_batch[key] = np.array(value)
-            return numpy_batch
+        #Sorting by date
 
-        if self.shuffle:
-            index_iterator = iter(np.random.permutation(len(self.dataset)))
-        else:
-            index_iterator = iter(range(len(self.dataset)))
-
-        batch = []
-        for index in index_iterator:
-            batch.append(self.dataset[index])
-            if len(batch) == self.batch_size:
-                yield batch_to_numpy(combine_batch_dicts(batch))
-                batch = []
-
-        if len(batch) > 0 and not self.drop_last:
-            yield batch_to_numpy(combine_batch_dicts(batch))
+        self.dataset_out.sort_values(by="Scan Date")
+        self.dataset_in.sort_values(by="Scan Date")
 
 
-    def __len__(self):
-        length = None
-        if self.drop_last:
-            length = len(self.dataset) // self.batch_size
-        else:
-            length = int(np.ceil(len(self.dataset) / self.batch_size))
 
-        return length
+    def compute_stocks_out(self,organisation,product):
+        """compute for each day the number of goods out + padding for the empty days and sort by day
+        the output is a list, stocks[i] correspond au stock reçu au jour min_date + i"""
 
-class CSVDataset(ABC):
-    """
-    CSVDataset class.
-    Provide access to the Boston Housing Prices dataset.
-    """
+        data_sample = self.dataset_out[self.dataset_out['Organisation']==organisation]
+        product_data=data_sample[data_sample['Product']==product]
+        #other_products_data=data_sample[data_sample['Product']!=product]
 
-    def __init__(
-            self,
-            name_prefix,
-            *args,
-            **kwargs):
-        super().__init__(*args, **kwargs)
+        product_data['Scan Date']=pd.to_datetime(product_data['Scan Date'])
 
-        # The name of the .csv dataset file should be the same as the name
-        # of the archive, but with a different extension.
-        dataset_csv_name = name_prefix + '.csv'
-        data_path = os.path.join(self.root_path, dataset_csv_name)
-        self.df = pd.read_csv(data_path)
+        max_date=product_data['Scan Date'].max()
+        min_date=product_data['Scan Date'].min()
+        length=(max_date-min_date).days + 1
+        #.days round to the lower int
 
-    def __len__(self):
-        return len(self.data)
+        #stocks[i] correspond au stock reçu au jour min_date + i
+        stocks = [0]*length
+        for i in range(len(product_data)):
+            stocks[(product_data.loc[i,'Scan Date']-min_date).days] += product_data.loc[i,'Quantity']
+        
+        return stocks, max_date, min_date
+    
+    def compute_stocks_in(self,organisation,product):
+        """compute for each day the number of goods out + padding for the empty days and sort by day
+        the output is a list, stocks[i] correspond au stock reçu au jour min_date + i"""
 
-    def __getitem__(self, index):
-        """
-        Create a dict of the data at the given index in your dataset.
+        data_sample = self.dataset_in[self.dataset_in['Organisation']==organisation]
+        product_data=data_sample[data_sample['Product']==product]
+        #other_products_data=data_sample[data_sample['Product']!=product]
 
-        The dict should have the following format:
-        { "features" : <i-th row of the dataframe (except TARGET_COLUMN)>,
-             "label" : <value of TARGET_COLUMN for i-th row> }
-        """
+        product_data['Scan Date']=pd.to_datetime(product_data['Scan Date'])
 
-        data_dict = {}
-        data_dict['features'] = self.data.iloc[index]
-        data_dict['target'] = self.targets.iloc[index]
+        max_date=product_data['Scan Date'].max()
+        min_date=product_data['Scan Date'].min()
+        length=(max_date-min_date).days + 1
+        #.days round to the lower int
 
-        return data_dict
+        #stocks[i] correspond au stock reçu au jour min_date + i
+        stocks = [0]*length
+        for i in range(len(product_data)):
+            stocks[(product_data.loc[i,'Scan Date']-min_date).days] += product_data.loc[i,'Quantity']
+        
+        return stocks, max_date, min_date
